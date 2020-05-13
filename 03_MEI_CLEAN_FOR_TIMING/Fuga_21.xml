@@ -1,0 +1,3332 @@
+<mei xmlns="http://www.music-encoding.org/ns/mei" xmlns:xlink="http://www.w3.org/1999/xlink" meiversion="3.0.0">
+   
+   <mei:meiHead xmlns:mei="http://www.music-encoding.org/ns/mei">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Atalanta Fugiens, music for Emblem 21</title>
+            
+            <respStmt>
+               
+               <persName>Robin Bier</persName>
+               
+               <persName>Patrick Rashleigh</persName>
+               </respStmt>
+            </titleStmt>
+         
+         <pubStmt>
+            
+            <availability>
+               
+               <useRestrict>Released under an open source license ...</useRestrict>
+               </availability>
+            </pubStmt>
+         </fileDesc>
+      
+      <encodingDesc></encodingDesc>
+      
+      <workDesc>
+         
+         <work>
+            
+            <titleStmt>
+               
+               <title></title>
+               
+               <respStmt></respStmt>
+               </titleStmt>
+            </work>
+         </workDesc>
+      </mei:meiHead>
+   
+   <music>
+      
+      <body>
+         
+         <mdiv>
+            
+            <score>
+               
+               <scoreDef meter.count="4" meter.unit="2" music.name="Opus Std" ppq="256">
+                  
+                  <staffGrp>
+                     
+                     <staffGrp n="1" symbol="bracket">
+                        
+                        <staffDef clef.line="2" clef.shape="G" key.mode="major" key.sig="1f" label="Hippom sequens." lines="5" n="1"></staffDef>
+                        
+                        <staffDef clef.line="2" clef.shape="G" key.mode="major" key.sig="1f" label="Atalanta fugiens." lines="5" n="2"></staffDef>
+                        
+                        <staffDef clef.line="2" clef.shape="G" key.mode="major" key.sig="1f" label="Pomum morans" lines="5" n="3" clef.dis="8" clef.dis.place="below"></staffDef>
+                        </staffGrp>
+                     </staffGrp>
+                  </scoreDef>
+               
+               <section>
+                  
+                  <sb xml:id="e21-m-40"></sb>
+                  
+                  <measure xml:id="e21-m-60" label="1" n="1">
+                     
+                     <staff xml:id="e21-m-61" n="1">
+                        
+                        <layer xml:id="e21-m-62" n="1">
+                           
+                           <rest xml:id="e21-m-63" dur="1"></rest>
+                           
+                           <rest xml:id="e21-m-64" dur="2"></rest>
+                           
+                           <note xml:id="e21-m-65" dur="2" oct="5" pname="d" pnum="74">
+                              
+                              <verse xml:id="e21-m-103" n="1">
+                                 
+                                 <syl xml:id="e21-m-104" con="d" wordpos="i">Foe</syl>
+                                 </verse>
+                              </note>
+                           </layer>
+                        </staff>
+                     
+                     <staff xml:id="e21-m-66" n="2">
+                        
+                        <layer xml:id="e21-m-67" n="1">
+                           
+                           <rest xml:id="e21-m-68" dur="2"></rest>
+                           
+                           <note xml:id="e21-m-69" dur="2" oct="4" pname="a" pnum="69">
+                              
+                              <verse xml:id="e21-m-75" n="1">
+                                 
+                                 <syl xml:id="e21-m-76" con="d" wordpos="i">Foe</syl>
+                                 </verse>
+                              </note>
+                           
+                           <note xml:id="e21-m-70" dur="4" oct="4" pname="b" pnum="71">
+                              
+                              <verse xml:id="e21-m-77" n="1">
+                                 
+                                 <syl xml:id="e21-m-78" con="d" wordpos="m">mi</syl>
+                                 </verse>
+                              </note>
+                           
+                           <note xml:id="e21-m-72" dur="2" oct="5" pname="c" pnum="72">
+                              
+                              <verse xml:id="e21-m-79" n="1">
+                                 
+                                 <syl xml:id="e21-m-80" wordpos="t">na</syl>
+                                 </verse>
+                              </note>
+                           
+                           <note xml:id="e21-m-73" dur="4" oct="4" pname="b" pnum="71">
+                              
+                              <verse xml:id="e21-m-123" n="1">
+                                 
+                                 <syl xml:id="e21-m-124" con="d" wordpos="i">má</syl>
+                                 </verse>
+                              </note>
+                           </layer>
+                        </staff>
+                     
+                     <staff xml:id="e21-m-81" n="3">
+                        
+                        <layer xml:id="e21-m-82" n="1">
+                           
+                           <note xml:id="e21-m-83" dur="1" oct="4" pname="d" pnum="62">
+                              
+                              <verse xml:id="e21-m-86" n="1">
+                                 
+                                 <syl xml:id="e21-m-87" con="d" wordpos="i">Foe</syl>
+                                 </verse>
+                              </note>
+                           
+                           <note xml:id="e21-m-84" dur="2" oct="4" pname="d" pnum="62">
+                              
+                              <verse xml:id="e21-m-88" n="1">
+                                 
+                                 <syl xml:id="e21-m-89" con="d" wordpos="m">mi</syl>
+                                 </verse>
+                              </note>
+                           
+                           <note xml:id="e21-m-85" dur="2" oct="4" pname="d" pnum="62">
+                              
+                              <verse xml:id="e21-m-90" n="1">
+                                 
+                                 <syl xml:id="e21-m-91" wordpos="t">na</syl>
+                                 </verse>
+                              </note>
+                           </layer>
+                        </staff>
+                     </measure>
+                  
+                  <measure xml:id="e21-m-92" n="2">
+                     
+                     <staff xml:id="e21-m-93" n="1">
+                        
+                        <layer xml:id="e21-m-94" n="1">
+                           
+                           <note xml:id="e21-m-95" dur="4" oct="5" pname="e" pnum="77">
+                              
+                              <accid xml:id="e21-m-96" accid="s"></accid>
+                              
+                              <verse xml:id="e21-m-105" n="1">
+                                 
+                                 <syl xml:id="e21-m-106" con="d" wordpos="m">mi</syl>
+                                 </verse>
+                              </note>
+                           
+                           <note xml:id="e21-m-97" dur="2" oct="5" pname="f" pnum="77">
+                              
+                              <verse xml:id="e21-m-107" n="1">
+                                 
+                                 <syl xml:id="e21-m-108" wordpos="t">na</syl>
+                                 </verse>
+                              </note>
+                           
+                           <note xml:id="e21-m-98" dur="4" oct="5" pname="e" pnum="77">
+                              
+                              <accid xml:id="e21-m-99" accid.ges="s"></accid>
+                              
+                              <verse xml:id="e21-m-109" n="1">
+                                 
+                                 <syl xml:id="e21-m-110" con="d" wordpos="i">má</syl>
+                                 </verse>
+                              </note>
+                           
+                           <note xml:id="e21-m-100" dur="4" oct="5" pname="f" pnum="77"></note>
+                           
+                           <note xml:id="e21-m-101" dur="4" oct="5" pname="g" pnum="79"></note>
+                           
+                           <note xml:id="e21-m-102" dur="2" oct="5" pname="f" pnum="77">
+                              
+                              <verse xml:id="e21-m-111" n="1">
+                                 
+                                 <syl xml:id="e21-m-112" con="u" wordpos="t">sque</syl>
+                                 </verse>
+                              </note>
+                           </layer>
+                        </staff>
+                     
+                     <staff xml:id="e21-m-113" n="2">
+                        
+                        <layer xml:id="e21-m-114" n="1">
+                           
+                           <note xml:id="e21-m-115" dur="4" oct="5" pname="c" pnum="72"></note>
+                           
+                           <note xml:id="e21-m-116" dur="4" oct="5" pname="d" pnum="74"></note>
+                           
+                           <note xml:id="e21-m-117" dots="1" dur="2" oct="5" pname="c" pnum="72">
+                              
+                              <verse xml:id="e21-m-125" n="1">
+                                 
+                                 <syl xml:id="e21-m-126" con="u" wordpos="t">sque</syl>
+                                 </verse>
+                              </note>
+                           
+                           <note xml:id="e21-m-118" dur="4" oct="4" pname="b" pnum="70">
+                              
+                              <accid xml:id="e21-m-119" accid.ges="f"></accid>
+                              </note>
+                           
+                           <note xml:id="e21-m-120" dur="2" oct="4" pname="b" pnum="70">
+                              <!-- DELETED -->
+                              <!--
+        
+        this-pitch= 70 
+        last-pitch= 70
+        this-acc= f
+        last-acc= f-->
+                              
+                              <verse xml:id="e21-m-155" n="1">
+                                 
+                                 <syl xml:id="e21-m-156" con="d" wordpos="i">u</syl>
+                                 </verse>
+                              </note>
+                           </layer>
+                        </staff>
+                     
+                     <staff xml:id="e21-m-127" n="3">
+                        
+                        <layer xml:id="e21-m-128" n="1">
+                           
+                           <note xml:id="e21-m-129" dur="1" oct="4" pname="c" pnum="60">
+                              
+                              <verse xml:id="e21-m-132" n="1">
+                                 
+                                 <syl xml:id="e21-m-133" con="d" wordpos="i">má</syl>
+                                 </verse>
+                              </note>
+                           
+                           <note xml:id="e21-m-130" dur="2" oct="4" pname="d" pnum="62">
+                              
+                              <verse xml:id="e21-m-134" n="1">
+                                 
+                                 <syl xml:id="e21-m-135" wordpos="t">sque</syl>
+                                 </verse>
+                              </note>
+                           
+                           <note xml:id="e21-m-131" dur="2" oct="4" pname="d" pnum="62">
+                              
+                              <verse xml:id="e21-m-168" n="1">
+                                 
+                                 <syl xml:id="e21-m-169" con="d" wordpos="i">u</syl>
+                                 </verse>
+                              </note>
+                           </layer>
+                        </staff>
+                     
+                     <tie xml:id="e21-m-122" endid="#m-149" startid="#m-120"></tie>
+                     
+                     <tie xmlns:mei="http://www.music-encoding.org/ns/mei" startid="#e21-m-102" endid="#e21-m-139"></tie>
+                     
+                     <tie xmlns:mei="http://www.music-encoding.org/ns/mei" startid="#e21-m-120" endid="#e21-m-149"></tie>
+                     </measure>
+                  
+                  <measure xml:id="e21-m-136" n="3">
+                     
+                     <staff xml:id="e21-m-137" n="1">
+                        
+                        <layer xml:id="e21-m-138" n="1">
+                           
+                           <note xmlns:mei="http://www.music-encoding.org/ns/mei" xml:id="e21-m-139" dur="4" oct="5" pname="f" pnum="77"></note>
+                           
+                           <note xml:id="e21-m-140" dur="4" oct="5" pname="e" pnum="76"></note>
+                           
+                           <note xml:id="e21-m-141" dur="1" oct="5" pname="e" pnum="76">
+                              
+                              <verse xml:id="e21-m-143" n="1">
+                                 
+                                 <syl xml:id="e21-m-144" con="d" wordpos="i">u</syl>
+                                 </verse>
+                              </note>
+                           
+                           <note xml:id="e21-m-142" dur="2" oct="5" pname="d" pnum="74">
+                              
+                              <verse xml:id="e21-m-145" n="1">
+                                 
+                                 <syl xml:id="e21-m-146" wordpos="t">nus</syl>
+                                 </verse>
+                              </note>
+                           </layer>
+                        </staff>
+                     
+                     <staff xml:id="e21-m-147" n="2">
+                        
+                        <layer xml:id="e21-m-148" n="1">
+                           
+                           <note xmlns:mei="http://www.music-encoding.org/ns/mei" xml:id="e21-m-149" dur="2" oct="4" pname="b" pnum="70">
+                              
+                              <accid xml:id="e21-m-150" accid.ges="f"></accid>
+                              </note>
+                           
+                           <note xml:id="e21-m-151" dur="2" oct="4" pname="a" pnum="69">
+                              
+                              <verse xml:id="e21-m-157" n="1">
+                                 
+                                 <syl xml:id="e21-m-158" wordpos="t">nus</syl>
+                                 </verse>
+                              </note>
+                           
+                           <note xml:id="e21-m-152" dur="2" oct="4" pname="b" pnum="70">
+                              
+                              <accid xml:id="e21-m-153" accid.ges="f"></accid>
+                              
+                              <verse xml:id="e21-m-159" n="1">
+                                 
+                                 <syl xml:id="e21-m-160" con="d" wordpos="i">fi</syl>
+                                 </verse>
+                              </note>
+                           
+                           <note xml:id="e21-m-154" dur="2" oct="4" pname="g" pnum="67">
+                              
+                              <verse xml:id="e21-m-161" n="1">
+                                 
+                                 <syl xml:id="e21-m-162" wordpos="t">ant</syl>
+                                 </verse>
+                              </note>
+                           </layer>
+                        </staff>
+                     
+                     <staff xml:id="e21-m-163" n="3">
+                        
+                        <layer xml:id="e21-m-164" n="1">
+                           
+                           <note xml:id="e21-m-165" dur="1" oct="4" pname="c" pnum="60">
+                              
+                              <verse xml:id="e21-m-170" n="1">
+                                 
+                                 <syl xml:id="e21-m-171" wordpos="t">nus</syl>
+                                 </verse>
+                              </note>
+                           
+                           <note xml:id="e21-m-166" dur="1" oct="3" pname="b" pnum="58">
+                              
+                              <accid xml:id="e21-m-167" accid.ges="f"></accid>
+                              
+                              <verse xml:id="e21-m-200" n="1">
+                                 
+                                 <syl xml:id="e21-m-201" con="d" wordpos="i">fi</syl>
+                                 </verse>
+                              </note>
+                           </layer>
+                        </staff>
+                     </measure>
+                  
+                  <sb xml:id="e21-m-173"></sb>
+                  
+                  <measure xml:id="e21-m-172" n="4">
+                     
+                     <staff xml:id="e21-m-174" n="1">
+                        
+                        <layer xml:id="e21-m-175" n="1">
+                           
+                           <note xml:id="e21-m-176" dur="2" oct="5" pname="e" pnum="76">
+                              
+                              <verse xml:id="e21-m-180" n="1">
+                                 
+                                 <syl xml:id="e21-m-181" con="d" wordpos="i">fi</syl>
+                                 </verse>
+                              </note>
+                           
+                           <note xml:id="e21-m-177" dur="2" oct="5" pname="c" pnum="72">
+                              
+                              <verse xml:id="e21-m-182" n="1">
+                                 
+                                 <syl xml:id="e21-m-183" wordpos="t">ant</syl>
+                                 </verse>
+                              </note>
+                           
+                           <rest xml:id="e21-m-178" dur="2"></rest>
+                           
+                           <note xml:id="e21-m-179" dur="2" oct="4" pname="a" pnum="69">
+                              
+                              <verse xml:id="e21-m-220" n="1">
+                                 
+                                 <syl xml:id="e21-m-221" con="d" wordpos="i">ti</syl>
+                                 </verse>
+                              </note>
+                           </layer>
+                        </staff>
+                     
+                     <staff xml:id="e21-m-184" n="2">
+                        
+                        <layer xml:id="e21-m-185" n="1">
+                           
+                           <rest xml:id="e21-m-186" dur="2"></rest>
+                           
+                           <note xml:id="e21-m-187" dur="2" oct="4" pname="e" pnum="64">
+                              
+                              <verse xml:id="e21-m-191" n="1">
+                                 
+                                 <syl xml:id="e21-m-192" con="d" wordpos="i">ti</syl>
+                                 </verse>
+                              </note>
+                           
+                           <note xml:id="e21-m-188" dur="4" oct="4" pname="f" pnum="65">
+                              
+                              <verse xml:id="e21-m-193" n="1">
+                                 
+                                 <syl xml:id="e21-m-194" con="u" wordpos="t">bi</syl>
+                                 </verse>
+                              </note>
+                           
+                           <note xml:id="e21-m-189" dur="4" oct="4" pname="g" pnum="67"></note>
+                           
+                           <note xml:id="e21-m-190" dur="2" oct="4" pname="a" pnum="69">
+                              
+                              <verse xml:id="e21-m-242" n="1">
+                                 
+                                 <syl xml:id="e21-m-243" con="d" wordpos="i">cir</syl>
+                                 </verse>
+                              </note>
+                           </layer>
+                        </staff>
+                     
+                     <staff xml:id="e21-m-195" n="3">
+                        
+                        <layer xml:id="e21-m-196" n="1">
+                           
+                           <note xml:id="e21-m-197" dur="1" oct="4" pname="c" pnum="60">
+                              
+                              <verse xml:id="e21-m-202" n="1">
+                                 
+                                 <syl xml:id="e21-m-203" wordpos="t">ant</syl>
+                                 </verse>
+                              </note>
+                           
+                           <note xml:id="e21-m-198" dur="2" oct="4" pname="d" pnum="62">
+                              
+                              <verse xml:id="e21-m-204" n="1">
+                                 
+                                 <syl xml:id="e21-m-205" con="d" wordpos="i">ti</syl>
+                                 </verse>
+                              </note>
+                           
+                           <note xml:id="e21-m-199" dur="2" oct="4" pname="d" pnum="62">
+                              
+                              <verse xml:id="e21-m-206" n="1">
+                                 
+                                 <syl xml:id="e21-m-207" wordpos="t">bi</syl>
+                                 </verse>
+                              </note>
+                           </layer>
+                        </staff>
+                     
+                     <tie xmlns:mei="http://www.music-encoding.org/ns/mei" startid="#e21-m-190" endid="#e21-m-234"></tie>
+                     </measure>
+                  
+                  <measure xml:id="e21-m-208" n="5">
+                     
+                     <staff xml:id="e21-m-209" n="1">
+                        
+                        <layer xml:id="e21-m-210" n="1">
+                           
+                           <note xml:id="e21-m-211" dur="4" oct="4" pname="b" pnum="70">
+                              
+                              <accid xml:id="e21-m-212" accid.ges="f"></accid>
+                              
+                              <verse xml:id="e21-m-222" n="1">
+                                 
+                                 <syl xml:id="e21-m-223" con="u" wordpos="t">bi</syl>
+                                 </verse>
+                              </note>
+                           
+                           <note xml:id="e21-m-213" dur="4" oct="5" pname="c" pnum="72"></note>
+                           
+                           <note xml:id="e21-m-214" dots="1" dur="2" oct="5" pname="d" pnum="74">
+                              
+                              <verse xml:id="e21-m-224" n="1">
+                                 
+                                 <syl xml:id="e21-m-225" con="d" wordpos="i">cir</syl>
+                                 </verse>
+                              </note>
+                           
+                           <note xml:id="e21-m-215" dur="4" oct="5" pname="c" pnum="72">
+                              
+                              <verse xml:id="e21-m-226" n="1">
+                                 
+                                 <syl xml:id="e21-m-227" con="d" wordpos="m">cu</syl>
+                                 </verse>
+                              </note>
+                           
+                           <note xml:id="e21-m-216" dur="4" oct="5" pname="e" pnum="75">
+                              
+                              <accid xml:id="e21-m-217" accid="f"></accid>
+                              
+                              <verse xml:id="e21-m-228" n="1">
+                                 
+                                 <syl xml:id="e21-m-229" wordpos="t">lus,</syl>
+                                 </verse>
+                              </note>
+                           
+                           <note xml:id="e21-m-218" dur="4" oct="5" pname="e" pnum="75">
+                              <!-- DELETED -->
+                              <!--
+        
+        this-pitch= 75 
+        last-pitch= 75
+        this-acc= f
+        last-acc= f-->
+                              
+                              <verse xml:id="e21-m-230" n="1">
+                                 
+                                 <syl xml:id="e21-m-231" wordpos="i">ex</syl>
+                                 </verse>
+                              </note>
+                           </layer>
+                        </staff>
+                     
+                     <staff xml:id="e21-m-232" n="2">
+                        
+                        <layer xml:id="e21-m-233" n="1">
+                           
+                           <note xmlns:mei="http://www.music-encoding.org/ns/mei" xml:id="e21-m-234" dur="4" oct="4" pname="a" pnum="69"></note>
+                           
+                           <note xml:id="e21-m-235" dur="4" oct="4" pname="g" pnum="67">
+                              
+                              <verse xml:id="e21-m-244" n="1">
+                                 
+                                 <syl xml:id="e21-m-245" con="d" wordpos="m">cu</syl>
+                                 </verse>
+                              </note>
+                           
+                           <note xml:id="e21-m-236" dur="4" oct="4" pname="b" pnum="70">
+                              
+                              <accid xml:id="e21-m-237" accid.ges="f"></accid>
+                              
+                              <verse xml:id="e21-m-246" n="1">
+                                 
+                                 <syl xml:id="e21-m-247" wordpos="t">lus,</syl>
+                                 </verse>
+                              </note>
+                           
+                           <note xml:id="e21-m-238" dur="4" oct="4" pname="b" pnum="70">
+                              <!-- DELETED -->
+                              <!--
+        
+        this-pitch= 70 
+        last-pitch= 70
+        this-acc= f
+        last-acc= f-->
+                              
+                              <verse xml:id="e21-m-248" n="1">
+                                 
+                                 <syl xml:id="e21-m-249" wordpos="i">ex</syl>
+                                 </verse>
+                              </note>
+                           
+                           <note xml:id="e21-m-240" dur="2" oct="4" pname="a" pnum="69">
+                              
+                              <verse xml:id="e21-m-250" n="1">
+                                 
+                                 <syl xml:id="e21-m-251" wordpos="i">quo</syl>
+                                 </verse>
+                              </note>
+                           
+                           <note xml:id="e21-m-241" dur="2" oct="5" pname="c" pnum="72">
+                              
+                              <verse xml:id="e21-m-317" n="1">
+                                 
+                                 <syl xml:id="e21-m-318" con="d" wordpos="i">Sur</syl>
+                                 </verse>
+                              </note>
+                           </layer>
+                        </staff>
+                     
+                     <staff xml:id="e21-m-252" n="3">
+                        
+                        <layer xml:id="e21-m-253" n="1">
+                           
+                           <note xml:id="e21-m-254" dur="1" oct="3" pname="b" pnum="58">
+                              
+                              <accid xml:id="e21-m-255" accid.ges="f"></accid>
+                              
+                              <verse xml:id="e21-m-258" n="1">
+                                 
+                                 <syl xml:id="e21-m-259" con="d" wordpos="i">cir</syl>
+                                 </verse>
+                              </note>
+                           
+                           <note xml:id="e21-m-256" dur="2" oct="4" pname="c" pnum="60">
+                              
+                              <verse xml:id="e21-m-260" n="1">
+                                 
+                                 <syl xml:id="e21-m-261" con="d" wordpos="m">cu</syl>
+                                 </verse>
+                              </note>
+                           
+                           <note xml:id="e21-m-257" dur="2" oct="4" pname="c" pnum="60">
+                              
+                              <verse xml:id="e21-m-262" n="1">
+                                 
+                                 <syl xml:id="e21-m-263" wordpos="t">lus,</syl>
+                                 </verse>
+                              </note>
+                           </layer>
+                        </staff>
+                     
+                     <tie xmlns:mei="http://www.music-encoding.org/ns/mei" startid="#e21-m-241" endid="#e21-m-277"></tie>
+                     </measure>
+                  
+                  <measure xml:id="e21-m-264" n="6">
+                     
+                     <staff xml:id="e21-m-265" n="1">
+                        
+                        <layer xml:id="e21-m-266" n="1">
+                           
+                           <note xml:id="e21-m-267" dur="2" oct="5" pname="d" pnum="74">
+                              
+                              <verse xml:id="e21-m-273" n="1">
+                                 
+                                 <syl xml:id="e21-m-274" wordpos="i">quo</syl>
+                                 </verse>
+                              </note>
+                           
+                           <note xml:id="e21-m-268" dots="1" dur="2" oct="5" pname="f" pnum="77">
+                              
+                              <verse xml:id="e21-m-307" n="1">
+                                 
+                                 <syl xml:id="e21-m-308" con="d" wordpos="i">Sur</syl>
+                                 </verse>
+                              </note>
+                           
+                           <note xml:id="e21-m-269" dur="4" oct="5" pname="e" pnum="75">
+                              
+                              <accid xml:id="e21-m-270" accid="f"></accid>
+                              </note>
+                           
+                           <note xml:id="e21-m-271" dur="4" oct="5" pname="d" pnum="74"></note>
+                           
+                           <note xml:id="e21-m-272" dur="4" oct="5" pname="c" pnum="72"></note>
+                           </layer>
+                        </staff>
+                     
+                     <staff xml:id="e21-m-275" n="2">
+                        
+                        <layer xml:id="e21-m-276" n="1">
+                           
+                           <note xmlns:mei="http://www.music-encoding.org/ns/mei" xml:id="e21-m-277" dur="4" oct="5" pname="c" pnum="72"></note>
+                           
+                           <note xml:id="e21-m-278" dur="4" oct="4" pname="b" pnum="70">
+                              
+                              <accid xml:id="e21-m-279" accid.ges="f"></accid>
+                              </note>
+                           
+                           <note xml:id="e21-m-280" dur="4" oct="4" pname="a" pnum="69"></note>
+                           
+                           <note xml:id="e21-m-281" dur="4" oct="4" pname="g" pnum="67"></note>
+                           
+                           <note xml:id="e21-m-282" dur="4" oct="4" pname="f" pnum="65"></note>
+                           
+                           <note xml:id="e21-m-283" dur="4" oct="4" pname="g" pnum="67"></note>
+                           
+                           <note xml:id="e21-m-284" dur="4" oct="4" pname="a" pnum="69"></note>
+                           
+                           <note xml:id="e21-m-285" dur="4" oct="4" pname="f" pnum="66">
+                              
+                              <accid xml:id="e21-m-286" accid="s" func="caution"></accid>
+                              </note>
+                           </layer>
+                        </staff>
+                     
+                     <staff xml:id="e21-m-287" n="3">
+                        
+                        <layer xml:id="e21-m-288" n="1">
+                           
+                           <note xml:id="e21-m-289" dur="2" oct="4" pname="d" pnum="62">
+                              
+                              <verse xml:id="e21-m-292" n="1">
+                                 
+                                 <syl xml:id="e21-m-293" wordpos="i">ex</syl>
+                                 </verse>
+                              </note>
+                           
+                           <note xml:id="e21-m-290" dur="2" oct="4" pname="d" pnum="62">
+                              
+                              <verse xml:id="e21-m-294" n="1">
+                                 
+                                 <syl xml:id="e21-m-295" wordpos="i">quo</syl>
+                                 </verse>
+                              </note>
+                           
+                           <note xml:id="e21-m-291" dur="1" oct="3" pname="a" pnum="57">
+                              
+                              <verse xml:id="e21-m-326" n="1">
+                                 
+                                 <syl xml:id="e21-m-327" con="d" wordpos="i">Sur</syl>
+                                 </verse>
+                              </note>
+                           </layer>
+                        </staff>
+                     </measure>
+                  
+                  <measure xml:id="e21-m-296" n="7">
+                     
+                     <staff xml:id="e21-m-297" n="1">
+                        
+                        <layer xml:id="e21-m-298" n="1">
+                           
+                           <note xml:id="e21-m-299" dur="4" oct="4" pname="b" pnum="71"></note>
+                           
+                           <note xml:id="e21-m-301" dur="4" oct="5" pname="c" pnum="72"></note>
+                           
+                           <note xml:id="e21-m-302" dur="4" oct="5" pname="d" pnum="74"></note>
+                           
+                           <note xml:id="e21-m-303" dur="4" oct="4" pname="b" pnum="71">
+                              
+                              <accid xml:id="e21-m-304" accid="n"></accid>
+                              </note>
+                           
+                           <note xml:id="e21-m-305" dur="2" oct="5" pname="c" pnum="72"></note>
+                           
+                           <note xml:id="e21-m-306" dur="2" oct="5" pname="c" pnum="72">
+                              
+                              <verse xml:id="e21-m-309" n="1">
+                                 
+                                 <syl xml:id="e21-m-310" wordpos="t">gat,</syl>
+                                 </verse>
+                              </note>
+                           </layer>
+                        </staff>
+                     
+                     <staff xml:id="e21-m-311" n="2">
+                        
+                        <layer xml:id="e21-m-312" n="1">
+                           
+                           <note xml:id="e21-m-313" dur="2" oct="4" pname="g" pnum="67"></note>
+                           
+                           <note xml:id="e21-m-314" dur="2" oct="4" pname="g" pnum="67">
+                              
+                              <verse xml:id="e21-m-319" n="1">
+                                 
+                                 <syl xml:id="e21-m-320" wordpos="t">gat,</syl>
+                                 </verse>
+                              </note>
+                           
+                           <rest xml:id="e21-m-315" dur="2"></rest>
+                           
+                           <note xml:id="e21-m-316" dur="2" oct="4" pname="e" pnum="64">
+                              
+                              <verse xml:id="e21-m-353" n="1">
+                                 
+                                 <syl xml:id="e21-m-354" con="d" wordpos="i">ha</syl>
+                                 </verse>
+                              </note>
+                           </layer>
+                        </staff>
+                     
+                     <staff xml:id="e21-m-321" n="3">
+                        
+                        <layer xml:id="e21-m-322" n="1">
+                           
+                           <note xml:id="e21-m-323" dur="2" oct="3" pname="g" pnum="55">
+                              
+                              <verse xml:id="e21-m-328" n="1">
+                                 
+                                 <syl xml:id="e21-m-329" wordpos="t">gat,</syl>
+                                 </verse>
+                              </note>
+                           
+                           <note xml:id="e21-m-324" dur="2" oct="3" pname="g" pnum="55">
+                              
+                              <verse xml:id="e21-m-330" n="1">
+                                 
+                                 <syl xml:id="e21-m-331" con="d" wordpos="i">ha</syl>
+                                 </verse>
+                              </note>
+                           
+                           <note xml:id="e21-m-325" dur="1" oct="3" pname="a" pnum="57">
+                              
+                              <verse xml:id="e21-m-332" n="1">
+                                 
+                                 <syl xml:id="e21-m-333" wordpos="t">bens</syl>
+                                 </verse>
+                              </note>
+                           </layer>
+                        </staff>
+                     </measure>
+                  
+                  <sb xml:id="e21-m-335"></sb>
+                  
+                  <measure xml:id="e21-m-334" n="8">
+                     
+                     <staff xml:id="e21-m-336" n="1">
+                        
+                        <layer xml:id="e21-m-337" n="1">
+                           
+                           <rest xml:id="e21-m-338" dur="2"></rest>
+                           
+                           <note xml:id="e21-m-339" dur="2" oct="4" pname="a" pnum="69">
+                              
+                              <verse xml:id="e21-m-342" n="1">
+                                 
+                                 <syl xml:id="e21-m-343" con="d" wordpos="i">ha</syl>
+                                 </verse>
+                              </note>
+                           
+                           <note xml:id="e21-m-340" dots="1" dur="2" oct="5" pname="d" pnum="74">
+                              
+                              <verse xml:id="e21-m-344" n="1">
+                                 
+                                 <syl xml:id="e21-m-345" wordpos="t">bens</syl>
+                                 </verse>
+                              </note>
+                           
+                           <note xml:id="e21-m-341" dur="4" oct="5" pname="d" pnum="74">
+                              
+                              <verse xml:id="e21-m-381" n="1">
+                                 
+                                 <syl xml:id="e21-m-382" con="d" wordpos="i">ae</syl>
+                                 </verse>
+                              </note>
+                           </layer>
+                        </staff>
+                     
+                     <staff xml:id="e21-m-346" n="2">
+                        
+                        <layer xml:id="e21-m-347" n="1">
+                           
+                           <note xml:id="e21-m-348" dots="1" dur="2" oct="4" pname="a" pnum="69">
+                              
+                              <verse xml:id="e21-m-355" n="1">
+                                 
+                                 <syl xml:id="e21-m-356" wordpos="t">bens</syl>
+                                 </verse>
+                              </note>
+                           
+                           <note xml:id="e21-m-349" dur="4" oct="4" pname="a" pnum="69">
+                              
+                              <verse xml:id="e21-m-357" n="1">
+                                 
+                                 <syl xml:id="e21-m-358" con="d" wordpos="i">ae</syl>
+                                 </verse>
+                              </note>
+                           
+                           <note xml:id="e21-m-350" dur="4" oct="4" pname="g" pnum="67"></note>
+                           
+                           <note xml:id="e21-m-351" dur="4" oct="4" pname="f" pnum="65"></note>
+                           
+                           <note xml:id="e21-m-352" dur="2" oct="4" pname="g" pnum="67">
+                              
+                              <verse xml:id="e21-m-359" n="1">
+                                 
+                                 <syl xml:id="e21-m-360" wordpos="t">quum</syl>
+                                 </verse>
+                              </note>
+                           </layer>
+                        </staff>
+                     
+                     <staff xml:id="e21-m-361" n="3">
+                        
+                        <layer xml:id="e21-m-362" n="1">
+                           
+                           <note xml:id="e21-m-363" dur="1" oct="4" pname="c" pnum="60">
+                              
+                              <verse xml:id="e21-m-366" n="1">
+                                 
+                                 <syl xml:id="e21-m-367" con="d" wordpos="i">ae</syl>
+                                 </verse>
+                              </note>
+                           
+                           <note xml:id="e21-m-364" dur="1" oct="3" pname="b" pnum="58">
+                              
+                              <accid xml:id="e21-m-365" accid.ges="f"></accid>
+                              
+                              <verse xml:id="e21-m-368" n="1">
+                                 
+                                 <syl xml:id="e21-m-369" wordpos="t">quum</syl>
+                                 </verse>
+                              </note>
+                           </layer>
+                        </staff>
+                     </measure>
+                  
+                  <measure xml:id="e21-m-370" n="9">
+                     
+                     <staff xml:id="e21-m-371" n="1">
+                        
+                        <layer xml:id="e21-m-372" n="1">
+                           
+                           <note xml:id="e21-m-373" dur="4" oct="5" pname="c" pnum="72">
+                              
+                              <verse xml:id="e21-m-383" n="1">
+                                 
+                                 <syl xml:id="e21-m-384" wordpos="t">quum</syl>
+                                 </verse>
+                              </note>
+                           
+                           <note xml:id="e21-m-374" dur="4" oct="4" pname="b" pnum="70">
+                              
+                              <accid xml:id="e21-m-375" accid.ges="f"></accid>
+                              
+                              <verse xml:id="e21-m-385" n="1">
+                                 
+                                 <syl xml:id="e21-m-386" con="d" wordpos="i">for</syl>
+                                 </verse>
+                              </note>
+                           
+                           <note xml:id="e21-m-376" dur="2" oct="5" pname="c" pnum="72">
+                              
+                              <verse xml:id="e21-m-387" n="1">
+                                 
+                                 <syl xml:id="e21-m-388" wordpos="t">ma</syl>
+                                 </verse>
+                              </note>
+                           
+                           <note xml:id="e21-m-377" dur="4" oct="5" pname="d" pnum="74">
+                              
+                              <verse xml:id="e21-m-417" n="1">
+                                 
+                                 <syl xml:id="e21-m-418" con="d" wordpos="i">qua</syl>
+                                 </verse>
+                              </note>
+                           
+                           <note xml:id="e21-m-378" dur="4" oct="5" pname="c" pnum="72"></note>
+                           
+                           <note xml:id="e21-m-379" dur="2" oct="5" pname="d" pnum="74">
+                              
+                              <verse xml:id="e21-m-419" n="1">
+                                 
+                                 <syl xml:id="e21-m-420" con="d" wordpos="m">dra</syl>
+                                 </verse>
+                              </note>
+                           </layer>
+                        </staff>
+                     
+                     <staff xml:id="e21-m-389" n="2">
+                        
+                        <layer xml:id="e21-m-390" n="1">
+                           
+                           <note xml:id="e21-m-391" dur="4" oct="4" pname="a" pnum="69">
+                              
+                              <verse xml:id="e21-m-395" n="1">
+                                 
+                                 <syl xml:id="e21-m-396" con="d" wordpos="i">for</syl>
+                                 </verse>
+                              </note>
+                           
+                           <note xml:id="e21-m-392" dur="4" oct="4" pname="g" pnum="67"></note>
+                           
+                           <note xml:id="e21-m-393" dur="1" oct="4" pname="a" pnum="69">
+                              
+                              <verse xml:id="e21-m-397" n="1">
+                                 
+                                 <syl xml:id="e21-m-398" wordpos="t">ma</syl>
+                                 </verse>
+                              </note>
+                           
+                           <note xml:id="e21-m-394" dur="2" oct="4" pname="g" pnum="67">
+                              
+                              <verse xml:id="e21-m-429" n="1">
+                                 
+                                 <syl xml:id="e21-m-430" con="d" wordpos="i">qua</syl>
+                                 </verse>
+                              </note>
+                           </layer>
+                        </staff>
+                     
+                     <staff xml:id="e21-m-399" n="3">
+                        
+                        <layer xml:id="e21-m-400" n="1">
+                           
+                           <note xml:id="e21-m-401" dur="1" oct="3" pname="a" pnum="57">
+                              
+                              <verse xml:id="e21-m-406" n="1">
+                                 
+                                 <syl xml:id="e21-m-407" con="d" wordpos="i">for</syl>
+                                 </verse>
+                              </note>
+                           
+                           <note xml:id="e21-m-402" dur="2" oct="3" pname="b" pnum="58">
+                              
+                              <accid xml:id="e21-m-403" accid.ges="f"></accid>
+                              
+                              <verse xml:id="e21-m-408" n="1">
+                                 
+                                 <syl xml:id="e21-m-409" wordpos="t">ma</syl>
+                                 </verse>
+                              </note>
+                           
+                           <note xml:id="e21-m-404" dur="2" oct="3" pname="b" pnum="58">
+                              <!-- DELETED -->
+                              <!--
+        
+        this-pitch= 58 
+        last-pitch= 58
+        this-acc= f
+        last-acc= f-->
+                              
+                              <verse xml:id="e21-m-440" n="1">
+                                 
+                                 <syl xml:id="e21-m-441" con="d" wordpos="i">qua</syl>
+                                 </verse>
+                              </note>
+                           </layer>
+                        </staff>
+                     
+                     <tie xml:id="e21-m-380" endid="#m-413" startid="#m-379"></tie>
+                     
+                     <tie xmlns:mei="http://www.music-encoding.org/ns/mei" startid="#e21-m-379" endid="#e21-m-413"></tie>
+                     </measure>
+                  
+                  <measure xml:id="e21-m-410" n="10">
+                     
+                     <staff xml:id="e21-m-411" n="1">
+                        
+                        <layer xml:id="e21-m-412" n="1">
+                           
+                           <note xmlns:mei="http://www.music-encoding.org/ns/mei" xml:id="e21-m-413" dur="2" oct="5" pname="d" pnum="74"></note>
+                           
+                           <note xml:id="e21-m-414" dur="2" oct="5" pname="c" pnum="72">
+                              
+                              <verse xml:id="e21-m-421" n="1">
+                                 
+                                 <syl xml:id="e21-m-422" wordpos="t">ta</syl>
+                                 </verse>
+                              </note>
+                           
+                           <note xml:id="e21-m-415" dur="1" oct="4" pname="b" pnum="71">
+                              
+                              <accid xml:id="e21-m-416" accid="n"></accid>
+                              
+                              <verse xml:id="e21-m-451" n="1">
+                                 
+                                 <syl xml:id="e21-m-452" con="d" wordpos="i">la</syl>
+                                 </verse>
+                              </note>
+                           </layer>
+                        </staff>
+                     
+                     <staff xml:id="e21-m-423" n="2">
+                        
+                        <layer xml:id="e21-m-424" n="1">
+                           
+                           <note xml:id="e21-m-425" dur="2" oct="4" pname="f" pnum="66">
+                              
+                              <accid xml:id="e21-m-426" accid="s"></accid>
+                              
+                              <verse xml:id="e21-m-431" n="1">
+                                 
+                                 <syl xml:id="e21-m-432" con="d" wordpos="m">dra</syl>
+                                 </verse>
+                              </note>
+                           
+                           <note xml:id="e21-m-427" dur="2" oct="4" pname="e" pnum="64">
+                              
+                              <verse xml:id="e21-m-433" n="1">
+                                 
+                                 <syl xml:id="e21-m-434" wordpos="t">ta</syl>
+                                 </verse>
+                              </note>
+                           
+                           <note xml:id="e21-m-428" dur="1" oct="4" pname="g" pnum="67">
+                              
+                              <verse xml:id="e21-m-458" n="1">
+                                 
+                                 <syl xml:id="e21-m-459" con="d" wordpos="i">la</syl>
+                                 </verse>
+                              </note>
+                           </layer>
+                        </staff>
+                     
+                     <staff xml:id="e21-m-435" n="3">
+                        
+                        <layer xml:id="e21-m-436" n="1">
+                           
+                           <note xml:id="e21-m-437" dur="1" oct="3" pname="a" pnum="57">
+                              
+                              <verse xml:id="e21-m-442" n="1">
+                                 
+                                 <syl xml:id="e21-m-443" con="d" wordpos="m">dra</syl>
+                                 </verse>
+                              </note>
+                           
+                           <note xml:id="e21-m-438" dur="2" oct="3" pname="g" pnum="55">
+                              
+                              <verse xml:id="e21-m-444" n="1">
+                                 
+                                 <syl xml:id="e21-m-445" wordpos="t">ta</syl>
+                                 </verse>
+                              </note>
+                           
+                           <note xml:id="e21-m-439" dur="2" oct="3" pname="g" pnum="55">
+                              
+                              <verse xml:id="e21-m-465" n="1">
+                                 
+                                 <syl xml:id="e21-m-466" con="d" wordpos="i">la</syl>
+                                 </verse>
+                              </note>
+                           </layer>
+                        </staff>
+                     </measure>
+                  
+                  <measure xml:id="e21-m-446" metcon="false" n="11" right="dbl" perf-dur="7">
+                     
+                     <staff xml:id="e21-m-447" n="1">
+                        
+                        <layer xml:id="e21-m-448" n="1">
+                           <!-- Original note -->
+                           <note xmlns:mei="http://www.music-encoding.org/ns/mei" dur="2" xml:id="e21-m-449" oct="4" pname="b" pnum="71" stem.dir="down"></note>
+                           <!-- Filler notes -->
+                           <note xmlns:mei="http://www.music-encoding.org/ns/mei" xml:id="d1e1210-FAKE-6" dur="2" pnum="65" class="fake-note-for-timing"></note>
+                           <note xmlns:mei="http://www.music-encoding.org/ns/mei" xml:id="d1e1210-FAKE-5" dur="2" pnum="65" class="fake-note-for-timing"></note>
+                           <note xmlns:mei="http://www.music-encoding.org/ns/mei" xml:id="d1e1210-FAKE-4" dur="2" pnum="65" class="fake-note-for-timing"></note>
+                           <note xmlns:mei="http://www.music-encoding.org/ns/mei" xml:id="d1e1210-FAKE-3" dur="2" pnum="65" class="fake-note-for-timing"></note>
+                           <note xmlns:mei="http://www.music-encoding.org/ns/mei" xml:id="d1e1210-FAKE-2" dur="2" pnum="65" class="fake-note-for-timing"></note>
+                           <note xmlns:mei="http://www.music-encoding.org/ns/mei" xml:id="d1e1210-FAKE-1" dur="2" pnum="65" class="fake-note-for-timing" match-end="e21-m-449"></note>
+                           </layer>
+                        </staff>
+                     
+                     <staff xml:id="e21-m-455" n="2">
+                        
+                        <layer xml:id="e21-m-456" n="1">
+                           <!-- Original note -->
+                           <note xmlns:mei="http://www.music-encoding.org/ns/mei" dur="2" xml:id="e21-m-457" oct="4" pname="g" pnum="67" stem.dir="up"></note>
+                           <!-- Filler notes -->
+                           <note xmlns:mei="http://www.music-encoding.org/ns/mei" xml:id="d1e1227-FAKE-6" dur="2" pnum="65" class="fake-note-for-timing"></note>
+                           <note xmlns:mei="http://www.music-encoding.org/ns/mei" xml:id="d1e1227-FAKE-5" dur="2" pnum="65" class="fake-note-for-timing"></note>
+                           <note xmlns:mei="http://www.music-encoding.org/ns/mei" xml:id="d1e1227-FAKE-4" dur="2" pnum="65" class="fake-note-for-timing"></note>
+                           <note xmlns:mei="http://www.music-encoding.org/ns/mei" xml:id="d1e1227-FAKE-3" dur="2" pnum="65" class="fake-note-for-timing"></note>
+                           <note xmlns:mei="http://www.music-encoding.org/ns/mei" xml:id="d1e1227-FAKE-2" dur="2" pnum="65" class="fake-note-for-timing"></note>
+                           <note xmlns:mei="http://www.music-encoding.org/ns/mei" xml:id="d1e1227-FAKE-1" dur="2" pnum="65" class="fake-note-for-timing" match-end="e21-m-457"></note>
+                           </layer>
+                        </staff>
+                     
+                     <staff xml:id="e21-m-462" n="3">
+                        
+                        <layer xml:id="e21-m-463" n="1">
+                           <!-- Original note -->
+                           <note xmlns:mei="http://www.music-encoding.org/ns/mei" dur="2" xml:id="e21-m-464" oct="3" pname="g" pnum="55" stem.dir="up"></note>
+                           <!-- Filler notes -->
+                           <note xmlns:mei="http://www.music-encoding.org/ns/mei" xml:id="d1e1242-FAKE-6" dur="2" pnum="65" class="fake-note-for-timing"></note>
+                           <note xmlns:mei="http://www.music-encoding.org/ns/mei" xml:id="d1e1242-FAKE-5" dur="2" pnum="65" class="fake-note-for-timing"></note>
+                           <note xmlns:mei="http://www.music-encoding.org/ns/mei" xml:id="d1e1242-FAKE-4" dur="2" pnum="65" class="fake-note-for-timing"></note>
+                           <note xmlns:mei="http://www.music-encoding.org/ns/mei" xml:id="d1e1242-FAKE-3" dur="2" pnum="65" class="fake-note-for-timing"></note>
+                           <note xmlns:mei="http://www.music-encoding.org/ns/mei" xml:id="d1e1242-FAKE-2" dur="2" pnum="65" class="fake-note-for-timing"></note>
+                           <note xmlns:mei="http://www.music-encoding.org/ns/mei" xml:id="d1e1242-FAKE-1" dur="2" pnum="65" class="fake-note-for-timing" match-end="e21-m-464"></note>
+                           </layer>
+                        </staff>
+                     </measure>
+                  
+                  <pb xml:id="e21-m-471" n="2"></pb>
+                  
+                  <sb xml:id="e21-m-470"></sb>
+                  
+                  <measure xml:id="e21-m-469" n="12">
+                     
+                     <staff xml:id="e21-m-472" n="1">
+                        
+                        <layer xml:id="e21-m-473" n="1">
+                           
+                           <rest xml:id="e21-m-474" dur="1"></rest>
+                           
+                           <rest xml:id="e21-m-475" dur="2"></rest>
+                           
+                           <note xml:id="e21-m-476" dur="2" oct="5" pname="d" pnum="74">
+                              
+                              <verse xml:id="e21-m-477" n="1">
+                                 
+                                 <syl xml:id="e21-m-478" wordpos="i">Hinc</syl>
+                                 </verse>
+                              </note>
+                           </layer>
+                        </staff>
+                     
+                     <staff xml:id="e21-m-479" n="2">
+                        
+                        <layer xml:id="e21-m-480" n="1">
+                           
+                           <rest xml:id="e21-m-481" dur="2"></rest>
+                           
+                           <note xml:id="e21-m-482" dur="2" oct="4" pname="a" pnum="69">
+                              
+                              <verse xml:id="e21-m-488" n="1">
+                                 
+                                 <syl xml:id="e21-m-489" wordpos="i">Hinc</syl>
+                                 </verse>
+                              </note>
+                           
+                           <note xml:id="e21-m-483" dur="4" oct="4" pname="b" pnum="71">
+                              
+                              <accid xml:id="e21-m-484" accid="n"></accid>
+                              
+                              <verse xml:id="e21-m-490" n="1">
+                                 
+                                 <syl xml:id="e21-m-491" con="d" wordpos="i">Tri</syl>
+                                 </verse>
+                              </note>
+                           
+                           <note xml:id="e21-m-485" dur="2" oct="5" pname="c" pnum="72">
+                              
+                              <verse xml:id="e21-m-492" n="1">
+                                 
+                                 <syl xml:id="e21-m-493" con="d" wordpos="m">go</syl>
+                                 </verse>
+                              </note>
+                           
+                           <note xml:id="e21-m-486" dur="4" oct="4" pname="b" pnum="71">
+                              
+                              <verse xml:id="e21-m-494" n="1">
+                                 
+                                 <syl xml:id="e21-m-495" wordpos="t">num</syl>
+                                 </verse>
+                              </note>
+                           </layer>
+                        </staff>
+                     
+                     <staff xml:id="e21-m-496" n="3">
+                        
+                        <layer xml:id="e21-m-497" n="1">
+                           
+                           <note xml:id="e21-m-498" dur="1" oct="4" pname="d" pnum="62">
+                              
+                              <verse xml:id="e21-m-501" n="1">
+                                 
+                                 <syl xml:id="e21-m-502" wordpos="i">Hinc</syl>
+                                 </verse>
+                              </note>
+                           
+                           <note xml:id="e21-m-499" dur="2" oct="4" pname="d" pnum="62">
+                              
+                              <verse xml:id="e21-m-538" n="1">
+                                 
+                                 <syl xml:id="e21-m-539" con="d" wordpos="i">Tri</syl>
+                                 </verse>
+                              </note>
+                           
+                           <note xml:id="e21-m-500" dur="2" oct="4" pname="d" pnum="62">
+                              
+                              <verse xml:id="e21-m-540" n="1">
+                                 
+                                 <syl xml:id="e21-m-541" con="d" wordpos="m">go</syl>
+                                 </verse>
+                              </note>
+                           </layer>
+                        </staff>
+                     </measure>
+                  
+                  <measure xml:id="e21-m-503" n="13">
+                     
+                     <staff xml:id="e21-m-504" n="1">
+                        
+                        <layer xml:id="e21-m-505" n="1">
+                           
+                           <note xml:id="e21-m-506" dur="4" oct="5" pname="e" pnum="77">
+                              
+                              <verse xml:id="e21-m-514" n="1">
+                                 
+                                 <syl xml:id="e21-m-515" con="d" wordpos="i">Tri</syl>
+                                 </verse>
+                              </note>
+                           
+                           <note xml:id="e21-m-508" dur="2" oct="5" pname="f" pnum="77">
+                              
+                              <verse xml:id="e21-m-516" n="1">
+                                 
+                                 <syl xml:id="e21-m-517" con="d" wordpos="m">go</syl>
+                                 </verse>
+                              </note>
+                           
+                           <note xml:id="e21-m-509" dur="4" oct="5" pname="e" pnum="77">
+                              
+                              <verse xml:id="e21-m-518" n="1">
+                                 
+                                 <syl xml:id="e21-m-519" wordpos="t">num</syl>
+                                 </verse>
+                              </note>
+                           
+                           <note xml:id="e21-m-511" dur="4" oct="5" pname="f" pnum="77">
+                              
+                              <verse xml:id="e21-m-551" n="1">
+                                 
+                                 <syl xml:id="e21-m-552" con="d" wordpos="i">du</syl>
+                                 </verse>
+                              </note>
+                           
+                           <note xml:id="e21-m-512" dur="4" oct="5" pname="g" pnum="79"></note>
+                           
+                           <note xml:id="e21-m-513" dur="2" oct="5" pname="f" pnum="77"></note>
+                           </layer>
+                        </staff>
+                     
+                     <staff xml:id="e21-m-520" n="2">
+                        
+                        <layer xml:id="e21-m-521" n="1">
+                           
+                           <note xml:id="e21-m-522" dur="4" oct="5" pname="c" pnum="72">
+                              
+                              <verse xml:id="e21-m-530" n="1">
+                                 
+                                 <syl xml:id="e21-m-531" con="d" wordpos="i">du</syl>
+                                 </verse>
+                              </note>
+                           
+                           <note xml:id="e21-m-523" dur="4" oct="5" pname="d" pnum="74"></note>
+                           
+                           <note xml:id="e21-m-524" dots="1" dur="2" oct="5" pname="c" pnum="72"></note>
+                           
+                           <note xml:id="e21-m-525" dur="4" oct="4" pname="b" pnum="70">
+                              
+                              <accid xml:id="e21-m-526" accid.ges="f"></accid>
+                              </note>
+                           
+                           <note xml:id="e21-m-527" dur="2" oct="4" pname="b" pnum="70">
+                              <!-- DELETED -->
+                              <!--
+        
+        this-pitch= 70 
+        last-pitch= 70
+        this-acc= f
+        last-acc= f-->
+                              
+                              <verse xml:id="e21-m-532" n="1">
+                                 
+                                 <syl xml:id="e21-m-533" con="u" wordpos="t">cas,</syl>
+                                 </verse>
+                              </note>
+                           </layer>
+                        </staff>
+                     
+                     <staff xml:id="e21-m-534" n="3">
+                        
+                        <layer xml:id="e21-m-535" n="1">
+                           
+                           <note xml:id="e21-m-536" dur="1" oct="4" pname="c" pnum="60">
+                              
+                              <verse xml:id="e21-m-542" n="1">
+                                 
+                                 <syl xml:id="e21-m-543" wordpos="t">num</syl>
+                                 </verse>
+                              </note>
+                           
+                           <note xml:id="e21-m-537" dur="1" oct="4" pname="d" pnum="62">
+                              
+                              <verse xml:id="e21-m-572" n="1">
+                                 
+                                 <syl xml:id="e21-m-573" con="d" wordpos="i">du</syl>
+                                 </verse>
+                              </note>
+                           </layer>
+                        </staff>
+                     
+                     <tie xml:id="e21-m-529" endid="#m-557" startid="#m-527"></tie>
+                     
+                     <tie xmlns:mei="http://www.music-encoding.org/ns/mei" startid="#e21-m-513" endid="#e21-m-547"></tie>
+                     
+                     <tie xmlns:mei="http://www.music-encoding.org/ns/mei" startid="#e21-m-527" endid="#e21-m-557"></tie>
+                     </measure>
+                  
+                  <measure xml:id="e21-m-544" n="14">
+                     
+                     <staff xml:id="e21-m-545" n="1">
+                        
+                        <layer xml:id="e21-m-546" n="1">
+                           
+                           <note xmlns:mei="http://www.music-encoding.org/ns/mei" xml:id="e21-m-547" dur="4" oct="5" pname="f" pnum="77"></note>
+                           
+                           <note xml:id="e21-m-548" dur="4" oct="5" pname="e" pnum="76"></note>
+                           
+                           <note xml:id="e21-m-549" dur="1" oct="5" pname="e" pnum="76">
+                              
+                              <verse xml:id="e21-m-553" n="1">
+                                 
+                                 <syl xml:id="e21-m-554" wordpos="t">cas,</syl>
+                                 </verse>
+                              </note>
+                           
+                           <note xml:id="e21-m-550" dur="2" oct="5" pname="d" pnum="74">
+                              
+                              <verse xml:id="e21-m-583" n="1">
+                                 
+                                 <syl xml:id="e21-m-584" con="d" wordpos="i">o</syl>
+                                 </verse>
+                              </note>
+                           </layer>
+                        </staff>
+                     
+                     <staff xml:id="e21-m-555" n="2">
+                        
+                        <layer xml:id="e21-m-556" n="1">
+                           
+                           <note xmlns:mei="http://www.music-encoding.org/ns/mei" xml:id="e21-m-557" dur="2" oct="4" pname="b" pnum="70">
+                              
+                              <accid xml:id="e21-m-558" accid.ges="f"></accid>
+                              </note>
+                           
+                           <note xml:id="e21-m-559" dur="2" oct="4" pname="a" pnum="69">
+                              
+                              <verse xml:id="e21-m-563" n="1">
+                                 
+                                 <syl xml:id="e21-m-564" con="d" wordpos="i">o</syl>
+                                 </verse>
+                              </note>
+                           
+                           <note xml:id="e21-m-560" dur="2" oct="4" pname="b" pnum="70">
+                              
+                              <accid xml:id="e21-m-561" accid.ges="f"></accid>
+                              </note>
+                           
+                           <note xml:id="e21-m-562" dur="2" oct="4" pname="g" pnum="67">
+                              
+                              <verse xml:id="e21-m-565" n="1">
+                                 
+                                 <syl xml:id="e21-m-566" wordpos="t">mni</syl>
+                                 </verse>
+                              </note>
+                           </layer>
+                        </staff>
+                     
+                     <staff xml:id="e21-m-567" n="3">
+                        
+                        <layer xml:id="e21-m-568" n="1">
+                           
+                           <note xml:id="e21-m-569" dur="1" oct="4" pname="c" pnum="60">
+                              
+                              <verse xml:id="e21-m-574" n="1">
+                                 
+                                 <syl xml:id="e21-m-575" wordpos="t">cas,</syl>
+                                 </verse>
+                              </note>
+                           
+                           <note xml:id="e21-m-570" dur="1" oct="3" pname="b" pnum="58">
+                              
+                              <accid xml:id="e21-m-571" accid.ges="f"></accid>
+                              
+                              <verse xml:id="e21-m-602" n="1">
+                                 
+                                 <syl xml:id="e21-m-603" con="d" wordpos="i">o</syl>
+                                 </verse>
+                              </note>
+                           </layer>
+                        </staff>
+                     </measure>
+                  
+                  <measure xml:id="e21-m-576" n="15">
+                     
+                     <staff xml:id="e21-m-577" n="1">
+                        
+                        <layer xml:id="e21-m-578" n="1">
+                           
+                           <note xml:id="e21-m-579" dur="2" oct="5" pname="e" pnum="76"></note>
+                           
+                           <note xml:id="e21-m-580" dur="2" oct="5" pname="c" pnum="72">
+                              
+                              <verse xml:id="e21-m-585" n="1">
+                                 
+                                 <syl xml:id="e21-m-586" wordpos="t">mni</syl>
+                                 </verse>
+                              </note>
+                           
+                           <rest xml:id="e21-m-581" dur="2"></rest>
+                           
+                           <note xml:id="e21-m-582" dur="2" oct="4" pname="a" pnum="69">
+                              
+                              <verse xml:id="e21-m-587" n="1">
+                                 
+                                 <syl xml:id="e21-m-588" wordpos="i">qui</syl>
+                                 </verse>
+                              </note>
+                           </layer>
+                        </staff>
+                     
+                     <staff xml:id="e21-m-589" n="2">
+                        
+                        <layer xml:id="e21-m-590" n="1">
+                           
+                           <rest xml:id="e21-m-591" dur="2"></rest>
+                           
+                           <note xml:id="e21-m-592" dur="2" oct="4" pname="e" pnum="64">
+                              
+                              <verse xml:id="e21-m-596" n="1">
+                                 
+                                 <syl xml:id="e21-m-597" wordpos="i">qui</syl>
+                                 </verse>
+                              </note>
+                           
+                           <note xml:id="e21-m-593" dur="4" oct="4" pname="f" pnum="65">
+                              
+                              <verse xml:id="e21-m-635" n="1">
+                                 
+                                 <syl xml:id="e21-m-636" con="d" wordpos="i">par</syl>
+                                 </verse>
+                              </note>
+                           
+                           <note xml:id="e21-m-594" dur="4" oct="4" pname="g" pnum="67"></note>
+                           
+                           <note xml:id="e21-m-595" dur="2" oct="4" pname="a" pnum="69"></note>
+                           </layer>
+                        </staff>
+                     
+                     <staff xml:id="e21-m-598" n="3">
+                        
+                        <layer xml:id="e21-m-599" n="1">
+                           
+                           <note xml:id="e21-m-600" dur="1" oct="4" pname="c" pnum="60">
+                              
+                              <verse xml:id="e21-m-604" n="1">
+                                 
+                                 <syl xml:id="e21-m-605" wordpos="t">mni</syl>
+                                 </verse>
+                              </note>
+                           
+                           <note xml:id="e21-m-601" dur="1" oct="4" pname="d" pnum="62">
+                              
+                              <verse xml:id="e21-m-606" n="1">
+                                 
+                                 <syl xml:id="e21-m-607" wordpos="i">qui</syl>
+                                 </verse>
+                              </note>
+                           </layer>
+                        </staff>
+                     
+                     <tie xmlns:mei="http://www.music-encoding.org/ns/mei" startid="#e21-m-595" endid="#e21-m-627"></tie>
+                     </measure>
+                  
+                  <sb xml:id="e21-m-609"></sb>
+                  
+                  <measure xml:id="e21-m-608" n="16">
+                     
+                     <staff xml:id="e21-m-610" n="1">
+                        
+                        <layer xml:id="e21-m-611" n="1">
+                           
+                           <note xml:id="e21-m-612" dur="4" oct="4" pname="b" pnum="70">
+                              
+                              <accid xml:id="e21-m-613" accid.ges="f"></accid>
+                              
+                              <verse xml:id="e21-m-621" n="1">
+                                 
+                                 <syl xml:id="e21-m-622" con="d" wordpos="i">par</syl>
+                                 </verse>
+                              </note>
+                           
+                           <note xml:id="e21-m-614" dur="4" oct="5" pname="c" pnum="72"></note>
+                           
+                           <note xml:id="e21-m-615" dots="1" dur="2" oct="5" pname="d" pnum="74"></note>
+                           
+                           <note xml:id="e21-m-616" dur="4" oct="5" pname="c" pnum="72">
+                              
+                              <verse xml:id="e21-m-623" n="1">
+                                 
+                                 <syl xml:id="e21-m-624" wordpos="t">te</syl>
+                                 </verse>
+                              </note>
+                           
+                           <note xml:id="e21-m-617" dur="4" oct="5" pname="e" pnum="75">
+                              
+                              <accid xml:id="e21-m-618" accid="f"></accid>
+                              
+                              <verse xml:id="e21-m-666" n="1">
+                                 
+                                 <syl xml:id="e21-m-667" con="d" wordpos="i">ro</syl>
+                                 </verse>
+                              </note>
+                           
+                           <note xml:id="e21-m-619" dur="4" oct="5" pname="e" pnum="75">
+                              <!-- DELETED -->
+                              <!--
+        
+        this-pitch= 75 
+        last-pitch= 75
+        this-acc= f
+        last-acc= f-->
+                              
+                              <verse xml:id="e21-m-668" n="1">
+                                 
+                                 <syl xml:id="e21-m-669" con="d" wordpos="m">tun</syl>
+                                 </verse>
+                              </note>
+                           </layer>
+                        </staff>
+                     
+                     <staff xml:id="e21-m-625" n="2">
+                        
+                        <layer xml:id="e21-m-626" n="1">
+                           
+                           <note xmlns:mei="http://www.music-encoding.org/ns/mei" xml:id="e21-m-627" dur="4" oct="4" pname="a" pnum="69"></note>
+                           
+                           <note xml:id="e21-m-628" dur="4" oct="4" pname="g" pnum="67">
+                              
+                              <verse xml:id="e21-m-637" n="1">
+                                 
+                                 <syl xml:id="e21-m-638" wordpos="t">te</syl>
+                                 </verse>
+                              </note>
+                           
+                           <note xml:id="e21-m-629" dur="4" oct="4" pname="b" pnum="70">
+                              
+                              <accid xml:id="e21-m-630" accid.ges="f"></accid>
+                              
+                              <verse xml:id="e21-m-639" n="1">
+                                 
+                                 <syl xml:id="e21-m-640" con="d" wordpos="i">ro</syl>
+                                 </verse>
+                              </note>
+                           
+                           <note xml:id="e21-m-631" dur="4" oct="4" pname="b" pnum="70">
+                              <!-- DELETED -->
+                              <!--
+        
+        this-pitch= 70 
+        last-pitch= 70
+        this-acc= f
+        last-acc= f-->
+                              
+                              <verse xml:id="e21-m-641" n="1">
+                                 
+                                 <syl xml:id="e21-m-642" con="d" wordpos="m">tun</syl>
+                                 </verse>
+                              </note>
+                           
+                           <note xml:id="e21-m-633" dur="2" oct="4" pname="a" pnum="69">
+                              
+                              <verse xml:id="e21-m-643" n="1">
+                                 
+                                 <syl xml:id="e21-m-644" wordpos="t">dam</syl>
+                                 </verse>
+                              </note>
+                           
+                           <note xml:id="e21-m-634" dur="2" oct="5" pname="c" pnum="72">
+                              
+                              <verse xml:id="e21-m-645" n="1">
+                                 
+                                 <syl xml:id="e21-m-646" wordpos="t" con="u">In</syl>
+                                 </verse>
+                              </note>
+                           </layer>
+                        </staff>
+                     
+                     <staff xml:id="e21-m-647" n="3">
+                        
+                        <layer xml:id="e21-m-648" n="1">
+                           
+                           <note xml:id="e21-m-649" dur="1" oct="3" pname="b" pnum="58">
+                              
+                              <accid xml:id="e21-m-650" accid.ges="f"></accid>
+                              
+                              <verse xml:id="e21-m-653" n="1">
+                                 
+                                 <syl xml:id="e21-m-654" con="d" wordpos="i">par</syl>
+                                 </verse>
+                              </note>
+                           
+                           <note xml:id="e21-m-651" dur="2" oct="4" pname="c" pnum="60">
+                              
+                              <verse xml:id="e21-m-655" n="1">
+                                 
+                                 <syl xml:id="e21-m-656" wordpos="t">te</syl>
+                                 </verse>
+                              </note>
+                           
+                           <note xml:id="e21-m-652" dur="2" oct="4" pname="c" pnum="60">
+                              
+                              <verse xml:id="e21-m-691" n="1">
+                                 
+                                 <syl xml:id="e21-m-692" con="d" wordpos="i">ro</syl>
+                                 </verse>
+                              </note>
+                           </layer>
+                        </staff>
+                     
+                     <tie xmlns:mei="http://www.music-encoding.org/ns/mei" startid="#e21-m-634" endid="#e21-m-676"></tie>
+                     </measure>
+                  
+                  <measure xml:id="e21-m-657" n="17">
+                     
+                     <staff xml:id="e21-m-658" n="1">
+                        
+                        <layer xml:id="e21-m-659" n="1">
+                           
+                           <note xml:id="e21-m-660" dur="2" oct="5" pname="d" pnum="74">
+                              
+                              <verse xml:id="e21-m-670" n="1">
+                                 
+                                 <syl xml:id="e21-m-671" wordpos="t">dam</syl>
+                                 </verse>
+                              </note>
+                           
+                           <note xml:id="e21-m-661" dots="1" dur="2" oct="5" pname="f" pnum="77">
+                              
+                              <verse xml:id="e21-m-672" n="1">
+                                 
+                                 <syl xml:id="e21-m-673" wordpos="t" con="u">In</syl>
+                                 </verse>
+                              </note>
+                           
+                           <note xml:id="e21-m-662" dur="4" oct="5" pname="e" pnum="75">
+                              
+                              <accid xml:id="e21-m-663" accid="f"></accid>
+                              </note>
+                           
+                           <note xml:id="e21-m-664" dur="4" oct="5" pname="d" pnum="74"></note>
+                           
+                           <note xml:id="e21-m-665" dur="4" oct="5" pname="c" pnum="72"></note>
+                           </layer>
+                        </staff>
+                     
+                     <staff xml:id="e21-m-674" n="2">
+                        
+                        <layer xml:id="e21-m-675" n="1">
+                           
+                           <note xmlns:mei="http://www.music-encoding.org/ns/mei" xml:id="e21-m-676" dur="4" oct="5" pname="c" pnum="72"></note>
+                           
+                           <note xml:id="e21-m-677" dur="4" oct="4" pname="b" pnum="70">
+                              
+                              <accid xml:id="e21-m-678" accid.ges="f"></accid>
+                              </note>
+                           
+                           <note xml:id="e21-m-679" dur="4" oct="4" pname="a" pnum="69"></note>
+                           
+                           <note xml:id="e21-m-680" dur="4" oct="4" pname="g" pnum="67"></note>
+                           
+                           <note xml:id="e21-m-681" dur="4" oct="4" pname="f" pnum="65"></note>
+                           
+                           <note xml:id="e21-m-682" dur="4" oct="4" pname="g" pnum="67"></note>
+                           
+                           <note xml:id="e21-m-683" dur="4" oct="4" pname="a" pnum="69"></note>
+                           
+                           <note xml:id="e21-m-684" dur="4" oct="4" pname="f" pnum="66">
+                              
+                              <accid xml:id="e21-m-685" accid="s" func="caution"></accid>
+                              </note>
+                           </layer>
+                        </staff>
+                     
+                     <staff xml:id="e21-m-686" n="3">
+                        
+                        <layer xml:id="e21-m-687" n="1">
+                           
+                           <note xml:id="e21-m-688" dur="2" oct="4" pname="d" pnum="62">
+                              
+                              <verse xml:id="e21-m-693" n="1">
+                                 
+                                 <syl xml:id="e21-m-694" con="d" wordpos="m">tun</syl>
+                                 </verse>
+                              </note>
+                           
+                           <note xml:id="e21-m-689" dur="2" oct="4" pname="d" pnum="62">
+                              
+                              <verse xml:id="e21-m-695" n="1">
+                                 
+                                 <syl xml:id="e21-m-696" wordpos="t">dam</syl>
+                                 </verse>
+                              </note>
+                           
+                           <note xml:id="e21-m-690" dur="1" oct="3" pname="a" pnum="57">
+                              
+                              <verse xml:id="e21-m-697" n="1">
+                                 
+                                 <syl xml:id="e21-m-698" wordpos="t" con="u">In</syl>
+                                 </verse>
+                              </note>
+                           </layer>
+                        </staff>
+                     </measure>
+                  
+                  <measure xml:id="e21-m-699" n="18">
+                     
+                     <staff xml:id="e21-m-700" n="1">
+                        
+                        <layer xml:id="e21-m-701" n="1">
+                           
+                           <note xml:id="e21-m-702" dur="4" oct="4" pname="b" pnum="71"></note>
+                           
+                           <note xml:id="e21-m-704" dur="4" oct="5" pname="c" pnum="72"></note>
+                           
+                           <note xml:id="e21-m-705" dur="4" oct="5" pname="d" pnum="74"></note>
+                           
+                           <note xml:id="e21-m-706" dur="4" oct="4" pname="b" pnum="71">
+                              
+                              <accid xml:id="e21-m-707" accid="n"></accid>
+                              </note>
+                           
+                           <note xml:id="e21-m-708" dur="2" oct="5" pname="c" pnum="72">
+                              
+                              <verse xml:id="e21-m-710" n="1">
+                                 
+                                 <syl xml:id="e21-m-711" con="d" wordpos="i">sphae</syl>
+                                 </verse>
+                              </note>
+                           
+                           <note xml:id="e21-m-709" dur="2" oct="5" pname="c" pnum="72">
+                              
+                              <verse xml:id="e21-m-712" n="1">
+                                 
+                                 <syl xml:id="e21-m-713" wordpos="t">ram</syl>
+                                 </verse>
+                              </note>
+                           </layer>
+                        </staff>
+                     
+                     <staff xml:id="e21-m-714" n="2">
+                        
+                        <layer xml:id="e21-m-715" n="1">
+                           
+                           <note xml:id="e21-m-716" dur="2" oct="4" pname="g" pnum="67">
+                              
+                              <verse xml:id="e21-m-720" n="1">
+                                 
+                                 <syl xml:id="e21-m-721" con="d" wordpos="i">sphae</syl>
+                                 </verse>
+                              </note>
+                           
+                           <note xml:id="e21-m-717" dur="2" oct="4" pname="g" pnum="67">
+                              
+                              <verse xml:id="e21-m-722" n="1">
+                                 
+                                 <syl xml:id="e21-m-723" wordpos="t">ram</syl>
+                                 </verse>
+                              </note>
+                           
+                           <rest xml:id="e21-m-718" dur="2"></rest>
+                           
+                           <note xml:id="e21-m-719" dur="2" oct="4" pname="e" pnum="64">
+                              
+                              <verse xml:id="e21-m-747" n="1">
+                                 
+                                 <syl xml:id="e21-m-748" con="d" wordpos="i">re</syl>
+                                 </verse>
+                              </note>
+                           </layer>
+                        </staff>
+                     
+                     <staff xml:id="e21-m-724" n="3">
+                        
+                        <layer xml:id="e21-m-725" n="1">
+                           
+                           <note xml:id="e21-m-726" dur="1" oct="3" pname="g" pnum="55">
+                              
+                              <verse xml:id="e21-m-728" n="1">
+                                 
+                                 <syl xml:id="e21-m-729" con="d" wordpos="i">sphae</syl>
+                                 </verse>
+                              </note>
+                           
+                           <note xml:id="e21-m-727" dur="1" oct="3" pname="a" pnum="57">
+                              
+                              <verse xml:id="e21-m-730" n="1">
+                                 
+                                 <syl xml:id="e21-m-731" wordpos="t">ram</syl>
+                                 </verse>
+                              </note>
+                           </layer>
+                        </staff>
+                     </measure>
+                  
+                  <sb xml:id="e21-m-733"></sb>
+                  
+                  <measure xml:id="e21-m-732" n="19">
+                     
+                     <staff xml:id="e21-m-734" n="1">
+                        
+                        <layer xml:id="e21-m-735" n="1">
+                           
+                           <rest xml:id="e21-m-736" dur="2"></rest>
+                           
+                           <note xml:id="e21-m-737" dur="2" oct="4" pname="a" pnum="69">
+                              
+                              <verse xml:id="e21-m-776" n="1">
+                                 
+                                 <syl xml:id="e21-m-777" con="d" wordpos="i">re</syl>
+                                 </verse>
+                              </note>
+                           
+                           <note xml:id="e21-m-738" dots="1" dur="2" oct="5" pname="d" pnum="74"></note>
+                           
+                           <note xml:id="e21-m-739" dur="4" oct="5" pname="d" pnum="74">
+                              
+                              <verse xml:id="e21-m-778" n="1">
+                                 
+                                 <syl xml:id="e21-m-779" con="d" wordpos="m">de</syl>
+                                 </verse>
+                              </note>
+                           </layer>
+                        </staff>
+                     
+                     <staff xml:id="e21-m-740" n="2">
+                        
+                        <layer xml:id="e21-m-741" n="1">
+                           
+                           <note xml:id="e21-m-742" dots="1" dur="2" oct="4" pname="a" pnum="69"></note>
+                           
+                           <note xml:id="e21-m-743" dur="4" oct="4" pname="a" pnum="69">
+                              
+                              <verse xml:id="e21-m-749" n="1">
+                                 
+                                 <syl xml:id="e21-m-750" con="d" wordpos="m">de</syl>
+                                 </verse>
+                              </note>
+                           
+                           <note xml:id="e21-m-744" dur="4" oct="4" pname="g" pnum="67"></note>
+                           
+                           <note xml:id="e21-m-745" dur="4" oct="4" pname="f" pnum="65"></note>
+                           
+                           <note xml:id="e21-m-746" dur="2" oct="4" pname="g" pnum="67">
+                              
+                              <verse xml:id="e21-m-751" n="1">
+                                 
+                                 <syl xml:id="e21-m-752" wordpos="t">at:</syl>
+                                 </verse>
+                              </note>
+                           </layer>
+                        </staff>
+                     
+                     <staff xml:id="e21-m-753" n="3">
+                        
+                        <layer xml:id="e21-m-754" n="1">
+                           
+                           <note xml:id="e21-m-755" dur="2" oct="4" pname="c" pnum="60">
+                              
+                              <verse xml:id="e21-m-759" n="1">
+                                 
+                                 <syl xml:id="e21-m-760" con="d" wordpos="i">re</syl>
+                                 </verse>
+                              </note>
+                           
+                           <note xml:id="e21-m-756" dur="2" oct="4" pname="c" pnum="60">
+                              
+                              <verse xml:id="e21-m-761" n="1">
+                                 
+                                 <syl xml:id="e21-m-762" con="d" wordpos="m">de</syl>
+                                 </verse>
+                              </note>
+                           
+                           <note xml:id="e21-m-757" dur="1" oct="3" pname="b" pnum="58">
+                              
+                              <accid xml:id="e21-m-758" accid.ges="f"></accid>
+                              
+                              <verse xml:id="e21-m-763" n="1">
+                                 
+                                 <syl xml:id="e21-m-764" wordpos="t">at:</syl>
+                                 </verse>
+                              </note>
+                           </layer>
+                        </staff>
+                     </measure>
+                  
+                  <measure xml:id="e21-m-765" n="20">
+                     
+                     <staff xml:id="e21-m-766" n="1">
+                        
+                        <layer xml:id="e21-m-767" n="1">
+                           
+                           <note xml:id="e21-m-768" dur="4" oct="5" pname="c" pnum="72"></note>
+                           
+                           <note xml:id="e21-m-769" dur="4" oct="4" pname="b" pnum="70">
+                              
+                              <accid xml:id="e21-m-770" accid.ges="f"></accid>
+                              </note>
+                           
+                           <note xml:id="e21-m-771" dur="2" oct="5" pname="c" pnum="72">
+                              
+                              <verse xml:id="e21-m-780" n="1">
+                                 
+                                 <syl xml:id="e21-m-781" wordpos="t">at:</syl>
+                                 </verse>
+                              </note>
+                           
+                           <note xml:id="e21-m-772" dur="4" oct="5" pname="d" pnum="74">
+                              
+                              <verse xml:id="e21-m-782" n="1">
+                                 
+                                 <syl xml:id="e21-m-783" wordpos="t" con="u">Tum</syl>
+                                 </verse>
+                              </note>
+                           
+                           <note xml:id="e21-m-773" dur="4" oct="5" pname="c" pnum="72"></note>
+                           
+                           <note xml:id="e21-m-774" dur="2" oct="5" pname="d" pnum="74">
+                              
+                              <verse xml:id="e21-m-820" n="1">
+                                 
+                                 <syl xml:id="e21-m-821" con="d" wordpos="i">LA</syl>
+                                 </verse>
+                              </note>
+                           </layer>
+                        </staff>
+                     
+                     <staff xml:id="e21-m-784" n="2">
+                        
+                        <layer xml:id="e21-m-785" n="1">
+                           
+                           <note xml:id="e21-m-786" dur="4" oct="4" pname="a" pnum="69">
+                              
+                              <verse xml:id="e21-m-790" n="1">
+                                 
+                                 <syl xml:id="e21-m-791" wordpos="t" con="u">Tum</syl>
+                                 </verse>
+                              </note>
+                           
+                           <note xml:id="e21-m-787" dur="4" oct="4" pname="g" pnum="67"></note>
+                           
+                           <note xml:id="e21-m-788" dur="1" oct="4" pname="a" pnum="69">
+                              
+                              <verse xml:id="e21-m-792" n="1">
+                                 
+                                 <syl xml:id="e21-m-793" con="d" wordpos="i">LA</syl>
+                                 </verse>
+                              </note>
+                           
+                           <note xml:id="e21-m-789" dur="2" oct="4" pname="g" pnum="67">
+                              
+                              <verse xml:id="e21-m-794" n="1">
+                                 
+                                 <syl xml:id="e21-m-795" wordpos="t">PIS</syl>
+                                 </verse>
+                              </note>
+                           </layer>
+                        </staff>
+                     
+                     <staff xml:id="e21-m-796" n="3">
+                        
+                        <layer xml:id="e21-m-797" n="1">
+                           
+                           <note xml:id="e21-m-798" dur="1" oct="3" pname="a" pnum="57">
+                              
+                              <verse xml:id="e21-m-803" n="1">
+                                 
+                                 <syl xml:id="e21-m-804" wordpos="i">Tum</syl>
+                                 </verse>
+                              </note>
+                           
+                           <note xml:id="e21-m-799" dur="2" oct="3" pname="b" pnum="58">
+                              
+                              <accid xml:id="e21-m-800" accid.ges="f"></accid>
+                              
+                              <verse xml:id="e21-m-805" n="1">
+                                 
+                                 <syl xml:id="e21-m-806" con="d" wordpos="i">LA</syl>
+                                 </verse>
+                              </note>
+                           
+                           <note xml:id="e21-m-801" dur="2" oct="3" pname="b" pnum="58">
+                              <!-- DELETED -->
+                              <!--
+        
+        this-pitch= 58 
+        last-pitch= 58
+        this-acc= f
+        last-acc= f-->
+                              
+                              <verse xml:id="e21-m-807" n="1">
+                                 
+                                 <syl xml:id="e21-m-808" wordpos="t">PIS</syl>
+                                 </verse>
+                              </note>
+                           </layer>
+                        </staff>
+                     
+                     <tie xml:id="e21-m-775" endid="#m-812" startid="#m-774"></tie>
+                     
+                     <tie xmlns:mei="http://www.music-encoding.org/ns/mei" startid="#e21-m-774" endid="#e21-m-812"></tie>
+                     </measure>
+                  
+                  <measure xml:id="e21-m-809" n="21">
+                     
+                     <staff xml:id="e21-m-810" n="1">
+                        
+                        <layer xml:id="e21-m-811" n="1">
+                           
+                           <note xmlns:mei="http://www.music-encoding.org/ns/mei" xml:id="e21-m-812" dur="2" oct="5" pname="d" pnum="74"></note>
+                           
+                           <note xml:id="e21-m-813" dur="2" oct="5" pname="c" pnum="72">
+                              
+                              <verse xml:id="e21-m-822" n="1">
+                                 
+                                 <syl xml:id="e21-m-823" wordpos="t">PIS</syl>
+                                 </verse>
+                              </note>
+                           
+                           <note xml:id="e21-m-814" dur="2" oct="4" pname="b" pnum="71">
+                              
+                              <accid xml:id="e21-m-815" accid="n"></accid>
+                              
+                              <verse xml:id="e21-m-824" n="1">
+                                 
+                                 <syl xml:id="e21-m-825" con="d" wordpos="i">or</syl>
+                                 </verse>
+                              </note>
+                           
+                           <note xml:id="e21-m-816" dur="4" oct="4" pname="b" pnum="71">
+                              <!-- DELETED -->
+                              <!--
+        
+        this-pitch= 71 
+        last-pitch= 71
+        this-acc= n
+        last-acc= n-->
+                              
+                              <verse xml:id="e21-m-826" n="1">
+                                 
+                                 <syl xml:id="e21-m-827" wordpos="t">tus</syl>
+                                 </verse>
+                              </note>
+                           
+                           <note xml:id="e21-m-818" dur="4" oct="4" pname="b" pnum="71">
+                              <!-- DELETED -->
+                              <!--
+        
+        this-pitch= 71 
+        last-pitch= 71
+        this-acc= n
+        last-acc= n-->
+                              
+                              <verse xml:id="e21-m-852" n="1">
+                                 
+                                 <syl xml:id="e21-m-853" con="d" wordpos="i">e</syl>
+                                 </verse>
+                              </note>
+                           </layer>
+                        </staff>
+                     
+                     <staff xml:id="e21-m-828" n="2">
+                        
+                        <layer xml:id="e21-m-829" n="1">
+                           
+                           <note xml:id="e21-m-830" dur="2" oct="4" pname="f" pnum="66">
+                              
+                              <accid xml:id="e21-m-831" accid="s"></accid>
+                              
+                              <verse xml:id="e21-m-834" n="1">
+                                 
+                                 <syl xml:id="e21-m-835" con="d" wordpos="i">or</syl>
+                                 </verse>
+                              </note>
+                           
+                           <note xml:id="e21-m-832" dur="2" oct="4" pname="e" pnum="64">
+                              
+                              <verse xml:id="e21-m-836" n="1">
+                                 
+                                 <syl xml:id="e21-m-837" wordpos="t">tus</syl>
+                                 </verse>
+                              </note>
+                           
+                           <note xml:id="e21-m-833" dur="1" oct="4" pname="g" pnum="67">
+                              
+                              <verse xml:id="e21-m-859" n="1">
+                                 
+                                 <syl xml:id="e21-m-860" con="d" wordpos="i">e</syl>
+                                 </verse>
+                              </note>
+                           </layer>
+                        </staff>
+                     
+                     <staff xml:id="e21-m-838" n="3">
+                        
+                        <layer xml:id="e21-m-839" n="1">
+                           
+                           <note xml:id="e21-m-840" dur="1" oct="3" pname="a" pnum="57">
+                              
+                              <verse xml:id="e21-m-843" n="1">
+                                 
+                                 <syl xml:id="e21-m-844" con="d" wordpos="i">or</syl>
+                                 </verse>
+                              </note>
+                           
+                           <note xml:id="e21-m-841" dur="2" oct="3" pname="g" pnum="55">
+                              
+                              <verse xml:id="e21-m-845" n="1">
+                                 
+                                 <syl xml:id="e21-m-846" wordpos="t">tus</syl>
+                                 </verse>
+                              </note>
+                           
+                           <note xml:id="e21-m-842" dur="2" oct="3" pname="g" pnum="55">
+                              
+                              <verse xml:id="e21-m-866" n="1">
+                                 
+                                 <syl xml:id="e21-m-867" con="d" wordpos="i">e</syl>
+                                 </verse>
+                              </note>
+                           </layer>
+                        </staff>
+                     </measure>
+                  
+                  <measure xml:id="e21-m-847" metcon="false" n="22" right="dbl" perf-dur="7">
+                     
+                     <staff xml:id="e21-m-848" n="1">
+                        
+                        <layer xml:id="e21-m-849" n="1">
+                           <!-- Original note -->
+                           <note xmlns:mei="http://www.music-encoding.org/ns/mei" dur="2" xml:id="e21-m-850" oct="4" pname="b" pnum="71" stem.dir="down"></note>
+                           <!-- Filler notes -->
+                           <note xmlns:mei="http://www.music-encoding.org/ns/mei" xml:id="d1e2363-FAKE-6" dur="2" pnum="65" class="fake-note-for-timing"></note>
+                           <note xmlns:mei="http://www.music-encoding.org/ns/mei" xml:id="d1e2363-FAKE-5" dur="2" pnum="65" class="fake-note-for-timing"></note>
+                           <note xmlns:mei="http://www.music-encoding.org/ns/mei" xml:id="d1e2363-FAKE-4" dur="2" pnum="65" class="fake-note-for-timing"></note>
+                           <note xmlns:mei="http://www.music-encoding.org/ns/mei" xml:id="d1e2363-FAKE-3" dur="2" pnum="65" class="fake-note-for-timing"></note>
+                           <note xmlns:mei="http://www.music-encoding.org/ns/mei" xml:id="d1e2363-FAKE-2" dur="2" pnum="65" class="fake-note-for-timing"></note>
+                           <note xmlns:mei="http://www.music-encoding.org/ns/mei" xml:id="d1e2363-FAKE-1" dur="2" pnum="65" class="fake-note-for-timing" match-end="e21-m-850"></note>
+                           </layer>
+                        </staff>
+                     
+                     <staff xml:id="e21-m-856" n="2">
+                        
+                        <layer xml:id="e21-m-857" n="1">
+                           <!-- Original note -->
+                           <note xmlns:mei="http://www.music-encoding.org/ns/mei" dur="2" xml:id="e21-m-858" oct="4" pname="g" pnum="67" stem.dir="up"></note>
+                           <!-- Filler notes -->
+                           <note xmlns:mei="http://www.music-encoding.org/ns/mei" xml:id="d1e2380-FAKE-6" dur="2" pnum="65" class="fake-note-for-timing"></note>
+                           <note xmlns:mei="http://www.music-encoding.org/ns/mei" xml:id="d1e2380-FAKE-5" dur="2" pnum="65" class="fake-note-for-timing"></note>
+                           <note xmlns:mei="http://www.music-encoding.org/ns/mei" xml:id="d1e2380-FAKE-4" dur="2" pnum="65" class="fake-note-for-timing"></note>
+                           <note xmlns:mei="http://www.music-encoding.org/ns/mei" xml:id="d1e2380-FAKE-3" dur="2" pnum="65" class="fake-note-for-timing"></note>
+                           <note xmlns:mei="http://www.music-encoding.org/ns/mei" xml:id="d1e2380-FAKE-2" dur="2" pnum="65" class="fake-note-for-timing"></note>
+                           <note xmlns:mei="http://www.music-encoding.org/ns/mei" xml:id="d1e2380-FAKE-1" dur="2" pnum="65" class="fake-note-for-timing" match-end="e21-m-858"></note>
+                           </layer>
+                        </staff>
+                     
+                     <staff xml:id="e21-m-863" n="3">
+                        
+                        <layer xml:id="e21-m-864" n="1">
+                           <!-- Original note -->
+                           <note xmlns:mei="http://www.music-encoding.org/ns/mei" dur="2" xml:id="e21-m-865" oct="3" pname="g" pnum="55" stem.dir="up"></note>
+                           <!-- Filler notes -->
+                           <note xmlns:mei="http://www.music-encoding.org/ns/mei" xml:id="d1e2395-FAKE-6" dur="2" pnum="65" class="fake-note-for-timing"></note>
+                           <note xmlns:mei="http://www.music-encoding.org/ns/mei" xml:id="d1e2395-FAKE-5" dur="2" pnum="65" class="fake-note-for-timing"></note>
+                           <note xmlns:mei="http://www.music-encoding.org/ns/mei" xml:id="d1e2395-FAKE-4" dur="2" pnum="65" class="fake-note-for-timing"></note>
+                           <note xmlns:mei="http://www.music-encoding.org/ns/mei" xml:id="d1e2395-FAKE-3" dur="2" pnum="65" class="fake-note-for-timing"></note>
+                           <note xmlns:mei="http://www.music-encoding.org/ns/mei" xml:id="d1e2395-FAKE-2" dur="2" pnum="65" class="fake-note-for-timing"></note>
+                           <note xmlns:mei="http://www.music-encoding.org/ns/mei" xml:id="d1e2395-FAKE-1" dur="2" pnum="65" class="fake-note-for-timing" match-end="e21-m-865"></note>
+                           </layer>
+                        </staff>
+                     </measure>
+                  
+                  <pb xml:id="e21-m-872" n="3"></pb>
+                  
+                  <sb xml:id="e21-m-871"></sb>
+                  
+                  <measure xml:id="e21-m-870" n="23">
+                     
+                     <staff xml:id="e21-m-873" n="1">
+                        
+                        <layer xml:id="e21-m-874" n="1">
+                           
+                           <rest xml:id="e21-m-875" dur="1"></rest>
+                           
+                           <rest xml:id="e21-m-876" dur="2"></rest>
+                           
+                           <note xml:id="e21-m-877" dur="2" oct="5" pname="d" pnum="74">
+                              
+                              <verse xml:id="e21-m-878" n="1">
+                                 
+                                 <syl xml:id="e21-m-879" wordpos="i">Si</syl>
+                                 </verse>
+                              </note>
+                           </layer>
+                        </staff>
+                     
+                     <staff xml:id="e21-m-880" n="2">
+                        
+                        <layer xml:id="e21-m-881" n="1">
+                           
+                           <rest xml:id="e21-m-882" dur="2"></rest>
+                           
+                           <note xml:id="e21-m-883" dur="2" oct="4" pname="a" pnum="69">
+                              
+                              <verse xml:id="e21-m-889" n="1">
+                                 
+                                 <syl xml:id="e21-m-890" wordpos="i">Si</syl>
+                                 </verse>
+                              </note>
+                           
+                           <note xml:id="e21-m-884" dur="4" oct="4" pname="b" pnum="71">
+                              
+                              <accid xml:id="e21-m-885" accid="n"></accid>
+                              
+                              <verse xml:id="e21-m-891" n="1">
+                                 
+                                 <syl xml:id="e21-m-892" wordpos="i">res</syl>
+                                 </verse>
+                              </note>
+                           
+                           <note xml:id="e21-m-886" dur="2" oct="5" pname="c" pnum="72">
+                              
+                              <verse xml:id="e21-m-893" n="1">
+                                 
+                                 <syl xml:id="e21-m-894" con="d" wordpos="i">tan</syl>
+                                 </verse>
+                              </note>
+                           
+                           <note xml:id="e21-m-887" dur="4" oct="4" pname="b" pnum="71">
+                              
+                              <verse xml:id="e21-m-895" n="1">
+                                 
+                                 <syl xml:id="e21-m-896" wordpos="t">ta</syl>
+                                 </verse>
+                              </note>
+                           </layer>
+                        </staff>
+                     
+                     <staff xml:id="e21-m-897" n="3">
+                        
+                        <layer xml:id="e21-m-898" n="1">
+                           
+                           <note xml:id="e21-m-899" dur="1" oct="4" pname="d" pnum="62">
+                              
+                              <verse xml:id="e21-m-901" n="1">
+                                 
+                                 <syl xml:id="e21-m-902" wordpos="i">Si</syl>
+                                 </verse>
+                              </note>
+                           
+                           <note xml:id="e21-m-900" dur="1" oct="4" pname="d" pnum="62">
+                              
+                              <verse xml:id="e21-m-903" n="1">
+                                 
+                                 <syl xml:id="e21-m-904" wordpos="i">res</syl>
+                                 </verse>
+                              </note>
+                           </layer>
+                        </staff>
+                     </measure>
+                  
+                  <measure xml:id="e21-m-905" n="24">
+                     
+                     <staff xml:id="e21-m-906" n="1">
+                        
+                        <layer xml:id="e21-m-907" n="1">
+                           
+                           <note xml:id="e21-m-908" dur="4" oct="5" pname="e" pnum="77">
+                              
+                              <verse xml:id="e21-m-916" n="1">
+                                 
+                                 <syl xml:id="e21-m-917" wordpos="i">res</syl>
+                                 </verse>
+                              </note>
+                           
+                           <note xml:id="e21-m-910" dur="2" oct="5" pname="f" pnum="77">
+                              
+                              <verse xml:id="e21-m-918" n="1">
+                                 
+                                 <syl xml:id="e21-m-919" con="d" wordpos="i">tan</syl>
+                                 </verse>
+                              </note>
+                           
+                           <note xml:id="e21-m-911" dur="4" oct="5" pname="e" pnum="77">
+                              
+                              <verse xml:id="e21-m-920" n="1">
+                                 
+                                 <syl xml:id="e21-m-921" wordpos="t">ta</syl>
+                                 </verse>
+                              </note>
+                           
+                           <note xml:id="e21-m-913" dur="4" oct="5" pname="f" pnum="77">
+                              
+                              <verse xml:id="e21-m-922" n="1">
+                                 
+                                 <syl xml:id="e21-m-923" con="d" wordpos="i">tu</syl>
+                                 </verse>
+                              </note>
+                           
+                           <note xml:id="e21-m-914" dur="4" oct="5" pname="g" pnum="79"></note>
+                           
+                           <note xml:id="e21-m-915" dur="2" oct="5" pname="f" pnum="77">
+                              
+                              <verse xml:id="e21-m-924" n="1">
+                                 
+                                 <syl xml:id="e21-m-925" con="u" wordpos="t">ae</syl>
+                                 </verse>
+                              </note>
+                           </layer>
+                        </staff>
+                     
+                     <staff xml:id="e21-m-926" n="2">
+                        
+                        <layer xml:id="e21-m-927" n="1">
+                           
+                           <note xml:id="e21-m-928" dur="4" oct="5" pname="c" pnum="72">
+                              
+                              <verse xml:id="e21-m-936" n="1">
+                                 
+                                 <syl xml:id="e21-m-937" con="d" wordpos="i">tu</syl>
+                                 </verse>
+                              </note>
+                           
+                           <note xml:id="e21-m-929" dur="4" oct="5" pname="d" pnum="74"></note>
+                           
+                           <note xml:id="e21-m-930" dots="1" dur="2" oct="5" pname="c" pnum="72">
+                              
+                              <verse xml:id="e21-m-938" n="1">
+                                 
+                                 <syl xml:id="e21-m-939" con="u" wordpos="t">ae</syl>
+                                 </verse>
+                              </note>
+                           
+                           <note xml:id="e21-m-931" dur="4" oct="4" pname="b" pnum="70">
+                              
+                              <accid xml:id="e21-m-932" accid.ges="f"></accid>
+                              </note>
+                           
+                           <note xml:id="e21-m-933" dur="2" oct="4" pname="b" pnum="70">
+                              <!-- DELETED -->
+                              <!--
+        
+        this-pitch= 70 
+        last-pitch= 70
+        this-acc= f
+        last-acc= f-->
+                              
+                              <verse xml:id="e21-m-940" n="1">
+                                 
+                                 <syl xml:id="e21-m-941" wordpos="i">non</syl>
+                                 </verse>
+                              </note>
+                           </layer>
+                        </staff>
+                     
+                     <staff xml:id="e21-m-942" n="3">
+                        
+                        <layer xml:id="e21-m-943" n="1">
+                           
+                           <note xml:id="e21-m-944" dur="1" oct="4" pname="c" pnum="60">
+                              
+                              <verse xml:id="e21-m-947" n="1">
+                                 
+                                 <syl xml:id="e21-m-948" con="d" wordpos="i">tan</syl>
+                                 </verse>
+                              </note>
+                           
+                           <note xml:id="e21-m-945" dur="2" oct="4" pname="d" pnum="62">
+                              
+                              <verse xml:id="e21-m-949" n="1">
+                                 
+                                 <syl xml:id="e21-m-950" wordpos="t">ta</syl>
+                                 </verse>
+                              </note>
+                           
+                           <note xml:id="e21-m-946" dur="2" oct="4" pname="d" pnum="62">
+                              
+                              <verse xml:id="e21-m-981" n="1">
+                                 
+                                 <syl xml:id="e21-m-982" con="d" wordpos="i">tu</syl>
+                                 </verse>
+                              </note>
+                           </layer>
+                        </staff>
+                     
+                     <tie xml:id="e21-m-935" endid="#m-964" startid="#m-933"></tie>
+                     
+                     <tie xmlns:mei="http://www.music-encoding.org/ns/mei" startid="#e21-m-915" endid="#e21-m-954"></tie>
+                     
+                     <tie xmlns:mei="http://www.music-encoding.org/ns/mei" startid="#e21-m-933" endid="#e21-m-964"></tie>
+                     </measure>
+                  
+                  <measure xml:id="e21-m-951" n="25">
+                     
+                     <staff xml:id="e21-m-952" n="1">
+                        
+                        <layer xml:id="e21-m-953" n="1">
+                           
+                           <note xmlns:mei="http://www.music-encoding.org/ns/mei" xml:id="e21-m-954" dur="4" oct="5" pname="f" pnum="77"></note>
+                           
+                           <note xml:id="e21-m-955" dur="4" oct="5" pname="e" pnum="76"></note>
+                           
+                           <note xml:id="e21-m-956" dur="1" oct="5" pname="e" pnum="76">
+                              
+                              <verse xml:id="e21-m-958" n="1">
+                                 
+                                 <syl xml:id="e21-m-959" wordpos="i">non</syl>
+                                 </verse>
+                              </note>
+                           
+                           <note xml:id="e21-m-957" dur="2" oct="5" pname="d" pnum="74">
+                              
+                              <verse xml:id="e21-m-960" n="1">
+                                 
+                                 <syl xml:id="e21-m-961" wordpos="i">mox</syl>
+                                 </verse>
+                              </note>
+                           </layer>
+                        </staff>
+                     
+                     <staff xml:id="e21-m-962" n="2">
+                        
+                        <layer xml:id="e21-m-963" n="1">
+                           
+                           <note xmlns:mei="http://www.music-encoding.org/ns/mei" xml:id="e21-m-964" dur="2" oct="4" pname="b" pnum="70">
+                              
+                              <accid xml:id="e21-m-965" accid.ges="f"></accid>
+                              </note>
+                           
+                           <note xml:id="e21-m-966" dur="2" oct="4" pname="a" pnum="69">
+                              
+                              <verse xml:id="e21-m-970" n="1">
+                                 
+                                 <syl xml:id="e21-m-971" wordpos="i">mox</syl>
+                                 </verse>
+                              </note>
+                           
+                           <note xml:id="e21-m-967" dur="2" oct="4" pname="b" pnum="70">
+                              
+                              <accid xml:id="e21-m-968" accid.ges="f"></accid>
+                              
+                              <verse xml:id="e21-m-972" n="1">
+                                 
+                                 <syl xml:id="e21-m-973" con="d" wordpos="i">ve</syl>
+                                 </verse>
+                              </note>
+                           
+                           <note xml:id="e21-m-969" dur="2" oct="4" pname="g" pnum="67">
+                              
+                              <verse xml:id="e21-m-974" n="1">
+                                 
+                                 <syl xml:id="e21-m-975" wordpos="t">nit</syl>
+                                 </verse>
+                              </note>
+                           </layer>
+                        </staff>
+                     
+                     <staff xml:id="e21-m-976" n="3">
+                        
+                        <layer xml:id="e21-m-977" n="1">
+                           
+                           <note xml:id="e21-m-978" dur="1" oct="4" pname="c" pnum="60">
+                              
+                              <verse xml:id="e21-m-983" n="1">
+                                 
+                                 <syl xml:id="e21-m-984" wordpos="t">ae</syl>
+                                 </verse>
+                              </note>
+                           
+                           <note xml:id="e21-m-979" dur="1" oct="3" pname="b" pnum="58">
+                              
+                              <accid xml:id="e21-m-980" accid.ges="f"></accid>
+                              
+                              <verse xml:id="e21-m-985" n="1">
+                                 
+                                 <syl xml:id="e21-m-986" wordpos="i">non</syl>
+                                 </verse>
+                              </note>
+                           </layer>
+                        </staff>
+                     </measure>
+                  
+                  <measure xml:id="e21-m-987" n="26">
+                     
+                     <staff xml:id="e21-m-988" n="1">
+                        
+                        <layer xml:id="e21-m-989" n="1">
+                           
+                           <note xml:id="e21-m-990" dur="2" oct="5" pname="e" pnum="76">
+                              
+                              <verse xml:id="e21-m-994" n="1">
+                                 
+                                 <syl xml:id="e21-m-995" con="d" wordpos="i">ve</syl>
+                                 </verse>
+                              </note>
+                           
+                           <note xml:id="e21-m-991" dur="2" oct="5" pname="c" pnum="72">
+                              
+                              <verse xml:id="e21-m-996" n="1">
+                                 
+                                 <syl xml:id="e21-m-997" wordpos="t">nit</syl>
+                                 </verse>
+                              </note>
+                           
+                           <rest xml:id="e21-m-992" dur="2"></rest>
+                           
+                           <note xml:id="e21-m-993" dur="2" oct="4" pname="a" pnum="69">
+                              
+                              <verse xml:id="e21-m-1027" n="1">
+                                 
+                                 <syl xml:id="e21-m-1028" con="d" wordpos="i">ob</syl>
+                                 </verse>
+                              </note>
+                           </layer>
+                        </staff>
+                     
+                     <staff xml:id="e21-m-998" n="2">
+                        
+                        <layer xml:id="e21-m-999" n="1">
+                           
+                           <rest xml:id="e21-m-1000" dur="2"></rest>
+                           
+                           <note xml:id="e21-m-1001" dur="2" oct="4" pname="e" pnum="64">
+                              
+                              <verse xml:id="e21-m-1041" n="1">
+                                 
+                                 <syl xml:id="e21-m-1042" con="d" wordpos="i">ob</syl>
+                                 </verse>
+                              </note>
+                           
+                           <note xml:id="e21-m-1002" dur="4" oct="4" pname="f" pnum="65"></note>
+                           
+                           <note xml:id="e21-m-1003" dur="4" oct="4" pname="g" pnum="67"></note>
+                           
+                           <note xml:id="e21-m-1004" dur="2" oct="4" pname="a" pnum="69">
+                              
+                              <verse xml:id="e21-m-1043" n="1">
+                                 
+                                 <syl xml:id="e21-m-1044" con="d" wordpos="m">vi</syl>
+                                 </verse>
+                              </note>
+                           </layer>
+                        </staff>
+                     
+                     <staff xml:id="e21-m-1005" n="3">
+                        
+                        <layer xml:id="e21-m-1006" n="1">
+                           
+                           <note xml:id="e21-m-1007" dur="1" oct="4" pname="c" pnum="60">
+                              
+                              <verse xml:id="e21-m-1010" n="1">
+                                 
+                                 <syl xml:id="e21-m-1011" wordpos="i">mox</syl>
+                                 </verse>
+                              </note>
+                           
+                           <note xml:id="e21-m-1008" dur="2" oct="4" pname="d" pnum="62">
+                              
+                              <verse xml:id="e21-m-1012" n="1">
+                                 
+                                 <syl xml:id="e21-m-1013" con="d" wordpos="i">ve</syl>
+                                 </verse>
+                              </note>
+                           
+                           <note xml:id="e21-m-1009" dur="2" oct="4" pname="d" pnum="62">
+                              
+                              <verse xml:id="e21-m-1014" n="1">
+                                 
+                                 <syl xml:id="e21-m-1015" wordpos="t">nit</syl>
+                                 </verse>
+                              </note>
+                           </layer>
+                        </staff>
+                     
+                     <tie xmlns:mei="http://www.music-encoding.org/ns/mei" startid="#e21-m-1004" endid="#e21-m-1035"></tie>
+                     </measure>
+                  
+                  <sb xml:id="e21-m-1017"></sb>
+                  
+                  <measure xml:id="e21-m-1016" n="27">
+                     
+                     <staff xml:id="e21-m-1018" n="1">
+                        
+                        <layer xml:id="e21-m-1019" n="1">
+                           
+                           <note xml:id="e21-m-1020" dur="4" oct="4" pname="b" pnum="70">
+                              
+                              <accid xml:id="e21-m-1021" accid.ges="f"></accid>
+                              </note>
+                           
+                           <note xml:id="e21-m-1022" dur="4" oct="5" pname="c" pnum="72"></note>
+                           
+                           <note xml:id="e21-m-1023" dots="1" dur="2" oct="5" pname="d" pnum="74">
+                              
+                              <verse xml:id="e21-m-1029" n="1">
+                                 
+                                 <syl xml:id="e21-m-1030" con="d" wordpos="m">vi</syl>
+                                 </verse>
+                              </note>
+                           
+                           <note xml:id="e21-m-1024" dur="4" oct="5" pname="c" pnum="72">
+                              
+                              <verse xml:id="e21-m-1031" n="1">
+                                 
+                                 <syl xml:id="e21-m-1032" wordpos="t">a</syl>
+                                 </verse>
+                              </note>
+                           
+                           <note xml:id="e21-m-1025" dur="2" oct="5" pname="e" pnum="75">
+                              
+                              <accid xml:id="e21-m-1026" accid="f"></accid>
+                              
+                              <verse xml:id="e21-m-1072" n="1">
+                                 
+                                 <syl xml:id="e21-m-1073" con="d" wordpos="i">men</syl>
+                                 </verse>
+                              </note>
+                           </layer>
+                        </staff>
+                     
+                     <staff xml:id="e21-m-1033" n="2">
+                        
+                        <layer xml:id="e21-m-1034" n="1">
+                           
+                           <note xmlns:mei="http://www.music-encoding.org/ns/mei" xml:id="e21-m-1035" dur="4" oct="4" pname="a" pnum="69"></note>
+                           
+                           <note xml:id="e21-m-1036" dur="4" oct="4" pname="g" pnum="67">
+                              
+                              <verse xml:id="e21-m-1045" n="1">
+                                 
+                                 <syl xml:id="e21-m-1046" wordpos="t">a</syl>
+                                 </verse>
+                              </note>
+                           
+                           <note xml:id="e21-m-1037" dur="2" oct="4" pname="b" pnum="70">
+                              
+                              <accid xml:id="e21-m-1038" accid.ges="f"></accid>
+                              
+                              <verse xml:id="e21-m-1047" n="1">
+                                 
+                                 <syl xml:id="e21-m-1048" con="d" wordpos="i">men</syl>
+                                 </verse>
+                              </note>
+                           
+                           <note xml:id="e21-m-1039" dur="2" oct="4" pname="a" pnum="69">
+                              
+                              <verse xml:id="e21-m-1049" n="1">
+                                 
+                                 <syl xml:id="e21-m-1050" wordpos="t">ti,</syl>
+                                 </verse>
+                              </note>
+                           
+                           <note xml:id="e21-m-1040" dur="2" oct="5" pname="c" pnum="72">
+                              
+                              <verse xml:id="e21-m-1118" n="1">
+                                 
+                                 <syl xml:id="e21-m-1119" con="d" wordpos="i">Do</syl>
+                                 </verse>
+                              </note>
+                           </layer>
+                        </staff>
+                     
+                     <staff xml:id="e21-m-1051" n="3">
+                        
+                        <layer xml:id="e21-m-1052" n="1">
+                           
+                           <note xml:id="e21-m-1053" dur="1" oct="3" pname="b" pnum="58">
+                              
+                              <accid xml:id="e21-m-1054" accid.ges="f"></accid>
+                              
+                              <verse xml:id="e21-m-1057" n="1">
+                                 
+                                 <syl xml:id="e21-m-1058" con="d" wordpos="i">ob</syl>
+                                 </verse>
+                              </note>
+                           
+                           <note xml:id="e21-m-1055" dur="2" oct="4" pname="c" pnum="60">
+                              
+                              <verse xml:id="e21-m-1059" n="1">
+                                 
+                                 <syl xml:id="e21-m-1060" con="d" wordpos="m">vi</syl>
+                                 </verse>
+                              </note>
+                           
+                           <note xml:id="e21-m-1056" dur="2" oct="4" pname="c" pnum="60">
+                              
+                              <verse xml:id="e21-m-1061" n="1">
+                                 
+                                 <syl xml:id="e21-m-1062" wordpos="t">a</syl>
+                                 </verse>
+                              </note>
+                           </layer>
+                        </staff>
+                     
+                     <tie xmlns:mei="http://www.music-encoding.org/ns/mei" startid="#e21-m-1040" endid="#e21-m-1078"></tie>
+                     </measure>
+                  
+                  <measure xml:id="e21-m-1063" n="28">
+                     
+                     <staff xml:id="e21-m-1064" n="1">
+                        
+                        <layer xml:id="e21-m-1065" n="1">
+                           
+                           <note xml:id="e21-m-1066" dur="2" oct="5" pname="d" pnum="74">
+                              
+                              <verse xml:id="e21-m-1074" n="1">
+                                 
+                                 <syl xml:id="e21-m-1075" wordpos="t">ti,</syl>
+                                 </verse>
+                              </note>
+                           
+                           <note xml:id="e21-m-1067" dots="1" dur="2" oct="5" pname="f" pnum="77">
+                              
+                              <verse xml:id="e21-m-1108" n="1">
+                                 
+                                 <syl xml:id="e21-m-1109" con="d" wordpos="i">Do</syl>
+                                 </verse>
+                              </note>
+                           
+                           <note xml:id="e21-m-1068" dur="4" oct="5" pname="e" pnum="75">
+                              
+                              <accid xml:id="e21-m-1069" accid="f"></accid>
+                              </note>
+                           
+                           <note xml:id="e21-m-1070" dur="4" oct="5" pname="d" pnum="74"></note>
+                           
+                           <note xml:id="e21-m-1071" dur="4" oct="5" pname="c" pnum="72"></note>
+                           </layer>
+                        </staff>
+                     
+                     <staff xml:id="e21-m-1076" n="2">
+                        
+                        <layer xml:id="e21-m-1077" n="1">
+                           
+                           <note xmlns:mei="http://www.music-encoding.org/ns/mei" xml:id="e21-m-1078" dur="4" oct="5" pname="c" pnum="72"></note>
+                           
+                           <note xml:id="e21-m-1079" dur="4" oct="4" pname="b" pnum="70">
+                              
+                              <accid xml:id="e21-m-1080" accid.ges="f"></accid>
+                              </note>
+                           
+                           <note xml:id="e21-m-1081" dur="4" oct="4" pname="a" pnum="69"></note>
+                           
+                           <note xml:id="e21-m-1082" dur="4" oct="4" pname="g" pnum="67"></note>
+                           
+                           <note xml:id="e21-m-1083" dur="4" oct="4" pname="f" pnum="65"></note>
+                           
+                           <note xml:id="e21-m-1084" dur="4" oct="4" pname="g" pnum="67"></note>
+                           
+                           <note xml:id="e21-m-1085" dur="4" oct="4" pname="a" pnum="69"></note>
+                           
+                           <note xml:id="e21-m-1086" dur="4" oct="4" pname="f" pnum="66">
+                              
+                              <accid xml:id="e21-m-1087" accid="s" func="caution"></accid>
+                              </note>
+                           </layer>
+                        </staff>
+                     
+                     <staff xml:id="e21-m-1088" n="3">
+                        
+                        <layer xml:id="e21-m-1089" n="1">
+                           
+                           <note xml:id="e21-m-1090" dur="2" oct="4" pname="d" pnum="62">
+                              
+                              <verse xml:id="e21-m-1093" n="1">
+                                 
+                                 <syl xml:id="e21-m-1094" con="d" wordpos="i">men</syl>
+                                 </verse>
+                              </note>
+                           
+                           <note xml:id="e21-m-1091" dur="2" oct="4" pname="d" pnum="62">
+                              
+                              <verse xml:id="e21-m-1095" n="1">
+                                 
+                                 <syl xml:id="e21-m-1096" wordpos="t">ti,</syl>
+                                 </verse>
+                              </note>
+                           
+                           <note xml:id="e21-m-1092" dur="1" oct="3" pname="a" pnum="57">
+                              
+                              <verse xml:id="e21-m-1127" n="1">
+                                 
+                                 <syl xml:id="e21-m-1128" con="d" wordpos="i">Do</syl>
+                                 </verse>
+                              </note>
+                           </layer>
+                        </staff>
+                     </measure>
+                  
+                  <measure xml:id="e21-m-1097" n="29">
+                     
+                     <staff xml:id="e21-m-1098" n="1">
+                        
+                        <layer xml:id="e21-m-1099" n="1">
+                           
+                           <note xml:id="e21-m-1100" dur="4" oct="4" pname="b" pnum="71"></note>
+                           
+                           <note xml:id="e21-m-1102" dur="4" oct="5" pname="c" pnum="72"></note>
+                           
+                           <note xml:id="e21-m-1103" dur="4" oct="5" pname="d" pnum="74"></note>
+                           
+                           <note xml:id="e21-m-1104" dur="4" oct="4" pname="b" pnum="71">
+                              
+                              <accid xml:id="e21-m-1105" accid="n"></accid>
+                              </note>
+                           
+                           <note xml:id="e21-m-1106" dur="2" oct="5" pname="c" pnum="72"></note>
+                           
+                           <note xml:id="e21-m-1107" dur="2" oct="5" pname="c" pnum="72">
+                              
+                              <verse xml:id="e21-m-1110" n="1">
+                                 
+                                 <syl xml:id="e21-m-1111" wordpos="t">gma</syl>
+                                 </verse>
+                              </note>
+                           </layer>
+                        </staff>
+                     
+                     <staff xml:id="e21-m-1112" n="2">
+                        
+                        <layer xml:id="e21-m-1113" n="1">
+                           
+                           <note xml:id="e21-m-1114" dur="2" oct="4" pname="g" pnum="67"></note>
+                           
+                           <note xml:id="e21-m-1115" dur="2" oct="4" pname="g" pnum="67">
+                              
+                              <verse xml:id="e21-m-1120" n="1">
+                                 
+                                 <syl xml:id="e21-m-1121" wordpos="t">gma</syl>
+                                 </verse>
+                              </note>
+                           
+                           <rest xml:id="e21-m-1116" dur="2"></rest>
+                           
+                           <note xml:id="e21-m-1117" dur="2" oct="4" pname="e" pnum="64">
+                              
+                              <verse xml:id="e21-m-1146" n="1">
+                                 
+                                 <syl xml:id="e21-m-1147" con="d" wordpos="i">Ge</syl>
+                                 </verse>
+                              </note>
+                           </layer>
+                        </staff>
+                     
+                     <staff xml:id="e21-m-1122" n="3">
+                        
+                        <layer xml:id="e21-m-1123" n="1">
+                           
+                           <note xml:id="e21-m-1124" dur="2" oct="3" pname="g" pnum="55">
+                              
+                              <verse xml:id="e21-m-1129" n="1">
+                                 
+                                 <syl xml:id="e21-m-1130" wordpos="t">gma</syl>
+                                 </verse>
+                              </note>
+                           
+                           <note xml:id="e21-m-1125" dur="2" oct="3" pname="g" pnum="55">
+                              
+                              <verse xml:id="e21-m-1159" n="1">
+                                 
+                                 <syl xml:id="e21-m-1160" con="d" wordpos="i">Ge</syl>
+                                 </verse>
+                              </note>
+                           
+                           <note xml:id="e21-m-1126" dur="1" oct="3" pname="a" pnum="57">
+                              
+                              <verse xml:id="e21-m-1161" n="1">
+                                 
+                                 <syl xml:id="e21-m-1162" con="d" wordpos="m">o</syl>
+                                 </verse>
+                              </note>
+                           </layer>
+                        </staff>
+                     </measure>
+                  
+                  <sb xml:id="e21-m-1132"></sb>
+                  
+                  <measure xml:id="e21-m-1131" n="30">
+                     
+                     <staff xml:id="e21-m-1133" n="1">
+                        
+                        <layer xml:id="e21-m-1134" n="1">
+                           
+                           <rest xml:id="e21-m-1135" dur="2"></rest>
+                           
+                           <note xml:id="e21-m-1136" dur="2" oct="4" pname="a" pnum="69">
+                              
+                              <verse xml:id="e21-m-1178" n="1">
+                                 
+                                 <syl xml:id="e21-m-1179" con="d" wordpos="i">Ge</syl>
+                                 </verse>
+                              </note>
+                           
+                           <note xml:id="e21-m-1137" dots="1" dur="2" oct="5" pname="d" pnum="74">
+                              
+                              <verse xml:id="e21-m-1180" n="1">
+                                 
+                                 <syl xml:id="e21-m-1181" con="d" wordpos="m">o</syl>
+                                 </verse>
+                              </note>
+                           
+                           <note xml:id="e21-m-1138" dur="4" oct="5" pname="d" pnum="74">
+                              
+                              <verse xml:id="e21-m-1182" n="1">
+                                 
+                                 <syl xml:id="e21-m-1183" con="d" wordpos="m">me</syl>
+                                 </verse>
+                              </note>
+                           </layer>
+                        </staff>
+                     
+                     <staff xml:id="e21-m-1139" n="2">
+                        
+                        <layer xml:id="e21-m-1140" n="1">
+                           
+                           <note xml:id="e21-m-1141" dots="1" dur="2" oct="4" pname="a" pnum="69">
+                              
+                              <verse xml:id="e21-m-1148" n="1">
+                                 
+                                 <syl xml:id="e21-m-1149" con="d" wordpos="m">o</syl>
+                                 </verse>
+                              </note>
+                           
+                           <note xml:id="e21-m-1142" dur="4" oct="4" pname="a" pnum="69">
+                              
+                              <verse xml:id="e21-m-1150" n="1">
+                                 
+                                 <syl xml:id="e21-m-1151" con="d" wordpos="m">me</syl>
+                                 </verse>
+                              </note>
+                           
+                           <note xml:id="e21-m-1143" dur="4" oct="4" pname="g" pnum="67"></note>
+                           
+                           <note xml:id="e21-m-1144" dur="4" oct="4" pname="f" pnum="65"></note>
+                           
+                           <note xml:id="e21-m-1145" dur="2" oct="4" pname="g" pnum="67">
+                              
+                              <verse xml:id="e21-m-1152" n="1">
+                                 
+                                 <syl xml:id="e21-m-1153" wordpos="t">trae</syl>
+                                 </verse>
+                              </note>
+                           </layer>
+                        </staff>
+                     
+                     <staff xml:id="e21-m-1154" n="3">
+                        
+                        <layer xml:id="e21-m-1155" n="1">
+                           
+                           <note xml:id="e21-m-1156" dur="1" oct="4" pname="c" pnum="60">
+                              
+                              <verse xml:id="e21-m-1163" n="1">
+                                 
+                                 <syl xml:id="e21-m-1164" con="d" wordpos="m">me</syl>
+                                 </verse>
+                              </note>
+                           
+                           <note xml:id="e21-m-1157" dur="1" oct="3" pname="b" pnum="58">
+                              
+                              <accid xml:id="e21-m-1158" accid.ges="f"></accid>
+                              
+                              <verse xml:id="e21-m-1165" n="1">
+                                 
+                                 <syl xml:id="e21-m-1166" wordpos="t">trae</syl>
+                                 </verse>
+                              </note>
+                           </layer>
+                        </staff>
+                     </measure>
+                  
+                  <measure xml:id="e21-m-1167" n="31">
+                     
+                     <staff xml:id="e21-m-1168" n="1">
+                        
+                        <layer xml:id="e21-m-1169" n="1">
+                           
+                           <note xml:id="e21-m-1170" dur="4" oct="5" pname="c" pnum="72"></note>
+                           
+                           <note xml:id="e21-m-1171" dur="4" oct="4" pname="b" pnum="70">
+                              
+                              <accid xml:id="e21-m-1172" accid.ges="f"></accid>
+                              </note>
+                           
+                           <note xml:id="e21-m-1173" dur="2" oct="5" pname="c" pnum="72">
+                              
+                              <verse xml:id="e21-m-1184" n="1">
+                                 
+                                 <syl xml:id="e21-m-1185" wordpos="t">trae</syl>
+                                 </verse>
+                              </note>
+                           
+                           <note xml:id="e21-m-1174" dur="4" oct="5" pname="d" pnum="74">
+                              
+                              <verse xml:id="e21-m-1186" n="1">
+                                 
+                                 <syl xml:id="e21-m-1187" wordpos="i">si</syl>
+                                 </verse>
+                              </note>
+                           
+                           <note xml:id="e21-m-1175" dur="4" oct="5" pname="c" pnum="72">
+                              
+                              <verse xml:id="e21-m-1188" n="1">
+                                 
+                                 <syl xml:id="e21-m-1189" con="d" wordpos="i">ca</syl>
+                                 </verse>
+                              </note>
+                           
+                           <note xml:id="e21-m-1176" dur="2" oct="5" pname="d" pnum="74">
+                              
+                              <verse xml:id="e21-m-1190" n="1">
+                                 
+                                 <syl xml:id="e21-m-1191" con="u" wordpos="t">pis,</syl>
+                                 </verse>
+                              </note>
+                           </layer>
+                        </staff>
+                     
+                     <staff xml:id="e21-m-1192" n="2">
+                        
+                        <layer xml:id="e21-m-1193" n="1">
+                           
+                           <note xml:id="e21-m-1194" dur="4" oct="4" pname="a" pnum="69">
+                              
+                              <verse xml:id="e21-m-1198" n="1">
+                                 
+                                 <syl xml:id="e21-m-1199" wordpos="i">si</syl>
+                                 </verse>
+                              </note>
+                           
+                           <note xml:id="e21-m-1195" dur="4" oct="4" pname="g" pnum="67"></note>
+                           
+                           <note xml:id="e21-m-1196" dur="1" oct="4" pname="a" pnum="69">
+                              
+                              <verse xml:id="e21-m-1200" n="1">
+                                 
+                                 <syl xml:id="e21-m-1201" con="d" wordpos="i">ca</syl>
+                                 </verse>
+                              </note>
+                           
+                           <note xml:id="e21-m-1197" dur="2" oct="4" pname="g" pnum="67">
+                              
+                              <verse xml:id="e21-m-1202" n="1">
+                                 
+                                 <syl xml:id="e21-m-1203" wordpos="t">pis,</syl>
+                                 </verse>
+                              </note>
+                           </layer>
+                        </staff>
+                     
+                     <staff xml:id="e21-m-1204" n="3">
+                        
+                        <layer xml:id="e21-m-1205" n="1">
+                           
+                           <note xml:id="e21-m-1206" dur="1" oct="3" pname="a" pnum="57">
+                              
+                              <verse xml:id="e21-m-1211" n="1">
+                                 
+                                 <syl xml:id="e21-m-1212" wordpos="i">si</syl>
+                                 </verse>
+                              </note>
+                           
+                           <note xml:id="e21-m-1207" dur="2" oct="3" pname="b" pnum="58">
+                              
+                              <accid xml:id="e21-m-1208" accid.ges="f"></accid>
+                              
+                              <verse xml:id="e21-m-1213" n="1">
+                                 
+                                 <syl xml:id="e21-m-1214" con="d" wordpos="i">ca</syl>
+                                 </verse>
+                              </note>
+                           
+                           <note xml:id="e21-m-1209" dur="2" oct="3" pname="b" pnum="58">
+                              <!-- DELETED -->
+                              <!--
+        
+        this-pitch= 58 
+        last-pitch= 58
+        this-acc= f
+        last-acc= f-->
+                              
+                              <verse xml:id="e21-m-1215" n="1">
+                                 
+                                 <syl xml:id="e21-m-1216" wordpos="t">pis,</syl>
+                                 </verse>
+                              </note>
+                           </layer>
+                        </staff>
+                     
+                     <tie xml:id="e21-m-1177" endid="#m-1220" startid="#m-1176"></tie>
+                     
+                     <tie xmlns:mei="http://www.music-encoding.org/ns/mei" startid="#e21-m-1176" endid="#e21-m-1220"></tie>
+                     </measure>
+                  
+                  <measure xml:id="e21-m-1217" n="32">
+                     
+                     <staff xml:id="e21-m-1218" n="1">
+                        
+                        <layer xml:id="e21-m-1219" n="1">
+                           
+                           <note xmlns:mei="http://www.music-encoding.org/ns/mei" xml:id="e21-m-1220" dur="2" oct="5" pname="d" pnum="74"></note>
+                           
+                           <note xml:id="e21-m-1221" dur="2" oct="5" pname="c" pnum="72">
+                              
+                              <verse xml:id="e21-m-1226" n="1">
+                                 
+                                 <syl xml:id="e21-m-1227" con="d" wordpos="i">o</syl>
+                                 </verse>
+                              </note>
+                           
+                           <note xml:id="e21-m-1222" dur="2" oct="4" pname="b" pnum="71">
+                              
+                              <accid xml:id="e21-m-1223" accid="n"></accid>
+                              
+                              <verse xml:id="e21-m-1228" n="1">
+                                 
+                                 <syl xml:id="e21-m-1229" wordpos="t">mne</syl>
+                                 </verse>
+                              </note>
+                           
+                           <note xml:id="e21-m-1224" dur="2" oct="4" pname="b" pnum="71">
+                              <!-- DELETED -->
+                              <!--
+        
+        this-pitch= 71 
+        last-pitch= 71
+        this-acc= n
+        last-acc= n-->
+                              
+                              <verse xml:id="e21-m-1254" n="1">
+                                 
+                                 <syl xml:id="e21-m-1255" con="d" wordpos="i">sci</syl>
+                                 </verse>
+                              </note>
+                           </layer>
+                        </staff>
+                     
+                     <staff xml:id="e21-m-1230" n="2">
+                        
+                        <layer xml:id="e21-m-1231" n="1">
+                           
+                           <note xml:id="e21-m-1232" dur="2" oct="4" pname="f" pnum="66">
+                              
+                              <accid xml:id="e21-m-1233" accid="s"></accid>
+                              
+                              <verse xml:id="e21-m-1236" n="1">
+                                 
+                                 <syl xml:id="e21-m-1237" con="d" wordpos="i">o</syl>
+                                 </verse>
+                              </note>
+                           
+                           <note xml:id="e21-m-1234" dur="2" oct="4" pname="e" pnum="64">
+                              
+                              <verse xml:id="e21-m-1238" n="1">
+                                 
+                                 <syl xml:id="e21-m-1239" wordpos="t">mne</syl>
+                                 </verse>
+                              </note>
+                           
+                           <note xml:id="e21-m-1235" dur="1" oct="4" pname="g" pnum="67">
+                              
+                              <verse xml:id="e21-m-1261" n="1">
+                                 
+                                 <syl xml:id="e21-m-1262" con="d" wordpos="i">sci</syl>
+                                 </verse>
+                              </note>
+                           </layer>
+                        </staff>
+                     
+                     <staff xml:id="e21-m-1240" n="3">
+                        
+                        <layer xml:id="e21-m-1241" n="1">
+                           
+                           <note xml:id="e21-m-1242" dur="1" oct="3" pname="a" pnum="57">
+                              
+                              <verse xml:id="e21-m-1245" n="1">
+                                 
+                                 <syl xml:id="e21-m-1246" con="d" wordpos="i">o</syl>
+                                 </verse>
+                              </note>
+                           
+                           <note xml:id="e21-m-1243" dur="2" oct="3" pname="g" pnum="55">
+                              
+                              <verse xml:id="e21-m-1247" n="1">
+                                 
+                                 <syl xml:id="e21-m-1248" wordpos="t">mne</syl>
+                                 </verse>
+                              </note>
+                           
+                           <note xml:id="e21-m-1244" dur="2" oct="3" pname="g" pnum="55">
+                              
+                              <verse xml:id="e21-m-1268" n="1">
+                                 
+                                 <syl xml:id="e21-m-1269" con="d" wordpos="i">sci</syl>
+                                 </verse>
+                              </note>
+                           </layer>
+                        </staff>
+                     </measure>
+                  
+                  <measure xml:id="e21-m-1249" metcon="false" n="33" right="end" perf-dur="7">
+                     
+                     <staff xml:id="e21-m-1250" n="1">
+                        
+                        <layer xml:id="e21-m-1251" n="1">
+                           <!-- Original note -->
+                           <note xmlns:mei="http://www.music-encoding.org/ns/mei" dur="2" xml:id="e21-m-1252" oct="4" pname="b" pnum="71" stem.dir="down"></note>
+                           <!-- Filler notes -->
+                           <note xmlns:mei="http://www.music-encoding.org/ns/mei" xml:id="d1e3520-FAKE-6" dur="2" pnum="65" class="fake-note-for-timing"></note>
+                           <note xmlns:mei="http://www.music-encoding.org/ns/mei" xml:id="d1e3520-FAKE-5" dur="2" pnum="65" class="fake-note-for-timing"></note>
+                           <note xmlns:mei="http://www.music-encoding.org/ns/mei" xml:id="d1e3520-FAKE-4" dur="2" pnum="65" class="fake-note-for-timing"></note>
+                           <note xmlns:mei="http://www.music-encoding.org/ns/mei" xml:id="d1e3520-FAKE-3" dur="2" pnum="65" class="fake-note-for-timing"></note>
+                           <note xmlns:mei="http://www.music-encoding.org/ns/mei" xml:id="d1e3520-FAKE-2" dur="2" pnum="65" class="fake-note-for-timing"></note>
+                           <note xmlns:mei="http://www.music-encoding.org/ns/mei" xml:id="d1e3520-FAKE-1" dur="2" pnum="65" class="fake-note-for-timing" match-end="e21-m-1252"></note>
+                           </layer>
+                        </staff>
+                     
+                     <staff xml:id="e21-m-1258" n="2">
+                        
+                        <layer xml:id="e21-m-1259" n="1">
+                           <!-- Original note -->
+                           <note xmlns:mei="http://www.music-encoding.org/ns/mei" dur="2" xml:id="e21-m-1260" oct="4" pname="g" pnum="67" stem.dir="up"></note>
+                           <!-- Filler notes -->
+                           <note xmlns:mei="http://www.music-encoding.org/ns/mei" xml:id="d1e3537-FAKE-6" dur="2" pnum="65" class="fake-note-for-timing"></note>
+                           <note xmlns:mei="http://www.music-encoding.org/ns/mei" xml:id="d1e3537-FAKE-5" dur="2" pnum="65" class="fake-note-for-timing"></note>
+                           <note xmlns:mei="http://www.music-encoding.org/ns/mei" xml:id="d1e3537-FAKE-4" dur="2" pnum="65" class="fake-note-for-timing"></note>
+                           <note xmlns:mei="http://www.music-encoding.org/ns/mei" xml:id="d1e3537-FAKE-3" dur="2" pnum="65" class="fake-note-for-timing"></note>
+                           <note xmlns:mei="http://www.music-encoding.org/ns/mei" xml:id="d1e3537-FAKE-2" dur="2" pnum="65" class="fake-note-for-timing"></note>
+                           <note xmlns:mei="http://www.music-encoding.org/ns/mei" xml:id="d1e3537-FAKE-1" dur="2" pnum="65" class="fake-note-for-timing" match-end="e21-m-1260"></note>
+                           </layer>
+                        </staff>
+                     
+                     <staff xml:id="e21-m-1265" n="3">
+                        
+                        <layer xml:id="e21-m-1266" n="1">
+                           <!-- Original note -->
+                           <note xmlns:mei="http://www.music-encoding.org/ns/mei" dur="2" xml:id="e21-m-1267" oct="3" pname="g" pnum="55" stem.dir="up"></note>
+                           <!-- Filler notes -->
+                           <note xmlns:mei="http://www.music-encoding.org/ns/mei" xml:id="d1e3552-FAKE-6" dur="2" pnum="65" class="fake-note-for-timing"></note>
+                           <note xmlns:mei="http://www.music-encoding.org/ns/mei" xml:id="d1e3552-FAKE-5" dur="2" pnum="65" class="fake-note-for-timing"></note>
+                           <note xmlns:mei="http://www.music-encoding.org/ns/mei" xml:id="d1e3552-FAKE-4" dur="2" pnum="65" class="fake-note-for-timing"></note>
+                           <note xmlns:mei="http://www.music-encoding.org/ns/mei" xml:id="d1e3552-FAKE-3" dur="2" pnum="65" class="fake-note-for-timing"></note>
+                           <note xmlns:mei="http://www.music-encoding.org/ns/mei" xml:id="d1e3552-FAKE-2" dur="2" pnum="65" class="fake-note-for-timing"></note>
+                           <note xmlns:mei="http://www.music-encoding.org/ns/mei" xml:id="d1e3552-FAKE-1" dur="2" pnum="65" class="fake-note-for-timing" match-end="e21-m-1267"></note>
+                           </layer>
+                        </staff>
+                     </measure>
+                  </section>
+               </score>
+            </mdiv>
+         </body>
+      </music>
+   </mei>

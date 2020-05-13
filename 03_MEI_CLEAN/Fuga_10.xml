@@ -1,0 +1,2034 @@
+<?xml version="1.0" encoding="utf-16"?>
+<mei xmlns="http://www.music-encoding.org/ns/mei" xmlns:xlink="http://www.w3.org/1999/xlink" meiversion="3.0.0">
+  <mei:meiHead xmlns:mei="http://www.music-encoding.org/ns/mei">
+    <fileDesc>
+      <titleStmt>
+        <title>Atalanta Fugiens, music for Emblem 10</title>
+        <respStmt>
+          <persName>Robin Bier</persName>
+          <persName>Patrick Rashleigh</persName>
+        </respStmt>
+      </titleStmt>
+      <pubStmt>
+        <availability>
+          <useRestrict>Released under an open source license ...</useRestrict>
+        </availability>
+      </pubStmt>
+    </fileDesc>
+    <encodingDesc />
+    <workDesc>
+      <work>
+        <titleStmt>
+          <title />
+          <respStmt />
+        </titleStmt>
+      </work>
+    </workDesc>
+  </mei:meiHead>
+  <music>
+    <body>
+      <mdiv>
+        <score>
+          <scoreDef meter.count="4" meter.unit="2" music.name="Opus Std" ppq="256">
+            <staffGrp>
+              <staffGrp n="1" symbol="bracket">
+                <staffDef clef.line="2" clef.shape="G" key.mode="major" key.sig="1f" label="Atalanta fugiens" lines="5" n="1"></staffDef>
+                <staffDef clef.line="2" clef.shape="G" key.mode="major" key.sig="1f" label="Hippom. sequens." lines="5" n="2"></staffDef>
+                <staffDef clef.line="2" clef.shape="G" key.mode="major" key.sig="1f" label="Pomum morans." lines="5" n="3" clef.dis="8" clef.dis.place="below"></staffDef>
+              </staffGrp>
+            </staffGrp>
+          </scoreDef>
+          <section>
+            <sb xml:id="e10-m-40" />
+            <measure xml:id="e10-m-60" label="1" n="1">
+              <staff xml:id="e10-m-61" n="1">
+                <layer xml:id="e10-m-62" n="1">
+                  <rest xml:id="e10-m-63" dur="2" />
+                  <note xml:id="e10-m-64" dur="4" oct="4" pname="b" pnum="71">
+                    <accid xml:id="e10-m-65" accid="n" />
+                    <verse xml:id="e10-m-70" n="1">
+                      <syl xml:id="e10-m-71" con="d" wordpos="i">Ma</syl>
+                    </verse>
+                  </note>
+                  <note xml:id="e10-m-66" dur="4" oct="5" pname="c" pnum="72" />
+                  <note xml:id="e10-m-67" dur="4" oct="5" pname="d" pnum="74">
+                    <verse xml:id="e10-m-72" n="1">
+                      <syl xml:id="e10-m-73" con="d" wordpos="m">chi</syl>
+                    </verse>
+                  </note>
+                  <note xml:id="e10-m-68" dur="4" oct="5" pname="e" pnum="76" />
+                  <note xml:id="e10-m-69" dur="2" oct="5" pname="f" pnum="77">
+                    <verse xml:id="e10-m-74" n="1">
+                      <syl xml:id="e10-m-75" wordpos="t">na</syl>
+                    </verse>
+                  </note>
+                </layer>
+              </staff>
+              <staff xml:id="e10-m-76" n="2">
+                <layer xml:id="e10-m-77" n="1">
+                  <rest xml:id="e10-m-78" dur="1" />
+                  <rest xml:id="e10-m-79" dur="2" />
+                  <note xml:id="e10-m-80" dur="4" oct="4" pname="a" pnum="69">
+                    <verse xml:id="e10-m-118" n="1">
+                      <syl xml:id="e10-m-119" con="d" wordpos="i">Ma</syl>
+                    </verse>
+                  </note>
+                  <note xml:id="e10-m-81" dur="4" oct="4" pname="b" pnum="70">
+                    <accid xml:id="e10-m-82" accid.ges="f" />
+                  </note>
+                </layer>
+              </staff>
+              <staff xml:id="e10-m-83" n="3">
+                <layer xml:id="e10-m-84" n="1">
+                  <note xml:id="e10-m-85" dur="1" oct="4" pname="d" pnum="62">
+                    <verse xml:id="e10-m-88" n="1">
+                      <syl xml:id="e10-m-89" con="d" wordpos="i">Ma</syl>
+                    </verse>
+                  </note>
+                  <note xml:id="e10-m-86" dur="2" oct="4" pname="d" pnum="62">
+                    <verse xml:id="e10-m-90" n="1">
+                      <syl xml:id="e10-m-91" con="d" wordpos="m">chi</syl>
+                    </verse>
+                  </note>
+                  <note xml:id="e10-m-87" dur="2" oct="4" pname="d" pnum="62">
+                    <verse xml:id="e10-m-92" n="1">
+                      <syl xml:id="e10-m-93" wordpos="t">na</syl>
+                    </verse>
+                  </note>
+                </layer>
+              </staff>
+            </measure>
+            <measure xml:id="e10-m-94" n="2">
+              <staff xml:id="e10-m-95" n="1">
+                <layer xml:id="e10-m-96" n="1">
+                  <note xml:id="e10-m-97" dur="4" oct="5" pname="e" pnum="76">
+                    <verse xml:id="e10-m-102" n="1">
+                      <syl xml:id="e10-m-103" con="d" wordpos="i">pen</syl>
+                    </verse>
+                  </note>
+                  <note xml:id="e10-m-98" dur="4" oct="5" pname="f" pnum="77" />
+                  <note xml:id="e10-m-99" dur="2" oct="5" pname="g" pnum="79">
+                    <verse xml:id="e10-m-104" n="1">
+                      <syl xml:id="e10-m-105" wordpos="t">det</syl>
+                    </verse>
+                  </note>
+                  <note xml:id="e10-m-100" dur="2" oct="5" pname="f" pnum="77">
+                    <verse xml:id="e10-m-106" n="1">
+                      <syl xml:id="e10-m-107" wordpos="i">ab</syl>
+                    </verse>
+                  </note>
+                  <note xml:id="e10-m-101" dur="2" oct="5" pname="d" pnum="74">
+                    <verse xml:id="e10-m-108" n="1">
+                      <syl xml:id="e10-m-109" wordpos="i">hac</syl>
+                    </verse>
+                  </note>
+                </layer>
+              </staff>
+              <staff xml:id="e10-m-110" n="2">
+                <layer xml:id="e10-m-111" n="1">
+                  <note xml:id="e10-m-112" dur="4" oct="5" pname="c" pnum="72">
+                    <verse xml:id="e10-m-120" n="1">
+                      <syl xml:id="e10-m-121" con="d" wordpos="m">chi</syl>
+                    </verse>
+                  </note>
+                  <note xml:id="e10-m-113" dur="4" oct="5" pname="d" pnum="74" />
+                  <note xml:id="e10-m-114" dur="2" oct="5" pname="e" pnum="76">
+                    <verse xml:id="e10-m-122" n="1">
+                      <syl xml:id="e10-m-123" wordpos="t">na</syl>
+                    </verse>
+                  </note>
+                  <note xml:id="e10-m-115" dur="4" oct="5" pname="d" pnum="74">
+                    <verse xml:id="e10-m-124" n="1">
+                      <syl xml:id="e10-m-125" con="d" wordpos="i">pen</syl>
+                    </verse>
+                  </note>
+                  <note xml:id="e10-m-116" dur="4" oct="5" pname="e" pnum="76" />
+                  <note xml:id="e10-m-117" dur="2" oct="5" pname="f" pnum="77">
+                    <verse xml:id="e10-m-126" n="1">
+                      <syl xml:id="e10-m-127" wordpos="t">det</syl>
+                    </verse>
+                  </note>
+                </layer>
+              </staff>
+              <staff xml:id="e10-m-128" n="3">
+                <layer xml:id="e10-m-129" n="1">
+                  <note xml:id="e10-m-130" dur="1" oct="4" pname="c" pnum="60">
+                    <verse xml:id="e10-m-133" n="1">
+                      <syl xml:id="e10-m-134" con="d" wordpos="i">pen</syl>
+                    </verse>
+                  </note>
+                  <note xml:id="e10-m-131" dur="2" oct="4" pname="d" pnum="62">
+                    <verse xml:id="e10-m-135" n="1">
+                      <syl xml:id="e10-m-136" wordpos="t">det</syl>
+                    </verse>
+                  </note>
+                  <note xml:id="e10-m-132" dur="2" oct="4" pname="d" pnum="62">
+                    <verse xml:id="e10-m-137" n="1">
+                      <syl xml:id="e10-m-138" wordpos="i">ab</syl>
+                    </verse>
+                  </note>
+                </layer>
+              </staff>
+            </measure>
+            <measure xml:id="e10-m-139" n="3">
+              <staff xml:id="e10-m-140" n="1">
+                <layer xml:id="e10-m-141" n="1">
+                  <rest xml:id="e10-m-142" dur="2" />
+                  <note xml:id="e10-m-143" dur="2" oct="5" pname="e" pnum="75">
+                    <accid xml:id="e10-m-144" accid="f" />
+                    <verse xml:id="e10-m-177" n="1">
+                      <syl xml:id="e10-m-178" con="d" wordpos="i">mun</syl>
+                    </verse>
+                  </note>
+                  <note xml:id="e10-m-145" dur="4" oct="5" pname="d" pnum="74" />
+                  <note xml:id="e10-m-146" dur="4" oct="5" pname="c" pnum="72" />
+                  <note xml:id="e10-m-147" dur="4" oct="4" pname="b" pnum="70">
+                    <accid xml:id="e10-m-148" accid.ges="f" />
+                  </note>
+                  <note xml:id="e10-m-149" dur="4" oct="4" pname="a" pnum="69" />
+                </layer>
+              </staff>
+              <staff xml:id="e10-m-150" n="2">
+                <layer xml:id="e10-m-151" n="1">
+                  <note xml:id="e10-m-152" dur="2" oct="5" pname="e" pnum="76">
+                    <verse xml:id="e10-m-156" n="1">
+                      <syl xml:id="e10-m-157" wordpos="i">ab</syl>
+                    </verse>
+                  </note>
+                  <note xml:id="e10-m-153" dur="2" oct="5" pname="c" pnum="72">
+                    <verse xml:id="e10-m-158" n="1">
+                      <syl xml:id="e10-m-159" wordpos="i">hac</syl>
+                    </verse>
+                  </note>
+                  <rest xml:id="e10-m-154" dur="2" />
+                  <note xml:id="e10-m-155" dur="2" oct="5" pname="d" pnum="74">
+                    <verse xml:id="e10-m-191" n="1">
+                      <syl xml:id="e10-m-192" con="d" wordpos="i">mun</syl>
+                    </verse>
+                  </note>
+                </layer>
+              </staff>
+              <staff xml:id="e10-m-160" n="3">
+                <layer xml:id="e10-m-161" n="1">
+                  <note xml:id="e10-m-162" dur="1" oct="4" pname="c" pnum="60">
+                    <verse xml:id="e10-m-165" n="1">
+                      <syl xml:id="e10-m-166" wordpos="i">hac</syl>
+                    </verse>
+                  </note>
+                  <note xml:id="e10-m-163" dur="1" oct="3" pname="b" pnum="58">
+                    <accid xml:id="e10-m-164" accid.ges="f" />
+                    <verse xml:id="e10-m-199" n="1">
+                      <syl xml:id="e10-m-200" con="d" wordpos="i">mun</syl>
+                    </verse>
+                  </note>
+                </layer>
+              </staff>
+              <anchoredText xml:id="e10-m-167" vo="7.125mm">Michael Maier Atalanta Fugiens, 1617 John Farmer Divers sundry waies of two parts, 1591</anchoredText>
+            </measure>
+            <sb xml:id="e10-m-169" />
+            <measure xml:id="e10-m-168" n="4">
+              <staff xml:id="e10-m-170" n="1">
+                <layer xml:id="e10-m-171" n="1">
+                  <note xml:id="e10-m-172" dur="4" oct="4" pname="g" pnum="67" />
+                  <note xml:id="e10-m-173" dur="4" oct="4" pname="f" pnum="65" />
+                  <note xml:id="e10-m-174" dur="2" oct="4" pname="e" pnum="64">
+                    <verse xml:id="e10-m-179" n="1">
+                      <syl xml:id="e10-m-180" wordpos="t">di</syl>
+                    </verse>
+                  </note>
+                  <note xml:id="e10-m-175" dur="2" oct="4" pname="a" pnum="69">
+                    <verse xml:id="e10-m-213" n="1">
+                      <syl xml:id="e10-m-214" con="d" wordpos="i">con</syl>
+                    </verse>
+                  </note>
+                  <note xml:id="e10-m-176" dur="2" oct="4" pname="a" pnum="69">
+                    <verse xml:id="e10-m-215" n="1">
+                      <syl xml:id="e10-m-216" con="d" wordpos="m">ne</syl>
+                    </verse>
+                  </note>
+                </layer>
+              </staff>
+              <staff xml:id="e10-m-181" n="2">
+                <layer xml:id="e10-m-182" n="1">
+                  <note xml:id="e10-m-183" dur="4" oct="5" pname="c" pnum="72" />
+                  <note xml:id="e10-m-184" dur="4" oct="4" pname="b" pnum="70">
+                    <accid xml:id="e10-m-185" accid.ges="f" />
+                  </note>
+                  <note xml:id="e10-m-186" dur="4" oct="4" pname="a" pnum="69" />
+                  <note xml:id="e10-m-187" dur="4" oct="4" pname="g" pnum="67" />
+                  <note xml:id="e10-m-188" dur="4" oct="4" pname="f" pnum="65" />
+                  <note xml:id="e10-m-189" dur="4" oct="4" pname="e" pnum="64" />
+                  <note xml:id="e10-m-190" dur="2" oct="4" pname="d" pnum="62">
+                    <verse xml:id="e10-m-193" n="1">
+                      <syl xml:id="e10-m-194" wordpos="t">di</syl>
+                    </verse>
+                  </note>
+                </layer>
+              </staff>
+              <staff xml:id="e10-m-195" n="3">
+                <layer xml:id="e10-m-196" n="1">
+                  <note xml:id="e10-m-197" dur="1" oct="4" pname="c" pnum="60">
+                    <verse xml:id="e10-m-201" n="1">
+                      <syl xml:id="e10-m-202" wordpos="t">di</syl>
+                    </verse>
+                  </note>
+                  <note xml:id="e10-m-198" dur="1" oct="4" pname="d" pnum="62">
+                    <verse xml:id="e10-m-245" n="1">
+                      <syl xml:id="e10-m-246" con="d" wordpos="i">con</syl>
+                    </verse>
+                  </note>
+                </layer>
+              </staff>
+            </measure>
+            <measure xml:id="e10-m-203" n="5">
+              <staff xml:id="e10-m-204" n="1">
+                <layer xml:id="e10-m-205" n="1">
+                  <note xml:id="e10-m-206" dur="4" oct="4" pname="b" pnum="70">
+                    <accid xml:id="e10-m-207" accid.ges="f" />
+                  </note>
+                  <note xml:id="e10-m-208" dur="4" oct="5" pname="c" pnum="72" />
+                  <note xml:id="e10-m-209" dur="4" oct="5" pname="d" pnum="74">
+                    <verse xml:id="e10-m-217" n="1">
+                      <syl xml:id="e10-m-218" wordpos="t">xa</syl>
+                    </verse>
+                  </note>
+                  <note xml:id="e10-m-210" dur="4" oct="5" pname="d" pnum="74">
+                    <verse xml:id="e10-m-219" n="1">
+                      <syl xml:id="e10-m-220" con="d" wordpos="i">ca</syl>
+                    </verse>
+                  </note>
+                  <note xml:id="e10-m-211" dur="2" oct="5" pname="c" pnum="72">
+                    <verse xml:id="e10-m-221" n="1">
+                      <syl xml:id="e10-m-222" con="d" wordpos="m">te</syl>
+                    </verse>
+                  </note>
+                  <note xml:id="e10-m-212" dur="2" oct="4" pname="g" pnum="67">
+                    <verse xml:id="e10-m-223" n="1">
+                      <syl xml:id="e10-m-224" wordpos="t">na</syl>
+                    </verse>
+                  </note>
+                </layer>
+              </staff>
+              <staff xml:id="e10-m-225" n="2">
+                <layer xml:id="e10-m-226" n="1">
+                  <note xml:id="e10-m-227" dur="2" oct="4" pname="g" pnum="67">
+                    <verse xml:id="e10-m-233" n="1">
+                      <syl xml:id="e10-m-234" con="d" wordpos="i">con</syl>
+                    </verse>
+                  </note>
+                  <note xml:id="e10-m-228" dur="2" oct="4" pname="g" pnum="67">
+                    <verse xml:id="e10-m-235" n="1">
+                      <syl xml:id="e10-m-236" con="d" wordpos="m">ne</syl>
+                    </verse>
+                  </note>
+                  <note xml:id="e10-m-229" dur="4" oct="4" pname="a" pnum="69" />
+                  <note xml:id="e10-m-230" dur="4" oct="4" pname="b" pnum="70">
+                    <accid xml:id="e10-m-231" accid.ges="f" />
+                    <verse xml:id="e10-m-237" n="1">
+                      <syl xml:id="e10-m-238" wordpos="t">xa</syl>
+                    </verse>
+                  </note>
+                  <note xml:id="e10-m-232" dur="2" oct="5" pname="c" pnum="72">
+                    <verse xml:id="e10-m-273" n="1">
+                      <syl xml:id="e10-m-274" con="d" wordpos="i">ca</syl>
+                    </verse>
+                  </note>
+                </layer>
+              </staff>
+              <staff xml:id="e10-m-239" n="3">
+                <layer xml:id="e10-m-240" n="1">
+                  <note xml:id="e10-m-241" dur="1" oct="3" pname="b" pnum="58">
+                    <accid xml:id="e10-m-242" accid.ges="f" />
+                    <verse xml:id="e10-m-247" n="1">
+                      <syl xml:id="e10-m-248" con="d" wordpos="m">ne</syl>
+                    </verse>
+                  </note>
+                  <note xml:id="e10-m-243" dur="2" oct="4" pname="c" pnum="60">
+                    <verse xml:id="e10-m-249" n="1">
+                      <syl xml:id="e10-m-250" wordpos="t">xa</syl>
+                    </verse>
+                  </note>
+                  <note xml:id="e10-m-244" dur="2" oct="4" pname="c" pnum="60">
+                    <verse xml:id="e10-m-284" n="1">
+                      <syl xml:id="e10-m-285" con="d" wordpos="i">ca</syl>
+                    </verse>
+                  </note>
+                </layer>
+              </staff>
+            </measure>
+            <measure xml:id="e10-m-251" n="6">
+              <staff xml:id="e10-m-252" n="1">
+                <layer xml:id="e10-m-253" n="1">
+                  <rest xml:id="e10-m-254" dur="2" />
+                  <note xml:id="e10-m-255" dur="4" oct="4" pname="d" pnum="62">
+                    <verse xml:id="e10-m-261" n="1">
+                      <syl xml:id="e10-m-262" con="d" wordpos="i">To</syl>
+                    </verse>
+                  </note>
+                  <note xml:id="e10-m-256" dur="4" oct="4" pname="e" pnum="64" />
+                  <note xml:id="e10-m-257" dur="4" oct="4" pname="f" pnum="65" />
+                  <note xml:id="e10-m-258" dur="4" oct="4" pname="g" pnum="67" />
+                  <note xml:id="e10-m-259" dur="4" oct="4" pname="a" pnum="69">
+                    <verse xml:id="e10-m-263" n="1">
+                      <syl xml:id="e10-m-264" wordpos="t">ta,</syl>
+                    </verse>
+                  </note>
+                  <note xml:id="e10-m-260" dur="4" oct="4" pname="f" pnum="65">
+                    <verse xml:id="e10-m-299" n="1">
+                      <syl xml:id="e10-m-300" con="d" wordpos="i">SU</syl>
+                    </verse>
+                  </note>
+                </layer>
+              </staff>
+              <staff xml:id="e10-m-265" n="2">
+                <layer xml:id="e10-m-266" n="1">
+                  <note xml:id="e10-m-267" dur="2" oct="4" pname="b" pnum="70">
+                    <accid xml:id="e10-m-268" accid.ges="f" />
+                    <verse xml:id="e10-m-275" n="1">
+                      <syl xml:id="e10-m-276" con="d" wordpos="m">te</syl>
+                    </verse>
+                  </note>
+                  <note xml:id="e10-m-269" dur="2" oct="4" pname="f" pnum="65">
+                    <verse xml:id="e10-m-277" n="1">
+                      <syl xml:id="e10-m-278" wordpos="t">na</syl>
+                    </verse>
+                  </note>
+                  <rest xml:id="e10-m-270" dur="2" />
+                  <note xml:id="e10-m-271" dur="4" oct="4" pname="c" pnum="60">
+                    <verse xml:id="e10-m-316" n="1">
+                      <syl xml:id="e10-m-317" con="d" wordpos="i">To</syl>
+                    </verse>
+                  </note>
+                  <note xml:id="e10-m-272" dur="4" oct="4" pname="d" pnum="62" />
+                </layer>
+              </staff>
+              <staff xml:id="e10-m-279" n="3">
+                <layer xml:id="e10-m-280" n="1">
+                  <note xml:id="e10-m-281" dur="2" oct="4" pname="d" pnum="62">
+                    <verse xml:id="e10-m-286" n="1">
+                      <syl xml:id="e10-m-287" con="d" wordpos="m">te</syl>
+                    </verse>
+                  </note>
+                  <note xml:id="e10-m-282" dur="2" oct="4" pname="d" pnum="62">
+                    <verse xml:id="e10-m-288" n="1">
+                      <syl xml:id="e10-m-289" wordpos="t">na</syl>
+                    </verse>
+                  </note>
+                  <note xml:id="e10-m-283" dur="1" oct="3" pname="a" pnum="57">
+                    <verse xml:id="e10-m-329" n="1">
+                      <syl xml:id="e10-m-330" con="d" wordpos="i">To</syl>
+                    </verse>
+                  </note>
+                </layer>
+              </staff>
+            </measure>
+            <measure xml:id="e10-m-290" n="7">
+              <staff xml:id="e10-m-291" n="1">
+                <layer xml:id="e10-m-292" n="1">
+                  <note xml:id="e10-m-293" dur="4" oct="4" pname="g" pnum="67" />
+                  <note xml:id="e10-m-294" dur="4" oct="4" pname="a" pnum="69" />
+                  <note xml:id="e10-m-295" dur="2" oct="4" pname="b" pnum="70">
+                    <accid xml:id="e10-m-296" accid.ges="f" />
+                    <verse xml:id="e10-m-301" n="1">
+                      <syl xml:id="e10-m-302" wordpos="t">O</syl>
+                    </verse>
+                  </note>
+                  <note xml:id="e10-m-297" dur="2" oct="4" pname="a" pnum="69">
+                    <verse xml:id="e10-m-303" n="1">
+                      <syl xml:id="e10-m-304" wordpos="i">QUOD</syl>
+                    </verse>
+                  </note>
+                  <note xml:id="e10-m-298" dur="2" oct="4" pname="f" pnum="65">
+                    <verse xml:id="e10-m-305" n="1">
+                      <syl xml:id="e10-m-306" wordpos="i">PAR</syl>
+                    </verse>
+                  </note>
+                </layer>
+              </staff>
+              <staff xml:id="e10-m-307" n="2">
+                <layer xml:id="e10-m-308" n="1">
+                  <note xml:id="e10-m-309" dur="4" oct="4" pname="e" pnum="64" />
+                  <note xml:id="e10-m-310" dur="4" oct="4" pname="f" pnum="65" />
+                  <note xml:id="e10-m-311" dur="4" oct="4" pname="g" pnum="67">
+                    <verse xml:id="e10-m-318" n="1">
+                      <syl xml:id="e10-m-319" wordpos="t">ta,</syl>
+                    </verse>
+                  </note>
+                  <note xml:id="e10-m-312" dur="4" oct="4" pname="e" pnum="64">
+                    <verse xml:id="e10-m-320" n="1">
+                      <syl xml:id="e10-m-321" con="d" wordpos="i">SU</syl>
+                    </verse>
+                  </note>
+                  <note xml:id="e10-m-313" dur="4" oct="4" pname="f" pnum="65" />
+                  <note xml:id="e10-m-314" dur="4" oct="4" pname="g" pnum="67" />
+                  <note xml:id="e10-m-315" dur="2" oct="4" pname="a" pnum="69">
+                    <verse xml:id="e10-m-322" n="1">
+                      <syl xml:id="e10-m-323" wordpos="t">O</syl>
+                    </verse>
+                  </note>
+                </layer>
+              </staff>
+              <staff xml:id="e10-m-324" n="3">
+                <layer xml:id="e10-m-325" n="1">
+                  <note xml:id="e10-m-326" dur="2" oct="3" pname="g" pnum="55">
+                    <verse xml:id="e10-m-331" n="1">
+                      <syl xml:id="e10-m-332" wordpos="t">ta,</syl>
+                    </verse>
+                  </note>
+                  <note xml:id="e10-m-327" dur="2" oct="3" pname="g" pnum="55">
+                    <verse xml:id="e10-m-333" n="1">
+                      <syl xml:id="e10-m-334" con="d" wordpos="i">SU</syl>
+                    </verse>
+                  </note>
+                  <note xml:id="e10-m-328" dur="1" oct="3" pname="a" pnum="57">
+                    <verse xml:id="e10-m-335" n="1">
+                      <syl xml:id="e10-m-336" wordpos="t">O</syl>
+                    </verse>
+                  </note>
+                </layer>
+              </staff>
+            </measure>
+            <sb xml:id="e10-m-338" />
+            <measure xml:id="e10-m-337" n="8">
+              <staff xml:id="e10-m-339" n="1">
+                <layer xml:id="e10-m-340" n="1">
+                  <note xml:id="e10-m-341" dur="4" oct="4" pname="e" pnum="64">
+                    <verse xml:id="e10-m-377" n="1">
+                      <syl xml:id="e10-m-378" con="d" wordpos="i">GAU</syl>
+                    </verse>
+                  </note>
+                  <note xml:id="e10-m-342" dur="4" oct="4" pname="f" pnum="65" />
+                  <note xml:id="e10-m-343" dur="4" oct="4" pname="g" pnum="67" />
+                  <note xml:id="e10-m-344" dur="4" oct="4" pname="a" pnum="69" />
+                  <note xml:id="e10-m-345" dur="4" oct="4" pname="b" pnum="70">
+                    <accid xml:id="e10-m-346" accid.ges="f" />
+                  </note>
+                  <note xml:id="e10-m-347" dur="4" oct="5" pname="c" pnum="72" />
+                  <note xml:id="e10-m-348" dur="2" oct="5" pname="d" pnum="74" />
+                </layer>
+              </staff>
+              <staff xml:id="e10-m-349" n="2">
+                <layer xml:id="e10-m-350" n="1">
+                  <note xml:id="e10-m-351" dur="2" oct="4" pname="g" pnum="67">
+                    <verse xml:id="e10-m-357" n="1">
+                      <syl xml:id="e10-m-358" wordpos="i">QUOD</syl>
+                    </verse>
+                  </note>
+                  <note xml:id="e10-m-352" dur="2" oct="4" pname="e" pnum="64">
+                    <verse xml:id="e10-m-359" n="1">
+                      <syl xml:id="e10-m-360" wordpos="i">PAR</syl>
+                    </verse>
+                  </note>
+                  <note xml:id="e10-m-353" dur="4" oct="4" pname="d" pnum="62">
+                    <verse xml:id="e10-m-392" n="1">
+                      <syl xml:id="e10-m-393" con="d" wordpos="i">GAU</syl>
+                    </verse>
+                  </note>
+                  <note xml:id="e10-m-354" dur="4" oct="4" pname="e" pnum="64" />
+                  <note xml:id="e10-m-355" dur="4" oct="4" pname="f" pnum="65" />
+                  <note xml:id="e10-m-356" dur="4" oct="4" pname="g" pnum="67" />
+                </layer>
+              </staff>
+              <staff xml:id="e10-m-361" n="3">
+                <layer xml:id="e10-m-362" n="1">
+                  <note xml:id="e10-m-363" dur="1" oct="4" pname="c" pnum="60">
+                    <verse xml:id="e10-m-366" n="1">
+                      <syl xml:id="e10-m-367" wordpos="i">QUOD</syl>
+                    </verse>
+                  </note>
+                  <note xml:id="e10-m-364" dur="1" oct="3" pname="b" pnum="58">
+                    <accid xml:id="e10-m-365" accid.ges="f" />
+                    <verse xml:id="e10-m-368" n="1">
+                      <syl xml:id="e10-m-369" wordpos="i">PAR</syl>
+                    </verse>
+                  </note>
+                </layer>
+              </staff>
+            </measure>
+            <measure xml:id="e10-m-370" n="9">
+              <staff xml:id="e10-m-371" n="1">
+                <layer xml:id="e10-m-372" n="1">
+                  <note xml:id="e10-m-373" dur="2" oct="5" pname="c" pnum="72">
+                    <verse xml:id="e10-m-379" n="1">
+                      <syl xml:id="e10-m-380" con="d" wordpos="m">DE</syl>
+                    </verse>
+                  </note>
+                  <note xml:id="e10-m-374" dur="2" oct="4" pname="a" pnum="69">
+                    <verse xml:id="e10-m-381" n="1">
+                      <syl xml:id="e10-m-382" wordpos="t">AT</syl>
+                    </verse>
+                  </note>
+                  <rest xml:id="e10-m-375" dur="2" />
+                  <note xml:id="e10-m-376" dur="2" oct="5" pname="d" pnum="74">
+                    <verse xml:id="e10-m-418" n="1">
+                      <syl xml:id="e10-m-419" con="d" wordpos="i">OM</syl>
+                    </verse>
+                  </note>
+                </layer>
+              </staff>
+              <staff xml:id="e10-m-383" n="2">
+                <layer xml:id="e10-m-384" n="1">
+                  <note xml:id="e10-m-385" dur="4" oct="4" pname="a" pnum="69" />
+                  <note xml:id="e10-m-386" dur="4" oct="4" pname="b" pnum="70">
+                    <accid xml:id="e10-m-387" accid.ges="f" />
+                  </note>
+                  <note xml:id="e10-m-388" dur="2" oct="5" pname="c" pnum="72" />
+                  <note xml:id="e10-m-389" dur="2" oct="4" pname="b" pnum="70">
+                    <accid xml:id="e10-m-390" accid.ges="f" />
+                    <verse xml:id="e10-m-394" n="1">
+                      <syl xml:id="e10-m-395" con="d" wordpos="m">DE</syl>
+                    </verse>
+                  </note>
+                  <note xml:id="e10-m-391" dur="2" oct="4" pname="g" pnum="67">
+                    <verse xml:id="e10-m-396" n="1">
+                      <syl xml:id="e10-m-397" wordpos="t">AT</syl>
+                    </verse>
+                  </note>
+                </layer>
+              </staff>
+              <staff xml:id="e10-m-398" n="3">
+                <layer xml:id="e10-m-399" n="1">
+                  <note xml:id="e10-m-400" dur="1" oct="3" pname="a" pnum="57">
+                    <verse xml:id="e10-m-405" n="1">
+                      <syl xml:id="e10-m-406" con="d" wordpos="i">GAU</syl>
+                    </verse>
+                  </note>
+                  <note xml:id="e10-m-401" dur="2" oct="3" pname="b" pnum="58">
+                    <accid xml:id="e10-m-402" accid.ges="f" />
+                    <verse xml:id="e10-m-407" n="1">
+                      <syl xml:id="e10-m-408" con="d" wordpos="m">DE</syl>
+                    </verse>
+                  </note>
+                  <note xml:id="e10-m-403" dur="2" oct="3" pname="b" pnum="58">
+                    <!-- DELETED -->
+                    <!--
+        
+        this-pitch= 58 
+        last-pitch= 58
+        this-acc= f
+        last-acc= f-->
+                    <verse xml:id="e10-m-409" n="1">
+                      <syl xml:id="e10-m-410" wordpos="t">AT</syl>
+                    </verse>
+                  </note>
+                </layer>
+              </staff>
+            </measure>
+            <measure xml:id="e10-m-411" n="10">
+              <staff xml:id="e10-m-412" n="1">
+                <layer xml:id="e10-m-413" n="1">
+                  <note xml:id="e10-m-414" dur="2" oct="5" pname="e" pnum="76">
+                    <verse xml:id="e10-m-420" n="1">
+                      <syl xml:id="e10-m-421" wordpos="t">NE</syl>
+                    </verse>
+                  </note>
+                  <note xml:id="e10-m-415" dur="2" oct="5" pname="f" pnum="77">
+                    <verse xml:id="e10-m-422" n="1">
+                      <syl xml:id="e10-m-423" con="d" wordpos="i">PA</syl>
+                    </verse>
+                  </note>
+                  <note xml:id="e10-m-416" dur="2" oct="5" pname="g" pnum="79">
+                    <verse xml:id="e10-m-424" n="1">
+                      <syl xml:id="e10-m-425" wordpos="t">RI,</syl>
+                    </verse>
+                  </note>
+                  <note xml:id="e10-m-417" dur="2" oct="5" pname="g" pnum="79">
+                    <verse xml:id="e10-m-449" n="1">
+                      <syl xml:id="e10-m-450" con="d" wordpos="i">PA</syl>
+                    </verse>
+                  </note>
+                </layer>
+              </staff>
+              <staff xml:id="e10-m-426" n="2">
+                <layer xml:id="e10-m-427" n="1">
+                  <rest xml:id="e10-m-428" dur="2" />
+                  <note xml:id="e10-m-429" dur="2" oct="5" pname="c" pnum="72">
+                    <verse xml:id="e10-m-432" n="1">
+                      <syl xml:id="e10-m-433" con="d" wordpos="i">OM</syl>
+                    </verse>
+                  </note>
+                  <note xml:id="e10-m-430" dur="2" oct="5" pname="d" pnum="74">
+                    <verse xml:id="e10-m-434" n="1">
+                      <syl xml:id="e10-m-435" wordpos="t">NE</syl>
+                    </verse>
+                  </note>
+                  <note xml:id="e10-m-431" dur="2" oct="5" pname="d" pnum="74">
+                    <verse xml:id="e10-m-456" n="1">
+                      <syl xml:id="e10-m-457" con="d" wordpos="i">PA</syl>
+                    </verse>
+                  </note>
+                </layer>
+              </staff>
+              <staff xml:id="e10-m-436" n="3">
+                <layer xml:id="e10-m-437" n="1">
+                  <note xml:id="e10-m-438" dur="1" oct="3" pname="a" pnum="57">
+                    <verse xml:id="e10-m-441" n="1">
+                      <syl xml:id="e10-m-442" con="d" wordpos="i">OM</syl>
+                    </verse>
+                  </note>
+                  <note xml:id="e10-m-439" dur="2" oct="3" pname="g" pnum="55">
+                    <verse xml:id="e10-m-443" n="1">
+                      <syl xml:id="e10-m-444" wordpos="t">NE</syl>
+                    </verse>
+                  </note>
+                  <note xml:id="e10-m-440" dur="2" oct="3" pname="g" pnum="55">
+                    <verse xml:id="e10-m-463" n="1">
+                      <syl xml:id="e10-m-464" con="d" wordpos="i">PA</syl>
+                    </verse>
+                  </note>
+                </layer>
+              </staff>
+            </measure>
+            <measure xml:id="e10-m-445" metcon="false" n="11" right="dbl">
+              <staff xml:id="e10-m-446" n="1">
+                <layer xml:id="e10-m-447" n="1">
+                  <note xml:id="e10-m-448" dur="long" oct="5" pname="g" pnum="79" stem.dir="down">
+                    <verse xml:id="e10-m-451" n="1">
+                      <syl xml:id="e10-m-452" wordpos="t">RI:</syl>
+                    </verse>
+                  </note>
+                </layer>
+              </staff>
+              <staff xml:id="e10-m-453" n="2">
+                <layer xml:id="e10-m-454" n="1">
+                  <note xml:id="e10-m-455" dur="long" oct="5" pname="d" pnum="74" stem.dir="down">
+                    <verse xml:id="e10-m-458" n="1">
+                      <syl xml:id="e10-m-459" wordpos="t">RI:</syl>
+                    </verse>
+                  </note>
+                </layer>
+              </staff>
+              <staff xml:id="e10-m-460" n="3">
+                <layer xml:id="e10-m-461" n="1">
+                  <note xml:id="e10-m-462" dur="long" oct="3" pname="g" pnum="55" stem.dir="up">
+                    <verse xml:id="e10-m-465" n="1">
+                      <syl xml:id="e10-m-466" wordpos="t">RI:</syl>
+                    </verse>
+                  </note>
+                </layer>
+              </staff>
+            </measure>
+            <pb xml:id="e10-m-469" n="2" />
+            <sb xml:id="e10-m-468" />
+            <measure xml:id="e10-m-467" n="12">
+              <staff xml:id="e10-m-470" n="1">
+                <layer xml:id="e10-m-471" n="1">
+                  <rest xml:id="e10-m-472" dur="2" />
+                  <note xml:id="e10-m-473" dur="4" oct="4" pname="b" pnum="71">
+                    <accid xml:id="e10-m-474" accid="n" />
+                    <verse xml:id="e10-m-479" n="1">
+                      <syl xml:id="e10-m-480" con="d" wordpos="i">Mer</syl>
+                    </verse>
+                  </note>
+                  <note xml:id="e10-m-475" dur="4" oct="5" pname="c" pnum="72" />
+                  <note xml:id="e10-m-476" dur="4" oct="5" pname="d" pnum="74">
+                    <verse xml:id="e10-m-481" n="1">
+                      <syl xml:id="e10-m-482" con="d" wordpos="m">cu</syl>
+                    </verse>
+                  </note>
+                  <note xml:id="e10-m-477" dur="4" oct="5" pname="e" pnum="76">
+                    <verse xml:id="e10-m-483" n="1">
+                      <syl xml:id="e10-m-484" con="d" wordpos="m">ri</syl>
+                    </verse>
+                  </note>
+                  <note xml:id="e10-m-478" dur="2" oct="5" pname="f" pnum="77">
+                    <verse xml:id="e10-m-485" n="1">
+                      <syl xml:id="e10-m-486" wordpos="t">us</syl>
+                    </verse>
+                  </note>
+                </layer>
+              </staff>
+              <staff xml:id="e10-m-487" n="2">
+                <layer xml:id="e10-m-488" n="1">
+                  <rest xml:id="e10-m-489" dur="1" />
+                  <rest xml:id="e10-m-490" dur="2" />
+                  <note xml:id="e10-m-491" dur="4" oct="4" pname="a" pnum="69">
+                    <verse xml:id="e10-m-525" n="1">
+                      <syl xml:id="e10-m-526" con="d" wordpos="i">Mer</syl>
+                    </verse>
+                  </note>
+                  <note xml:id="e10-m-492" dur="4" oct="4" pname="b" pnum="70">
+                    <accid xml:id="e10-m-493" accid.ges="f" />
+                  </note>
+                </layer>
+              </staff>
+              <staff xml:id="e10-m-494" n="3">
+                <layer xml:id="e10-m-495" n="1">
+                  <note xml:id="e10-m-496" dur="1" oct="4" pname="d" pnum="62">
+                    <verse xml:id="e10-m-540" n="1">
+                      <syl xml:id="e10-m-541" con="d" wordpos="i">Mer</syl>
+                    </verse>
+                  </note>
+                  <note xml:id="e10-m-497" dur="2" oct="4" pname="d" pnum="62">
+                    <verse xml:id="e10-m-542" n="1">
+                      <syl xml:id="e10-m-543" con="d" wordpos="m">cu</syl>
+                    </verse>
+                  </note>
+                  <note xml:id="e10-m-498" dur="2" oct="4" pname="d" pnum="62">
+                    <verse xml:id="e10-m-544" n="1">
+                      <syl xml:id="e10-m-545" con="d" wordpos="m">ri</syl>
+                    </verse>
+                  </note>
+                </layer>
+              </staff>
+            </measure>
+            <measure xml:id="e10-m-499" n="13">
+              <staff xml:id="e10-m-500" n="1">
+                <layer xml:id="e10-m-501" n="1">
+                  <note xml:id="e10-m-502" dur="4" oct="5" pname="e" pnum="76">
+                    <verse xml:id="e10-m-507" n="1">
+                      <syl xml:id="e10-m-508" wordpos="i">sic</syl>
+                    </verse>
+                  </note>
+                  <note xml:id="e10-m-503" dur="4" oct="5" pname="f" pnum="77">
+                    <verse xml:id="e10-m-509" n="1">
+                      <syl xml:id="e10-m-510" con="d" wordpos="i">Mer</syl>
+                    </verse>
+                  </note>
+                  <note xml:id="e10-m-504" dur="2" oct="5" pname="g" pnum="79">
+                    <verse xml:id="e10-m-511" n="1">
+                      <syl xml:id="e10-m-512" con="d" wordpos="m">cu</syl>
+                    </verse>
+                  </note>
+                  <note xml:id="e10-m-505" dur="2" oct="5" pname="f" pnum="77">
+                    <verse xml:id="e10-m-513" n="1">
+                      <syl xml:id="e10-m-514" con="d" wordpos="m">ri</syl>
+                    </verse>
+                  </note>
+                  <note xml:id="e10-m-506" dur="2" oct="5" pname="d" pnum="74">
+                    <verse xml:id="e10-m-515" n="1">
+                      <syl xml:id="e10-m-516" wordpos="t">o,</syl>
+                    </verse>
+                  </note>
+                </layer>
+              </staff>
+              <staff xml:id="e10-m-517" n="2">
+                <layer xml:id="e10-m-518" n="1">
+                  <note xml:id="e10-m-519" dur="4" oct="5" pname="c" pnum="72">
+                    <verse xml:id="e10-m-527" n="1">
+                      <syl xml:id="e10-m-528" con="d" wordpos="m">cu</syl>
+                    </verse>
+                  </note>
+                  <note xml:id="e10-m-520" dur="4" oct="5" pname="d" pnum="74">
+                    <verse xml:id="e10-m-529" n="1">
+                      <syl xml:id="e10-m-530" con="d" wordpos="m">ri</syl>
+                    </verse>
+                  </note>
+                  <note xml:id="e10-m-521" dur="2" oct="5" pname="e" pnum="76">
+                    <verse xml:id="e10-m-531" n="1">
+                      <syl xml:id="e10-m-532" wordpos="t">us</syl>
+                    </verse>
+                  </note>
+                  <note xml:id="e10-m-522" dur="4" oct="5" pname="d" pnum="74">
+                    <verse xml:id="e10-m-533" n="1">
+                      <syl xml:id="e10-m-534" wordpos="i">sic</syl>
+                    </verse>
+                  </note>
+                  <note xml:id="e10-m-523" dur="4" oct="5" pname="e" pnum="76">
+                    <verse xml:id="e10-m-569" n="1">
+                      <syl xml:id="e10-m-570" con="d" wordpos="i">Mer</syl>
+                    </verse>
+                  </note>
+                  <note xml:id="e10-m-524" dur="2" oct="5" pname="f" pnum="77">
+                    <verse xml:id="e10-m-571" n="1">
+                      <syl xml:id="e10-m-572" con="d" wordpos="m">cu</syl>
+                    </verse>
+                  </note>
+                </layer>
+              </staff>
+              <staff xml:id="e10-m-535" n="3">
+                <layer xml:id="e10-m-536" n="1">
+                  <note xml:id="e10-m-537" dur="1" oct="4" pname="c" pnum="60">
+                    <verse xml:id="e10-m-546" n="1">
+                      <syl xml:id="e10-m-547" wordpos="t">us</syl>
+                    </verse>
+                  </note>
+                  <note xml:id="e10-m-538" dur="2" oct="4" pname="d" pnum="62">
+                    <verse xml:id="e10-m-548" n="1">
+                      <syl xml:id="e10-m-549" wordpos="i">sic</syl>
+                    </verse>
+                  </note>
+                  <note xml:id="e10-m-539" dur="2" oct="4" pname="d" pnum="62">
+                    <verse xml:id="e10-m-585" n="1">
+                      <syl xml:id="e10-m-586" con="d" wordpos="i">Mer</syl>
+                    </verse>
+                  </note>
+                </layer>
+              </staff>
+            </measure>
+            <measure xml:id="e10-m-550" n="14">
+              <staff xml:id="e10-m-551" n="1">
+                <layer xml:id="e10-m-552" n="1">
+                  <rest xml:id="e10-m-553" dur="2" />
+                  <note xml:id="e10-m-554" dur="2" oct="5" pname="e" pnum="75">
+                    <accid xml:id="e10-m-555" accid="f" />
+                    <verse xml:id="e10-m-561" n="1">
+                      <syl xml:id="e10-m-562" wordpos="i">sic</syl>
+                    </verse>
+                  </note>
+                  <note xml:id="e10-m-556" dur="4" oct="5" pname="d" pnum="74">
+                    <verse xml:id="e10-m-601" n="1">
+                      <syl xml:id="e10-m-602" con="d" wordpos="i">jun</syl>
+                    </verse>
+                  </note>
+                  <note xml:id="e10-m-557" dur="4" oct="5" pname="c" pnum="72" />
+                  <note xml:id="e10-m-558" dur="4" oct="4" pname="b" pnum="70">
+                    <accid xml:id="e10-m-559" accid.ges="f" />
+                  </note>
+                  <note xml:id="e10-m-560" dur="4" oct="4" pname="a" pnum="69" />
+                </layer>
+              </staff>
+              <staff xml:id="e10-m-563" n="2">
+                <layer xml:id="e10-m-564" n="1">
+                  <note xml:id="e10-m-565" dur="2" oct="5" pname="e" pnum="76">
+                    <verse xml:id="e10-m-573" n="1">
+                      <syl xml:id="e10-m-574" con="d" wordpos="m">ri</syl>
+                    </verse>
+                  </note>
+                  <note xml:id="e10-m-566" dur="2" oct="5" pname="c" pnum="72">
+                    <verse xml:id="e10-m-575" n="1">
+                      <syl xml:id="e10-m-576" wordpos="t">o,</syl>
+                    </verse>
+                  </note>
+                  <rest xml:id="e10-m-567" dur="2" />
+                  <note xml:id="e10-m-568" dur="2" oct="5" pname="d" pnum="74">
+                    <verse xml:id="e10-m-577" n="1">
+                      <syl xml:id="e10-m-578" wordpos="i">sic</syl>
+                    </verse>
+                  </note>
+                </layer>
+              </staff>
+              <staff xml:id="e10-m-579" n="3">
+                <layer xml:id="e10-m-580" n="1">
+                  <note xml:id="e10-m-581" dur="2" oct="4" pname="c" pnum="60">
+                    <verse xml:id="e10-m-587" n="1">
+                      <syl xml:id="e10-m-588" con="d" wordpos="m">cu</syl>
+                    </verse>
+                  </note>
+                  <note xml:id="e10-m-582" dur="2" oct="4" pname="c" pnum="60">
+                    <verse xml:id="e10-m-589" n="1">
+                      <syl xml:id="e10-m-590" con="d" wordpos="m">ri</syl>
+                    </verse>
+                  </note>
+                  <note xml:id="e10-m-583" dur="1" oct="3" pname="b" pnum="58">
+                    <accid xml:id="e10-m-584" accid.ges="f" />
+                    <verse xml:id="e10-m-591" n="1">
+                      <syl xml:id="e10-m-592" wordpos="t">o,</syl>
+                    </verse>
+                  </note>
+                </layer>
+              </staff>
+            </measure>
+            <measure xml:id="e10-m-593" n="15">
+              <staff xml:id="e10-m-594" n="1">
+                <layer xml:id="e10-m-595" n="1">
+                  <note xml:id="e10-m-596" dur="4" oct="4" pname="g" pnum="67" />
+                  <note xml:id="e10-m-597" dur="4" oct="4" pname="f" pnum="65" />
+                  <note xml:id="e10-m-598" dur="2" oct="4" pname="e" pnum="64" />
+                  <note xml:id="e10-m-599" dur="2" oct="4" pname="a" pnum="69">
+                    <verse xml:id="e10-m-603" n="1">
+                      <syl xml:id="e10-m-604" con="d" wordpos="m">gi</syl>
+                    </verse>
+                  </note>
+                  <note xml:id="e10-m-600" dur="2" oct="4" pname="a" pnum="69">
+                    <verse xml:id="e10-m-605" n="1">
+                      <syl xml:id="e10-m-606" wordpos="t">tur</syl>
+                    </verse>
+                  </note>
+                </layer>
+              </staff>
+              <staff xml:id="e10-m-607" n="2">
+                <layer xml:id="e10-m-608" n="1">
+                  <note xml:id="e10-m-609" dur="4" oct="5" pname="c" pnum="72">
+                    <verse xml:id="e10-m-645" n="1">
+                      <syl xml:id="e10-m-646" con="d" wordpos="i">jun</syl>
+                    </verse>
+                  </note>
+                  <note xml:id="e10-m-610" dur="4" oct="4" pname="b" pnum="70">
+                    <accid xml:id="e10-m-611" accid.ges="f" />
+                  </note>
+                  <note xml:id="e10-m-612" dur="4" oct="4" pname="a" pnum="69" />
+                  <note xml:id="e10-m-613" dur="4" oct="4" pname="g" pnum="67" />
+                  <note xml:id="e10-m-614" dur="4" oct="4" pname="f" pnum="65" />
+                  <note xml:id="e10-m-615" dur="4" oct="4" pname="e" pnum="64" />
+                  <note xml:id="e10-m-616" dur="2" oct="4" pname="d" pnum="62" />
+                </layer>
+              </staff>
+              <staff xml:id="e10-m-617" n="3">
+                <layer xml:id="e10-m-618" n="1">
+                  <note xml:id="e10-m-619" dur="1" oct="4" pname="c" pnum="60">
+                    <verse xml:id="e10-m-621" n="1">
+                      <syl xml:id="e10-m-622" wordpos="i">sic</syl>
+                    </verse>
+                  </note>
+                  <note xml:id="e10-m-620" dur="1" oct="4" pname="d" pnum="62">
+                    <verse xml:id="e10-m-656" n="1">
+                      <syl xml:id="e10-m-657" con="d" wordpos="i">jun</syl>
+                    </verse>
+                  </note>
+                </layer>
+              </staff>
+            </measure>
+            <sb xml:id="e10-m-624" />
+            <measure xml:id="e10-m-623" n="16">
+              <staff xml:id="e10-m-625" n="1">
+                <layer xml:id="e10-m-626" n="1">
+                  <note xml:id="e10-m-627" dur="4" oct="4" pname="b" pnum="70">
+                    <accid xml:id="e10-m-628" accid.ges="f" />
+                    <verse xml:id="e10-m-633" n="1">
+                      <syl xml:id="e10-m-634" con="d" wordpos="i">i</syl>
+                    </verse>
+                  </note>
+                  <note xml:id="e10-m-629" dur="4" oct="5" pname="c" pnum="72" />
+                  <note xml:id="e10-m-630" dur="2" oct="5" pname="d" pnum="74" />
+                  <note xml:id="e10-m-631" dur="2" oct="5" pname="c" pnum="72" />
+                  <note xml:id="e10-m-632" dur="2" oct="4" pname="g" pnum="67">
+                    <verse xml:id="e10-m-635" n="1">
+                      <syl xml:id="e10-m-636" wordpos="t">gni</syl>
+                    </verse>
+                  </note>
+                </layer>
+              </staff>
+              <staff xml:id="e10-m-637" n="2">
+                <layer xml:id="e10-m-638" n="1">
+                  <note xml:id="e10-m-639" dur="2" oct="4" pname="g" pnum="67">
+                    <verse xml:id="e10-m-647" n="1">
+                      <syl xml:id="e10-m-648" con="d" wordpos="m">gi</syl>
+                    </verse>
+                  </note>
+                  <note xml:id="e10-m-640" dur="2" oct="4" pname="g" pnum="67">
+                    <verse xml:id="e10-m-649" n="1">
+                      <syl xml:id="e10-m-650" wordpos="t">tur</syl>
+                    </verse>
+                  </note>
+                  <note xml:id="e10-m-641" dur="4" oct="4" pname="a" pnum="69">
+                    <verse xml:id="e10-m-686" n="1">
+                      <syl xml:id="e10-m-687" con="d" wordpos="i">i</syl>
+                    </verse>
+                  </note>
+                  <note xml:id="e10-m-642" dur="4" oct="4" pname="b" pnum="70">
+                    <accid xml:id="e10-m-643" accid.ges="f" />
+                  </note>
+                  <note xml:id="e10-m-644" dur="2" oct="5" pname="c" pnum="72" />
+                </layer>
+              </staff>
+              <staff xml:id="e10-m-651" n="3">
+                <layer xml:id="e10-m-652" n="1">
+                  <note xml:id="e10-m-653" dur="1" oct="3" pname="b" pnum="58">
+                    <accid xml:id="e10-m-654" accid.ges="f" />
+                    <verse xml:id="e10-m-658" n="1">
+                      <syl xml:id="e10-m-659" con="d" wordpos="m">gi</syl>
+                    </verse>
+                  </note>
+                  <note xml:id="e10-m-655" dur="1" oct="4" pname="c" pnum="60">
+                    <verse xml:id="e10-m-660" n="1">
+                      <syl xml:id="e10-m-661" wordpos="t">tur</syl>
+                    </verse>
+                  </note>
+                </layer>
+              </staff>
+            </measure>
+            <measure xml:id="e10-m-662" n="17">
+              <staff xml:id="e10-m-663" n="1">
+                <layer xml:id="e10-m-664" n="1">
+                  <rest xml:id="e10-m-665" dur="2" />
+                  <note xml:id="e10-m-666" dur="4" oct="4" pname="d" pnum="62">
+                    <verse xml:id="e10-m-672" n="1">
+                      <syl xml:id="e10-m-673" con="d" wordpos="i">Ig</syl>
+                    </verse>
+                  </note>
+                  <note xml:id="e10-m-667" dur="4" oct="4" pname="e" pnum="64" />
+                  <note xml:id="e10-m-668" dur="4" oct="4" pname="f" pnum="65" />
+                  <note xml:id="e10-m-669" dur="4" oct="4" pname="g" pnum="67" />
+                  <note xml:id="e10-m-670" dur="4" oct="4" pname="a" pnum="69">
+                    <verse xml:id="e10-m-674" n="1">
+                      <syl xml:id="e10-m-675" wordpos="t">nis,</syl>
+                    </verse>
+                  </note>
+                  <note xml:id="e10-m-671" dur="4" oct="4" pname="f" pnum="65">
+                    <verse xml:id="e10-m-676" n="1">
+                      <syl xml:id="e10-m-677" wordpos="t" con="u">et</syl>
+                    </verse>
+                  </note>
+                </layer>
+              </staff>
+              <staff xml:id="e10-m-678" n="2">
+                <layer xml:id="e10-m-679" n="1">
+                  <note xml:id="e10-m-680" dur="2" oct="4" pname="b" pnum="70">
+                    <accid xml:id="e10-m-681" accid.ges="f" />
+                  </note>
+                  <note xml:id="e10-m-682" dur="2" oct="4" pname="f" pnum="65">
+                    <verse xml:id="e10-m-688" n="1">
+                      <syl xml:id="e10-m-689" wordpos="t">gni</syl>
+                    </verse>
+                  </note>
+                  <rest xml:id="e10-m-683" dur="2" />
+                  <note xml:id="e10-m-684" dur="4" oct="4" pname="c" pnum="60">
+                    <verse xml:id="e10-m-723" n="1">
+                      <syl xml:id="e10-m-724" con="d" wordpos="i">Ig</syl>
+                    </verse>
+                  </note>
+                  <note xml:id="e10-m-685" dur="4" oct="4" pname="d" pnum="62" />
+                </layer>
+              </staff>
+              <staff xml:id="e10-m-690" n="3">
+                <layer xml:id="e10-m-691" n="1">
+                  <note xml:id="e10-m-692" dur="2" oct="4" pname="d" pnum="62">
+                    <verse xml:id="e10-m-695" n="1">
+                      <syl xml:id="e10-m-696" con="d" wordpos="i">i</syl>
+                    </verse>
+                  </note>
+                  <note xml:id="e10-m-693" dur="2" oct="4" pname="d" pnum="62">
+                    <verse xml:id="e10-m-697" n="1">
+                      <syl xml:id="e10-m-698" wordpos="t">gni</syl>
+                    </verse>
+                  </note>
+                  <note xml:id="e10-m-694" dur="1" oct="3" pname="a" pnum="57">
+                    <verse xml:id="e10-m-736" n="1">
+                      <syl xml:id="e10-m-737" con="d" wordpos="i">Ig</syl>
+                    </verse>
+                  </note>
+                </layer>
+              </staff>
+            </measure>
+            <measure xml:id="e10-m-699" n="18">
+              <staff xml:id="e10-m-700" n="1">
+                <layer xml:id="e10-m-701" n="1">
+                  <note xml:id="e10-m-702" dur="4" oct="4" pname="g" pnum="67" />
+                  <note xml:id="e10-m-703" dur="4" oct="4" pname="a" pnum="69" />
+                  <note xml:id="e10-m-704" dur="2" oct="4" pname="b" pnum="70">
+                    <accid xml:id="e10-m-705" accid.ges="f" />
+                    <verse xml:id="e10-m-708" n="1">
+                      <syl xml:id="e10-m-709" wordpos="i">haec</syl>
+                    </verse>
+                  </note>
+                  <note xml:id="e10-m-706" dur="2" oct="4" pname="a" pnum="69">
+                    <verse xml:id="e10-m-710" n="1">
+                      <syl xml:id="e10-m-711" con="d" wordpos="i">ar</syl>
+                    </verse>
+                  </note>
+                  <note xml:id="e10-m-707" dur="2" oct="4" pname="f" pnum="65">
+                    <verse xml:id="e10-m-712" n="1">
+                      <syl xml:id="e10-m-713" wordpos="t">ti</syl>
+                    </verse>
+                  </note>
+                </layer>
+              </staff>
+              <staff xml:id="e10-m-714" n="2">
+                <layer xml:id="e10-m-715" n="1">
+                  <note xml:id="e10-m-716" dur="4" oct="4" pname="e" pnum="64" />
+                  <note xml:id="e10-m-717" dur="4" oct="4" pname="f" pnum="65" />
+                  <note xml:id="e10-m-718" dur="4" oct="4" pname="g" pnum="67">
+                    <verse xml:id="e10-m-725" n="1">
+                      <syl xml:id="e10-m-726" wordpos="t">nis,</syl>
+                    </verse>
+                  </note>
+                  <note xml:id="e10-m-719" dur="4" oct="4" pname="e" pnum="64">
+                    <verse xml:id="e10-m-727" n="1">
+                      <syl xml:id="e10-m-728" wordpos="t" con="u">et</syl>
+                    </verse>
+                  </note>
+                  <note xml:id="e10-m-720" dur="4" oct="4" pname="f" pnum="65" />
+                  <note xml:id="e10-m-721" dur="4" oct="4" pname="g" pnum="67" />
+                  <note xml:id="e10-m-722" dur="2" oct="4" pname="a" pnum="69">
+                    <verse xml:id="e10-m-729" n="1">
+                      <syl xml:id="e10-m-730" wordpos="i">haec</syl>
+                    </verse>
+                  </note>
+                </layer>
+              </staff>
+              <staff xml:id="e10-m-731" n="3">
+                <layer xml:id="e10-m-732" n="1">
+                  <note xml:id="e10-m-733" dur="2" oct="3" pname="g" pnum="55">
+                    <verse xml:id="e10-m-738" n="1">
+                      <syl xml:id="e10-m-739" wordpos="t">nis,</syl>
+                    </verse>
+                  </note>
+                  <note xml:id="e10-m-734" dur="2" oct="3" pname="g" pnum="55">
+                    <verse xml:id="e10-m-740" n="1">
+                      <syl xml:id="e10-m-741" wordpos="i">et</syl>
+                    </verse>
+                  </note>
+                  <note xml:id="e10-m-735" dur="1" oct="3" pname="a" pnum="57">
+                    <verse xml:id="e10-m-742" n="1">
+                      <syl xml:id="e10-m-743" wordpos="i">haec</syl>
+                    </verse>
+                  </note>
+                </layer>
+              </staff>
+            </measure>
+            <sb xml:id="e10-m-745" />
+            <measure xml:id="e10-m-744" n="19">
+              <staff xml:id="e10-m-746" n="1">
+                <layer xml:id="e10-m-747" n="1">
+                  <note xml:id="e10-m-748" dur="4" oct="4" pname="e" pnum="64">
+                    <verse xml:id="e10-m-756" n="1">
+                      <syl xml:id="e10-m-757" wordpos="i">sit</syl>
+                    </verse>
+                  </note>
+                  <note xml:id="e10-m-749" dur="4" oct="4" pname="f" pnum="65" />
+                  <note xml:id="e10-m-750" dur="4" oct="4" pname="g" pnum="67" />
+                  <note xml:id="e10-m-751" dur="4" oct="4" pname="a" pnum="69" />
+                  <note xml:id="e10-m-752" dur="4" oct="4" pname="b" pnum="70">
+                    <accid xml:id="e10-m-753" accid.ges="f" />
+                  </note>
+                  <note xml:id="e10-m-754" dur="4" oct="5" pname="c" pnum="72" />
+                  <note xml:id="e10-m-755" dur="2" oct="5" pname="d" pnum="74" />
+                </layer>
+              </staff>
+              <staff xml:id="e10-m-758" n="2">
+                <layer xml:id="e10-m-759" n="1">
+                  <note xml:id="e10-m-760" dur="2" oct="4" pname="g" pnum="67">
+                    <verse xml:id="e10-m-766" n="1">
+                      <syl xml:id="e10-m-767" con="d" wordpos="i">ar</syl>
+                    </verse>
+                  </note>
+                  <note xml:id="e10-m-761" dur="2" oct="4" pname="e" pnum="64">
+                    <verse xml:id="e10-m-768" n="1">
+                      <syl xml:id="e10-m-769" wordpos="t">ti</syl>
+                    </verse>
+                  </note>
+                  <note xml:id="e10-m-762" dur="4" oct="4" pname="d" pnum="62">
+                    <verse xml:id="e10-m-770" n="1">
+                      <syl xml:id="e10-m-771" wordpos="i">sit</syl>
+                    </verse>
+                  </note>
+                  <note xml:id="e10-m-763" dur="4" oct="4" pname="e" pnum="64" />
+                  <note xml:id="e10-m-764" dur="4" oct="4" pname="f" pnum="65" />
+                  <note xml:id="e10-m-765" dur="4" oct="4" pname="g" pnum="67" />
+                </layer>
+              </staff>
+              <staff xml:id="e10-m-772" n="3">
+                <layer xml:id="e10-m-773" n="1">
+                  <note xml:id="e10-m-774" dur="1" oct="4" pname="c" pnum="60">
+                    <verse xml:id="e10-m-777" n="1">
+                      <syl xml:id="e10-m-778" con="d" wordpos="i">ar</syl>
+                    </verse>
+                  </note>
+                  <note xml:id="e10-m-775" dur="1" oct="3" pname="b" pnum="58">
+                    <accid xml:id="e10-m-776" accid.ges="f" />
+                    <verse xml:id="e10-m-779" n="1">
+                      <syl xml:id="e10-m-780" wordpos="t">ti</syl>
+                    </verse>
+                  </note>
+                </layer>
+              </staff>
+            </measure>
+            <measure xml:id="e10-m-781" n="20">
+              <staff xml:id="e10-m-782" n="1">
+                <layer xml:id="e10-m-783" n="1">
+                  <note xml:id="e10-m-784" dur="2" oct="5" pname="c" pnum="72">
+                    <verse xml:id="e10-m-788" n="1">
+                      <syl xml:id="e10-m-789" con="d" wordpos="i">da</syl>
+                    </verse>
+                  </note>
+                  <note xml:id="e10-m-785" dur="2" oct="4" pname="a" pnum="69">
+                    <verse xml:id="e10-m-790" n="1">
+                      <syl xml:id="e10-m-791" wordpos="t">ta</syl>
+                    </verse>
+                  </note>
+                  <rest xml:id="e10-m-786" dur="2" />
+                  <note xml:id="e10-m-787" dur="2" oct="5" pname="d" pnum="74">
+                    <verse xml:id="e10-m-825" n="1">
+                      <syl xml:id="e10-m-826" con="d" wordpos="i">me</syl>
+                    </verse>
+                  </note>
+                </layer>
+              </staff>
+              <staff xml:id="e10-m-792" n="2">
+                <layer xml:id="e10-m-793" n="1">
+                  <note xml:id="e10-m-794" dur="4" oct="4" pname="a" pnum="69" />
+                  <note xml:id="e10-m-795" dur="4" oct="4" pname="b" pnum="70">
+                    <accid xml:id="e10-m-796" accid.ges="f" />
+                  </note>
+                  <note xml:id="e10-m-797" dur="2" oct="5" pname="c" pnum="72" />
+                  <note xml:id="e10-m-798" dur="2" oct="4" pname="b" pnum="70">
+                    <accid xml:id="e10-m-799" accid.ges="f" />
+                    <verse xml:id="e10-m-801" n="1">
+                      <syl xml:id="e10-m-802" con="d" wordpos="i">da</syl>
+                    </verse>
+                  </note>
+                  <note xml:id="e10-m-800" dur="2" oct="4" pname="g" pnum="67">
+                    <verse xml:id="e10-m-803" n="1">
+                      <syl xml:id="e10-m-804" wordpos="t">ta</syl>
+                    </verse>
+                  </note>
+                </layer>
+              </staff>
+              <staff xml:id="e10-m-805" n="3">
+                <layer xml:id="e10-m-806" n="1">
+                  <note xml:id="e10-m-807" dur="1" oct="3" pname="a" pnum="57">
+                    <verse xml:id="e10-m-812" n="1">
+                      <syl xml:id="e10-m-813" wordpos="i">sit</syl>
+                    </verse>
+                  </note>
+                  <note xml:id="e10-m-808" dur="2" oct="3" pname="b" pnum="58">
+                    <accid xml:id="e10-m-809" accid.ges="f" />
+                    <verse xml:id="e10-m-814" n="1">
+                      <syl xml:id="e10-m-815" con="d" wordpos="i">da</syl>
+                    </verse>
+                  </note>
+                  <note xml:id="e10-m-810" dur="2" oct="3" pname="b" pnum="58">
+                    <!-- DELETED -->
+                    <!--
+        
+        this-pitch= 58 
+        last-pitch= 58
+        this-acc= f
+        last-acc= f-->
+                    <verse xml:id="e10-m-816" n="1">
+                      <syl xml:id="e10-m-817" wordpos="t">ta</syl>
+                    </verse>
+                  </note>
+                </layer>
+              </staff>
+            </measure>
+            <measure xml:id="e10-m-818" n="21">
+              <staff xml:id="e10-m-819" n="1">
+                <layer xml:id="e10-m-820" n="1">
+                  <note xml:id="e10-m-821" dur="2" oct="5" pname="e" pnum="76">
+                    <verse xml:id="e10-m-827" n="1">
+                      <syl xml:id="e10-m-828" wordpos="t">ta</syl>
+                    </verse>
+                  </note>
+                  <note xml:id="e10-m-822" dur="2" oct="5" pname="f" pnum="77">
+                    <verse xml:id="e10-m-829" n="1">
+                      <syl xml:id="e10-m-830" con="d" wordpos="i">tu</syl>
+                    </verse>
+                  </note>
+                  <note xml:id="e10-m-823" dur="2" oct="5" pname="g" pnum="79">
+                    <verse xml:id="e10-m-831" n="1">
+                      <syl xml:id="e10-m-832" wordpos="t">ae,</syl>
+                    </verse>
+                  </note>
+                  <note xml:id="e10-m-824" dur="2" oct="5" pname="g" pnum="79">
+                    <verse xml:id="e10-m-856" n="1">
+                      <syl xml:id="e10-m-857" con="d" wordpos="i">tu</syl>
+                    </verse>
+                  </note>
+                </layer>
+              </staff>
+              <staff xml:id="e10-m-833" n="2">
+                <layer xml:id="e10-m-834" n="1">
+                  <rest xml:id="e10-m-835" dur="2" />
+                  <note xml:id="e10-m-836" dur="2" oct="5" pname="c" pnum="72">
+                    <verse xml:id="e10-m-839" n="1">
+                      <syl xml:id="e10-m-840" con="d" wordpos="i">me</syl>
+                    </verse>
+                  </note>
+                  <note xml:id="e10-m-837" dur="2" oct="5" pname="d" pnum="74">
+                    <verse xml:id="e10-m-841" n="1">
+                      <syl xml:id="e10-m-842" wordpos="t">ta</syl>
+                    </verse>
+                  </note>
+                  <note xml:id="e10-m-838" dur="2" oct="5" pname="d" pnum="74">
+                    <verse xml:id="e10-m-863" n="1">
+                      <syl xml:id="e10-m-864" con="d" wordpos="i">tu</syl>
+                    </verse>
+                  </note>
+                </layer>
+              </staff>
+              <staff xml:id="e10-m-843" n="3">
+                <layer xml:id="e10-m-844" n="1">
+                  <note xml:id="e10-m-845" dur="1" oct="3" pname="a" pnum="57">
+                    <verse xml:id="e10-m-848" n="1">
+                      <syl xml:id="e10-m-849" con="d" wordpos="i">me</syl>
+                    </verse>
+                  </note>
+                  <note xml:id="e10-m-846" dur="2" oct="3" pname="g" pnum="55">
+                    <verse xml:id="e10-m-850" n="1">
+                      <syl xml:id="e10-m-851" wordpos="t">ta</syl>
+                    </verse>
+                  </note>
+                  <note xml:id="e10-m-847" dur="2" oct="3" pname="g" pnum="55">
+                    <verse xml:id="e10-m-870" n="1">
+                      <syl xml:id="e10-m-871" con="d" wordpos="i">tu</syl>
+                    </verse>
+                  </note>
+                </layer>
+              </staff>
+            </measure>
+            <measure xml:id="e10-m-852" metcon="false" n="22" right="dbl">
+              <staff xml:id="e10-m-853" n="1">
+                <layer xml:id="e10-m-854" n="1">
+                  <note xml:id="e10-m-855" dur="long" oct="5" pname="g" pnum="79" stem.dir="down">
+                    <verse xml:id="e10-m-858" n="1">
+                      <syl xml:id="e10-m-859" wordpos="t">ae.</syl>
+                    </verse>
+                  </note>
+                </layer>
+              </staff>
+              <staff xml:id="e10-m-860" n="2">
+                <layer xml:id="e10-m-861" n="1">
+                  <note xml:id="e10-m-862" dur="long" oct="5" pname="d" pnum="74" stem.dir="down">
+                    <verse xml:id="e10-m-865" n="1">
+                      <syl xml:id="e10-m-866" wordpos="t">ae.</syl>
+                    </verse>
+                  </note>
+                </layer>
+              </staff>
+              <staff xml:id="e10-m-867" n="3">
+                <layer xml:id="e10-m-868" n="1">
+                  <note xml:id="e10-m-869" dur="long" oct="3" pname="g" pnum="55" stem.dir="up">
+                    <verse xml:id="e10-m-872" n="1">
+                      <syl xml:id="e10-m-873" wordpos="t">ae.</syl>
+                    </verse>
+                  </note>
+                </layer>
+              </staff>
+            </measure>
+            <pb xml:id="e10-m-876" n="3" />
+            <sb xml:id="e10-m-875" />
+            <measure xml:id="e10-m-874" n="23">
+              <staff xml:id="e10-m-877" n="1">
+                <layer xml:id="e10-m-878" n="1">
+                  <rest xml:id="e10-m-879" dur="2" />
+                  <note xml:id="e10-m-880" dur="4" oct="4" pname="b" pnum="71">
+                    <accid xml:id="e10-m-881" accid="n" />
+                    <verse xml:id="e10-m-886" n="1">
+                      <syl xml:id="e10-m-887" con="d" wordpos="i">Her</syl>
+                    </verse>
+                  </note>
+                  <note xml:id="e10-m-882" dur="4" oct="5" pname="c" pnum="72" />
+                  <note xml:id="e10-m-883" dur="4" oct="5" pname="d" pnum="74">
+                    <verse xml:id="e10-m-888" n="1">
+                      <syl xml:id="e10-m-889" con="d" wordpos="m">me</syl>
+                    </verse>
+                  </note>
+                  <note xml:id="e10-m-884" dur="4" oct="5" pname="e" pnum="76" />
+                  <note xml:id="e10-m-885" dur="2" oct="5" pname="f" pnum="77">
+                    <verse xml:id="e10-m-890" n="1">
+                      <syl xml:id="e10-m-891" wordpos="t">tem</syl>
+                    </verse>
+                  </note>
+                </layer>
+              </staff>
+              <staff xml:id="e10-m-892" n="2">
+                <layer xml:id="e10-m-893" n="1">
+                  <rest xml:id="e10-m-894" dur="1" />
+                  <rest xml:id="e10-m-895" dur="2" />
+                  <note xml:id="e10-m-896" dur="4" oct="4" pname="a" pnum="69">
+                    <verse xml:id="e10-m-936" n="1">
+                      <syl xml:id="e10-m-937" con="d" wordpos="i">Her</syl>
+                    </verse>
+                  </note>
+                  <note xml:id="e10-m-897" dur="4" oct="4" pname="b" pnum="70">
+                    <accid xml:id="e10-m-898" accid.ges="f" />
+                  </note>
+                </layer>
+              </staff>
+              <staff xml:id="e10-m-899" n="3">
+                <layer xml:id="e10-m-900" n="1">
+                  <note xml:id="e10-m-901" dur="1" oct="4" pname="d" pnum="62">
+                    <verse xml:id="e10-m-904" n="1">
+                      <syl xml:id="e10-m-905" con="d" wordpos="i">Her</syl>
+                    </verse>
+                  </note>
+                  <note xml:id="e10-m-902" dur="2" oct="4" pname="d" pnum="62">
+                    <verse xml:id="e10-m-906" n="1">
+                      <syl xml:id="e10-m-907" con="d" wordpos="m">me</syl>
+                    </verse>
+                  </note>
+                  <note xml:id="e10-m-903" dur="2" oct="4" pname="d" pnum="62">
+                    <verse xml:id="e10-m-908" n="1">
+                      <syl xml:id="e10-m-909" wordpos="t">tem</syl>
+                    </verse>
+                  </note>
+                </layer>
+              </staff>
+            </measure>
+            <measure xml:id="e10-m-910" n="24">
+              <staff xml:id="e10-m-911" n="1">
+                <layer xml:id="e10-m-912" n="1">
+                  <note xml:id="e10-m-913" dur="4" oct="5" pname="e" pnum="76">
+                    <verse xml:id="e10-m-918" n="1">
+                      <syl xml:id="e10-m-919" con="d" wordpos="i">Vul</syl>
+                    </verse>
+                  </note>
+                  <note xml:id="e10-m-914" dur="4" oct="5" pname="f" pnum="77">
+                    <verse xml:id="e10-m-920" n="1">
+                      <syl xml:id="e10-m-921" con="d" wordpos="m">ca</syl>
+                    </verse>
+                  </note>
+                  <note xml:id="e10-m-915" dur="2" oct="5" pname="g" pnum="79">
+                    <verse xml:id="e10-m-922" n="1">
+                      <syl xml:id="e10-m-923" wordpos="t">nus</syl>
+                    </verse>
+                  </note>
+                  <note xml:id="e10-m-916" dur="2" oct="5" pname="f" pnum="77">
+                    <verse xml:id="e10-m-924" n="1">
+                      <syl xml:id="e10-m-925" con="d" wordpos="i">a</syl>
+                    </verse>
+                  </note>
+                  <note xml:id="e10-m-917" dur="2" oct="5" pname="d" pnum="74">
+                    <verse xml:id="e10-m-926" n="1">
+                      <syl xml:id="e10-m-927" wordpos="t">git,</syl>
+                    </verse>
+                  </note>
+                </layer>
+              </staff>
+              <staff xml:id="e10-m-928" n="2">
+                <layer xml:id="e10-m-929" n="1">
+                  <note xml:id="e10-m-930" dur="4" oct="5" pname="c" pnum="72">
+                    <verse xml:id="e10-m-938" n="1">
+                      <syl xml:id="e10-m-939" con="d" wordpos="m">me</syl>
+                    </verse>
+                  </note>
+                  <note xml:id="e10-m-931" dur="4" oct="5" pname="d" pnum="74" />
+                  <note xml:id="e10-m-932" dur="2" oct="5" pname="e" pnum="76">
+                    <verse xml:id="e10-m-940" n="1">
+                      <syl xml:id="e10-m-941" wordpos="t">tem</syl>
+                    </verse>
+                  </note>
+                  <note xml:id="e10-m-933" dur="4" oct="5" pname="d" pnum="74">
+                    <verse xml:id="e10-m-942" n="1">
+                      <syl xml:id="e10-m-943" con="d" wordpos="i">Vul</syl>
+                    </verse>
+                  </note>
+                  <note xml:id="e10-m-934" dur="4" oct="5" pname="e" pnum="76">
+                    <verse xml:id="e10-m-944" n="1">
+                      <syl xml:id="e10-m-945" con="d" wordpos="m">ca</syl>
+                    </verse>
+                  </note>
+                  <note xml:id="e10-m-935" dur="2" oct="5" pname="f" pnum="77">
+                    <verse xml:id="e10-m-946" n="1">
+                      <syl xml:id="e10-m-947" wordpos="t">nus</syl>
+                    </verse>
+                  </note>
+                </layer>
+              </staff>
+              <staff xml:id="e10-m-948" n="3">
+                <layer xml:id="e10-m-949" n="1">
+                  <note xml:id="e10-m-950" dur="1" oct="4" pname="c" pnum="60">
+                    <verse xml:id="e10-m-982" n="1">
+                      <syl xml:id="e10-m-983" con="d" wordpos="i">Vul</syl>
+                    </verse>
+                  </note>
+                  <note xml:id="e10-m-951" dur="1" oct="4" pname="d" pnum="62">
+                    <verse xml:id="e10-m-984" n="1">
+                      <syl xml:id="e10-m-985" con="d" wordpos="m">ca</syl>
+                    </verse>
+                  </note>
+                </layer>
+              </staff>
+            </measure>
+            <measure xml:id="e10-m-952" n="25">
+              <staff xml:id="e10-m-953" n="1">
+                <layer xml:id="e10-m-954" n="1">
+                  <rest xml:id="e10-m-955" dur="2" />
+                  <note xml:id="e10-m-956" dur="2" oct="5" pname="e" pnum="75">
+                    <accid xml:id="e10-m-957" accid="f" />
+                    <verse xml:id="e10-m-963" n="1">
+                      <syl xml:id="e10-m-964" wordpos="i">sed</syl>
+                    </verse>
+                  </note>
+                  <note xml:id="e10-m-958" dur="4" oct="5" pname="d" pnum="74">
+                    <verse xml:id="e10-m-996" n="1">
+                      <syl xml:id="e10-m-997" con="d" wordpos="i">pen</syl>
+                    </verse>
+                  </note>
+                  <note xml:id="e10-m-959" dur="4" oct="5" pname="c" pnum="72" />
+                  <note xml:id="e10-m-960" dur="4" oct="4" pname="b" pnum="70">
+                    <accid xml:id="e10-m-961" accid.ges="f" />
+                  </note>
+                  <note xml:id="e10-m-962" dur="4" oct="4" pname="a" pnum="69" />
+                </layer>
+              </staff>
+              <staff xml:id="e10-m-965" n="2">
+                <layer xml:id="e10-m-966" n="1">
+                  <note xml:id="e10-m-967" dur="2" oct="5" pname="e" pnum="76">
+                    <verse xml:id="e10-m-971" n="1">
+                      <syl xml:id="e10-m-972" con="d" wordpos="i">a</syl>
+                    </verse>
+                  </note>
+                  <note xml:id="e10-m-968" dur="2" oct="5" pname="c" pnum="72">
+                    <verse xml:id="e10-m-973" n="1">
+                      <syl xml:id="e10-m-974" wordpos="t">git,</syl>
+                    </verse>
+                  </note>
+                  <rest xml:id="e10-m-969" dur="2" />
+                  <note xml:id="e10-m-970" dur="2" oct="5" pname="d" pnum="74">
+                    <verse xml:id="e10-m-975" n="1">
+                      <syl xml:id="e10-m-976" wordpos="i">sed</syl>
+                    </verse>
+                  </note>
+                </layer>
+              </staff>
+              <staff xml:id="e10-m-977" n="3">
+                <layer xml:id="e10-m-978" n="1">
+                  <note xml:id="e10-m-979" dur="1" oct="4" pname="c" pnum="60">
+                    <verse xml:id="e10-m-986" n="1">
+                      <syl xml:id="e10-m-987" wordpos="t">nus</syl>
+                    </verse>
+                  </note>
+                  <note xml:id="e10-m-980" dur="1" oct="3" pname="b" pnum="58">
+                    <accid xml:id="e10-m-981" accid.ges="f" />
+                    <verse xml:id="e10-m-1016" n="1">
+                      <syl xml:id="e10-m-1017" con="d" wordpos="i">a</syl>
+                    </verse>
+                  </note>
+                </layer>
+              </staff>
+            </measure>
+            <measure xml:id="e10-m-988" n="26">
+              <staff xml:id="e10-m-989" n="1">
+                <layer xml:id="e10-m-990" n="1">
+                  <note xml:id="e10-m-991" dur="4" oct="4" pname="g" pnum="67" />
+                  <note xml:id="e10-m-992" dur="4" oct="4" pname="f" pnum="65" />
+                  <note xml:id="e10-m-993" dur="2" oct="4" pname="e" pnum="64" />
+                  <note xml:id="e10-m-994" dur="2" oct="4" pname="a" pnum="69">
+                    <verse xml:id="e10-m-998" n="1">
+                      <syl xml:id="e10-m-999" con="d" wordpos="m">ni</syl>
+                    </verse>
+                  </note>
+                  <note xml:id="e10-m-995" dur="2" oct="4" pname="a" pnum="69">
+                    <verse xml:id="e10-m-1000" n="1">
+                      <syl xml:id="e10-m-1001" wordpos="t">ger</syl>
+                    </verse>
+                  </note>
+                </layer>
+              </staff>
+              <staff xml:id="e10-m-1002" n="2">
+                <layer xml:id="e10-m-1003" n="1">
+                  <note xml:id="e10-m-1004" dur="4" oct="5" pname="c" pnum="72">
+                    <verse xml:id="e10-m-1044" n="1">
+                      <syl xml:id="e10-m-1045" con="d" wordpos="i">pen</syl>
+                    </verse>
+                  </note>
+                  <note xml:id="e10-m-1005" dur="4" oct="4" pname="b" pnum="70">
+                    <accid xml:id="e10-m-1006" accid.ges="f" />
+                  </note>
+                  <note xml:id="e10-m-1007" dur="4" oct="4" pname="a" pnum="69" />
+                  <note xml:id="e10-m-1008" dur="4" oct="4" pname="g" pnum="67" />
+                  <note xml:id="e10-m-1009" dur="4" oct="4" pname="f" pnum="65" />
+                  <note xml:id="e10-m-1010" dur="4" oct="4" pname="e" pnum="64" />
+                  <note xml:id="e10-m-1011" dur="2" oct="4" pname="d" pnum="62" />
+                </layer>
+              </staff>
+              <staff xml:id="e10-m-1012" n="3">
+                <layer xml:id="e10-m-1013" n="1">
+                  <note xml:id="e10-m-1014" dur="1" oct="4" pname="c" pnum="60">
+                    <verse xml:id="e10-m-1018" n="1">
+                      <syl xml:id="e10-m-1019" wordpos="t">git,</syl>
+                    </verse>
+                  </note>
+                  <note xml:id="e10-m-1015" dur="1" oct="4" pname="d" pnum="62">
+                    <verse xml:id="e10-m-1020" n="1">
+                      <syl xml:id="e10-m-1021" wordpos="i">sed</syl>
+                    </verse>
+                  </note>
+                </layer>
+              </staff>
+            </measure>
+            <sb xml:id="e10-m-1023" />
+            <measure xml:id="e10-m-1022" n="27">
+              <staff xml:id="e10-m-1024" n="1">
+                <layer xml:id="e10-m-1025" n="1">
+                  <note xml:id="e10-m-1026" dur="4" oct="4" pname="b" pnum="70">
+                    <accid xml:id="e10-m-1027" accid.ges="f" />
+                    <verse xml:id="e10-m-1032" n="1">
+                      <syl xml:id="e10-m-1033" con="d" wordpos="i">Her</syl>
+                    </verse>
+                  </note>
+                  <note xml:id="e10-m-1028" dur="4" oct="5" pname="c" pnum="72" />
+                  <note xml:id="e10-m-1029" dur="2" oct="5" pname="d" pnum="74" />
+                  <note xml:id="e10-m-1030" dur="2" oct="5" pname="c" pnum="72" />
+                  <note xml:id="e10-m-1031" dur="2" oct="4" pname="g" pnum="67">
+                    <verse xml:id="e10-m-1034" n="1">
+                      <syl xml:id="e10-m-1035" wordpos="t">mes,</syl>
+                    </verse>
+                  </note>
+                </layer>
+              </staff>
+              <staff xml:id="e10-m-1036" n="2">
+                <layer xml:id="e10-m-1037" n="1">
+                  <note xml:id="e10-m-1038" dur="2" oct="4" pname="g" pnum="67">
+                    <verse xml:id="e10-m-1046" n="1">
+                      <syl xml:id="e10-m-1047" con="d" wordpos="m">ni</syl>
+                    </verse>
+                  </note>
+                  <note xml:id="e10-m-1039" dur="2" oct="4" pname="g" pnum="67">
+                    <verse xml:id="e10-m-1048" n="1">
+                      <syl xml:id="e10-m-1049" wordpos="t">ger</syl>
+                    </verse>
+                  </note>
+                  <note xml:id="e10-m-1040" dur="4" oct="4" pname="a" pnum="69">
+                    <verse xml:id="e10-m-1080" n="1">
+                      <syl xml:id="e10-m-1081" con="d" wordpos="i">Her</syl>
+                    </verse>
+                  </note>
+                  <note xml:id="e10-m-1041" dur="4" oct="4" pname="b" pnum="70">
+                    <accid xml:id="e10-m-1042" accid.ges="f" />
+                  </note>
+                  <note xml:id="e10-m-1043" dur="2" oct="5" pname="c" pnum="72" />
+                </layer>
+              </staff>
+              <staff xml:id="e10-m-1050" n="3">
+                <layer xml:id="e10-m-1051" n="1">
+                  <note xml:id="e10-m-1052" dur="1" oct="3" pname="b" pnum="58">
+                    <accid xml:id="e10-m-1053" accid.ges="f" />
+                    <verse xml:id="e10-m-1056" n="1">
+                      <syl xml:id="e10-m-1057" con="d" wordpos="i">pen</syl>
+                    </verse>
+                  </note>
+                  <note xml:id="e10-m-1054" dur="2" oct="4" pname="c" pnum="60">
+                    <verse xml:id="e10-m-1058" n="1">
+                      <syl xml:id="e10-m-1059" con="d" wordpos="m">ni</syl>
+                    </verse>
+                  </note>
+                  <note xml:id="e10-m-1055" dur="2" oct="4" pname="c" pnum="60">
+                    <verse xml:id="e10-m-1060" n="1">
+                      <syl xml:id="e10-m-1061" wordpos="t">ger</syl>
+                    </verse>
+                  </note>
+                </layer>
+              </staff>
+            </measure>
+            <measure xml:id="e10-m-1062" n="28">
+              <staff xml:id="e10-m-1063" n="1">
+                <layer xml:id="e10-m-1064" n="1">
+                  <rest xml:id="e10-m-1065" dur="2" />
+                  <note xml:id="e10-m-1066" dur="4" oct="4" pname="d" pnum="62">
+                    <verse xml:id="e10-m-1102" n="1">
+                      <syl xml:id="e10-m-1103" con="d" wordpos="i">Cyn</syl>
+                    </verse>
+                  </note>
+                  <note xml:id="e10-m-1067" dur="4" oct="4" pname="e" pnum="64" />
+                  <note xml:id="e10-m-1068" dur="4" oct="4" pname="f" pnum="65" />
+                  <note xml:id="e10-m-1069" dur="4" oct="4" pname="g" pnum="67" />
+                  <note xml:id="e10-m-1070" dur="4" oct="4" pname="a" pnum="69" />
+                  <note xml:id="e10-m-1071" dur="4" oct="4" pname="f" pnum="65">
+                    <verse xml:id="e10-m-1104" n="1">
+                      <syl xml:id="e10-m-1105" con="d" wordpos="m">thi</syl>
+                    </verse>
+                  </note>
+                </layer>
+              </staff>
+              <staff xml:id="e10-m-1072" n="2">
+                <layer xml:id="e10-m-1073" n="1">
+                  <note xml:id="e10-m-1074" dur="2" oct="4" pname="b" pnum="70">
+                    <accid xml:id="e10-m-1075" accid.ges="f" />
+                  </note>
+                  <note xml:id="e10-m-1076" dur="2" oct="4" pname="f" pnum="65">
+                    <verse xml:id="e10-m-1082" n="1">
+                      <syl xml:id="e10-m-1083" wordpos="t">mes,</syl>
+                    </verse>
+                  </note>
+                  <rest xml:id="e10-m-1077" dur="2" />
+                  <note xml:id="e10-m-1078" dur="4" oct="4" pname="c" pnum="60">
+                    <verse xml:id="e10-m-1123" n="1">
+                      <syl xml:id="e10-m-1124" con="d" wordpos="i">Cyn</syl>
+                    </verse>
+                  </note>
+                  <note xml:id="e10-m-1079" dur="4" oct="4" pname="d" pnum="62" />
+                </layer>
+              </staff>
+              <staff xml:id="e10-m-1084" n="3">
+                <layer xml:id="e10-m-1085" n="1">
+                  <note xml:id="e10-m-1086" dur="2" oct="4" pname="d" pnum="62">
+                    <verse xml:id="e10-m-1089" n="1">
+                      <syl xml:id="e10-m-1090" con="d" wordpos="i">Her</syl>
+                    </verse>
+                  </note>
+                  <note xml:id="e10-m-1087" dur="2" oct="4" pname="d" pnum="62">
+                    <verse xml:id="e10-m-1091" n="1">
+                      <syl xml:id="e10-m-1092" wordpos="t">mes,</syl>
+                    </verse>
+                  </note>
+                  <note xml:id="e10-m-1088" dur="1" oct="3" pname="a" pnum="57">
+                    <verse xml:id="e10-m-1136" n="1">
+                      <syl xml:id="e10-m-1137" con="d" wordpos="i">Cyn</syl>
+                    </verse>
+                  </note>
+                </layer>
+              </staff>
+            </measure>
+            <measure xml:id="e10-m-1093" n="29">
+              <staff xml:id="e10-m-1094" n="1">
+                <layer xml:id="e10-m-1095" n="1">
+                  <note xml:id="e10-m-1096" dur="4" oct="4" pname="g" pnum="67">
+                    <verse xml:id="e10-m-1106" n="1">
+                      <syl xml:id="e10-m-1107" con="u" wordpos="t">a</syl>
+                    </verse>
+                  </note>
+                  <note xml:id="e10-m-1097" dur="4" oct="4" pname="a" pnum="69" />
+                  <note xml:id="e10-m-1098" dur="2" oct="4" pname="b" pnum="70">
+                    <accid xml:id="e10-m-1099" accid.ges="f" />
+                    <verse xml:id="e10-m-1108" n="1">
+                      <syl xml:id="e10-m-1109" wordpos="i">te</syl>
+                    </verse>
+                  </note>
+                  <note xml:id="e10-m-1100" dur="2" oct="4" pname="a" pnum="69">
+                    <verse xml:id="e10-m-1110" n="1">
+                      <syl xml:id="e10-m-1111" con="d" wordpos="i">sol</syl>
+                    </verse>
+                  </note>
+                  <note xml:id="e10-m-1101" dur="2" oct="4" pname="f" pnum="65">
+                    <verse xml:id="e10-m-1112" n="1">
+                      <syl xml:id="e10-m-1113" wordpos="t">vit,</syl>
+                    </verse>
+                  </note>
+                </layer>
+              </staff>
+              <staff xml:id="e10-m-1114" n="2">
+                <layer xml:id="e10-m-1115" n="1">
+                  <note xml:id="e10-m-1116" dur="4" oct="4" pname="e" pnum="64" />
+                  <note xml:id="e10-m-1117" dur="4" oct="4" pname="f" pnum="65" />
+                  <note xml:id="e10-m-1118" dur="4" oct="4" pname="g" pnum="67" />
+                  <note xml:id="e10-m-1119" dur="4" oct="4" pname="e" pnum="64">
+                    <verse xml:id="e10-m-1125" n="1">
+                      <syl xml:id="e10-m-1126" con="d" wordpos="m">thi</syl>
+                    </verse>
+                  </note>
+                  <note xml:id="e10-m-1120" dur="4" oct="4" pname="f" pnum="65">
+                    <verse xml:id="e10-m-1127" n="1">
+                      <syl xml:id="e10-m-1128" con="u" wordpos="t">a</syl>
+                    </verse>
+                  </note>
+                  <note xml:id="e10-m-1121" dur="4" oct="4" pname="g" pnum="67" />
+                  <note xml:id="e10-m-1122" dur="2" oct="4" pname="a" pnum="69">
+                    <verse xml:id="e10-m-1129" n="1">
+                      <syl xml:id="e10-m-1130" wordpos="i">te</syl>
+                    </verse>
+                  </note>
+                </layer>
+              </staff>
+              <staff xml:id="e10-m-1131" n="3">
+                <layer xml:id="e10-m-1132" n="1">
+                  <note xml:id="e10-m-1133" dur="2" oct="3" pname="g" pnum="55">
+                    <verse xml:id="e10-m-1138" n="1">
+                      <syl xml:id="e10-m-1139" con="d" wordpos="m">thi</syl>
+                    </verse>
+                  </note>
+                  <note xml:id="e10-m-1134" dur="2" oct="3" pname="g" pnum="55">
+                    <verse xml:id="e10-m-1140" n="1">
+                      <syl xml:id="e10-m-1141" wordpos="t">a,</syl>
+                    </verse>
+                  </note>
+                  <note xml:id="e10-m-1135" dur="1" oct="3" pname="a" pnum="57">
+                    <verse xml:id="e10-m-1142" n="1">
+                      <syl xml:id="e10-m-1143" wordpos="i">te</syl>
+                    </verse>
+                  </note>
+                </layer>
+              </staff>
+            </measure>
+            <sb xml:id="e10-m-1145" />
+            <measure xml:id="e10-m-1144" n="30">
+              <staff xml:id="e10-m-1146" n="1">
+                <layer xml:id="e10-m-1147" n="1">
+                  <note xml:id="e10-m-1148" dur="4" oct="4" pname="e" pnum="64">
+                    <verse xml:id="e10-m-1156" n="1">
+                      <syl xml:id="e10-m-1157" wordpos="t" con="u">te</syl>
+                    </verse>
+                  </note>
+                  <note xml:id="e10-m-1149" dur="4" oct="4" pname="f" pnum="65" />
+                  <note xml:id="e10-m-1150" dur="4" oct="4" pname="g" pnum="67" />
+                  <note xml:id="e10-m-1151" dur="4" oct="4" pname="a" pnum="69" />
+                  <note xml:id="e10-m-1152" dur="4" oct="4" pname="b" pnum="70">
+                    <accid xml:id="e10-m-1153" accid.ges="f" />
+                  </note>
+                  <note xml:id="e10-m-1154" dur="4" oct="5" pname="c" pnum="72" />
+                  <note xml:id="e10-m-1155" dur="2" oct="5" pname="d" pnum="74" />
+                </layer>
+              </staff>
+              <staff xml:id="e10-m-1158" n="2">
+                <layer xml:id="e10-m-1159" n="1">
+                  <note xml:id="e10-m-1160" dur="2" oct="4" pname="g" pnum="67">
+                    <verse xml:id="e10-m-1166" n="1">
+                      <syl xml:id="e10-m-1167" con="d" wordpos="i">sol</syl>
+                    </verse>
+                  </note>
+                  <note xml:id="e10-m-1161" dur="2" oct="4" pname="e" pnum="64">
+                    <verse xml:id="e10-m-1168" n="1">
+                      <syl xml:id="e10-m-1169" wordpos="t">vit,</syl>
+                    </verse>
+                  </note>
+                  <note xml:id="e10-m-1162" dur="4" oct="4" pname="d" pnum="62">
+                    <verse xml:id="e10-m-1170" n="1">
+                      <syl xml:id="e10-m-1171" wordpos="t" con="u">te</syl>
+                    </verse>
+                  </note>
+                  <note xml:id="e10-m-1163" dur="4" oct="4" pname="e" pnum="64" />
+                  <note xml:id="e10-m-1164" dur="4" oct="4" pname="f" pnum="65" />
+                  <note xml:id="e10-m-1165" dur="4" oct="4" pname="g" pnum="67" />
+                </layer>
+              </staff>
+              <staff xml:id="e10-m-1172" n="3">
+                <layer xml:id="e10-m-1173" n="1">
+                  <note xml:id="e10-m-1174" dur="1" oct="4" pname="c" pnum="60">
+                    <verse xml:id="e10-m-1177" n="1">
+                      <syl xml:id="e10-m-1178" con="d" wordpos="i">sol</syl>
+                    </verse>
+                  </note>
+                  <note xml:id="e10-m-1175" dur="1" oct="3" pname="b" pnum="58">
+                    <accid xml:id="e10-m-1176" accid.ges="f" />
+                    <verse xml:id="e10-m-1179" n="1">
+                      <syl xml:id="e10-m-1180" wordpos="t">vit,</syl>
+                    </verse>
+                  </note>
+                </layer>
+              </staff>
+            </measure>
+            <measure xml:id="e10-m-1181" n="31">
+              <staff xml:id="e10-m-1182" n="1">
+                <layer xml:id="e10-m-1183" n="1">
+                  <note xml:id="e10-m-1184" dur="2" oct="5" pname="c" pnum="72" wordpos="t" />
+                  <note xml:id="e10-m-1185" dur="2" oct="4" pname="a" pnum="69">
+                    <verse xml:id="e10-m-1188" n="1">
+                      <syl xml:id="e10-m-1189" wordpos="i">sed,</syl>
+                    </verse>
+                  </note>
+                  <rest xml:id="e10-m-1186" dur="2" />
+                  <note xml:id="e10-m-1187" dur="2" oct="5" pname="d" pnum="74">
+                    <verse xml:id="e10-m-1218" n="1">
+                      <syl xml:id="e10-m-1219" con="d" wordpos="i">A</syl>
+                    </verse>
+                  </note>
+                </layer>
+              </staff>
+              <staff xml:id="e10-m-1190" n="2">
+                <layer xml:id="e10-m-1191" n="1">
+                  <note xml:id="e10-m-1192" dur="4" oct="4" pname="a" pnum="69" />
+                  <note xml:id="e10-m-1193" dur="4" oct="4" pname="b" pnum="70">
+                    <accid xml:id="e10-m-1194" accid.ges="f" />
+                  </note>
+                  <note xml:id="e10-m-1195" dur="2" oct="5" pname="c" pnum="72" />
+                  <note xml:id="e10-m-1196" dur="2" oct="4" pname="b" pnum="70">
+                    <accid xml:id="e10-m-1197" accid.ges="f" />
+                  </note>
+                  <note xml:id="e10-m-1198" dur="2" oct="4" pname="g" pnum="67">
+                    <verse xml:id="e10-m-1199" n="1">
+                      <syl xml:id="e10-m-1200" wordpos="i">sed,</syl>
+                    </verse>
+                  </note>
+                </layer>
+              </staff>
+              <staff xml:id="e10-m-1201" n="3">
+                <layer xml:id="e10-m-1202" n="1">
+                  <note xml:id="e10-m-1203" dur="1" oct="3" pname="a" pnum="57">
+                    <verse xml:id="e10-m-1208" n="1">
+                      <syl xml:id="e10-m-1209" wordpos="i">te</syl>
+                    </verse>
+                  </note>
+                  <note xml:id="e10-m-1204" dur="2" oct="3" pname="b" pnum="58">
+                    <accid xml:id="e10-m-1205" accid.ges="f" />
+                    <verse xml:id="e10-m-1210" n="1">
+                      <syl xml:id="e10-m-1211" wordpos="i">sed,</syl>
+                    </verse>
+                  </note>
+                  <note xml:id="e10-m-1206" dur="2" oct="3" pname="b" pnum="58">
+                    <!-- DELETED -->
+                    <!--
+        
+        this-pitch= 58 
+        last-pitch= 58
+        this-acc= f
+        last-acc= f-->
+                    <verse xml:id="e10-m-1242" n="1">
+                      <syl xml:id="e10-m-1243" con="d" wordpos="i">A</syl>
+                    </verse>
+                  </note>
+                </layer>
+              </staff>
+            </measure>
+            <measure xml:id="e10-m-1212" n="32">
+              <staff xml:id="e10-m-1213" n="1">
+                <layer xml:id="e10-m-1214" n="1">
+                  <note xml:id="e10-m-1215" dur="2" oct="5" pname="e" pnum="76">
+                    <verse xml:id="e10-m-1220" n="1">
+                      <syl xml:id="e10-m-1221" con="d" wordpos="m">pol</syl>
+                    </verse>
+                  </note>
+                  <note xml:id="e10-m-1216" dur="2" oct="5" pname="f" pnum="77">
+                    <verse xml:id="e10-m-1222" n="1">
+                      <syl xml:id="e10-m-1223" wordpos="t">lo,</syl>
+                    </verse>
+                  </note>
+                  <note xml:id="e10-m-1217" dur="1" oct="5" pname="g" pnum="79">
+                    <verse xml:id="e10-m-1252" n="1">
+                      <syl xml:id="e10-m-1253" con="d" wordpos="i">so</syl>
+                    </verse>
+                  </note>
+                </layer>
+              </staff>
+              <staff xml:id="e10-m-1224" n="2">
+                <layer xml:id="e10-m-1225" n="1">
+                  <rest xml:id="e10-m-1226" dur="2" />
+                  <note xml:id="e10-m-1227" dur="2" oct="5" pname="c" pnum="72">
+                    <verse xml:id="e10-m-1231" n="1">
+                      <syl xml:id="e10-m-1232" con="d" wordpos="i">A</syl>
+                    </verse>
+                  </note>
+                  <note xml:id="e10-m-1228" dur="2" oct="5" pname="d" pnum="74">
+                    <verse xml:id="e10-m-1233" n="1">
+                      <syl xml:id="e10-m-1234" con="d" wordpos="m">pol</syl>
+                    </verse>
+                  </note>
+                  <note xml:id="e10-m-1229" dur="4" oct="5" pname="d" pnum="74">
+                    <verse xml:id="e10-m-1235" n="1">
+                      <syl xml:id="e10-m-1236" wordpos="t">lo,</syl>
+                    </verse>
+                  </note>
+                  <note xml:id="e10-m-1230" dur="4" oct="5" pname="d" pnum="74">
+                    <verse xml:id="e10-m-1259" n="1">
+                      <syl xml:id="e10-m-1260" con="d" wordpos="i">so</syl>
+                    </verse>
+                  </note>
+                </layer>
+              </staff>
+              <staff xml:id="e10-m-1237" n="3">
+                <layer xml:id="e10-m-1238" n="1">
+                  <note xml:id="e10-m-1239" dur="1" oct="3" pname="a" pnum="57">
+                    <verse xml:id="e10-m-1244" n="1">
+                      <syl xml:id="e10-m-1245" con="d" wordpos="m">pol</syl>
+                    </verse>
+                  </note>
+                  <note xml:id="e10-m-1240" dur="2" oct="3" pname="g" pnum="55">
+                    <verse xml:id="e10-m-1246" n="1">
+                      <syl xml:id="e10-m-1247" wordpos="t">lo,</syl>
+                    </verse>
+                  </note>
+                  <note xml:id="e10-m-1241" dur="2" oct="3" pname="g" pnum="55">
+                    <verse xml:id="e10-m-1266" n="1">
+                      <syl xml:id="e10-m-1267" con="d" wordpos="i">so</syl>
+                    </verse>
+                  </note>
+                </layer>
+              </staff>
+            </measure>
+            <measure xml:id="e10-m-1248" metcon="false" n="33" right="end">
+              <staff xml:id="e10-m-1249" n="1">
+                <layer xml:id="e10-m-1250" n="1">
+                  <note xml:id="e10-m-1251" dur="long" oct="5" pname="g" pnum="79" stem.dir="down">
+                    <verse xml:id="e10-m-1254" n="1">
+                      <syl xml:id="e10-m-1255" wordpos="t">ror.</syl>
+                    </verse>
+                  </note>
+                </layer>
+              </staff>
+              <staff xml:id="e10-m-1256" n="2">
+                <layer xml:id="e10-m-1257" n="1">
+                  <note xml:id="e10-m-1258" dur="long" oct="5" pname="d" pnum="74" stem.dir="down">
+                    <verse xml:id="e10-m-1261" n="1">
+                      <syl xml:id="e10-m-1262" wordpos="t">ror.</syl>
+                    </verse>
+                  </note>
+                </layer>
+              </staff>
+              <staff xml:id="e10-m-1263" n="3">
+                <layer xml:id="e10-m-1264" n="1">
+                  <note xml:id="e10-m-1265" dur="long" oct="3" pname="g" pnum="55" stem.dir="up">
+                    <verse xml:id="e10-m-1268" n="1">
+                      <syl xml:id="e10-m-1269" wordpos="t">ror.</syl>
+                    </verse>
+                  </note>
+                </layer>
+              </staff>
+            </measure>
+          </section>
+        </score>
+      </mdiv>
+    </body>
+  </music>
+</mei>

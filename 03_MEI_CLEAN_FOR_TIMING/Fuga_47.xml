@@ -1,0 +1,3529 @@
+<mei xmlns="http://www.music-encoding.org/ns/mei" xmlns:xlink="http://www.w3.org/1999/xlink" meiversion="3.0.0">
+   
+   <mei:meiHead xmlns:mei="http://www.music-encoding.org/ns/mei">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Atalanta Fugiens, music for Emblem 47</title>
+            
+            <respStmt>
+               
+               <persName>Robin Bier</persName>
+               
+               <persName>Patrick Rashleigh</persName>
+               </respStmt>
+            </titleStmt>
+         
+         <pubStmt>
+            
+            <availability>
+               
+               <useRestrict>Released under an open source license ...</useRestrict>
+               </availability>
+            </pubStmt>
+         </fileDesc>
+      
+      <encodingDesc></encodingDesc>
+      
+      <workDesc>
+         
+         <work>
+            
+            <titleStmt>
+               
+               <title></title>
+               
+               <respStmt></respStmt>
+               </titleStmt>
+            </work>
+         </workDesc>
+      </mei:meiHead>
+   
+   <music>
+      
+      <body>
+         
+         <mdiv>
+            
+            <score>
+               
+               <scoreDef meter.count="3" meter.unit="2" music.name="Opus Std" ppq="256">
+                  
+                  <staffGrp>
+                     
+                     <staffGrp n="1" symbol="bracket">
+                        
+                        <staffDef clef.line="2" clef.shape="G" key.mode="major" key.sig="1f" label="Hippomenes sequens." lines="5" n="1"></staffDef>
+                        
+                        <staffDef clef.line="2" clef.shape="G" key.mode="major" key.sig="1f" label="Pomum morans." lines="5" n="2" clef.dis="8" clef.dis.place="below"></staffDef>
+                        
+                        <staffDef clef.line="4" clef.shape="F" key.mode="major" key.sig="1f" label="Atalanta fugiens." lines="5" n="3"></staffDef>
+                        </staffGrp>
+                     </staffGrp>
+                  </scoreDef>
+               
+               <section>
+                  
+                  <sb xml:id="e47-m-40"></sb>
+                  
+                  <scoreDef meter.count="3" meter.unit="2"></scoreDef>
+                  
+                  <measure xml:id="e47-m-61" n="1">
+                     
+                     <staff xml:id="e47-m-62" n="1">
+                        
+                        <layer xml:id="e47-m-63" n="1">
+                           
+                           <note xml:id="e47-m-64" dur="1" oct="4" pname="g" pnum="67">
+                              <!-- Ignored in performance  
+                      Hinc,
+                    -->
+                              
+                              <verse xml:id="e47-m-98" n="2">
+                                 
+                                 <syl xml:id="e47-m-99" con="d" wordpos="i">Mer</syl>
+                                 </verse>
+                              </note>
+                           
+                           <note xml:id="e47-m-65" dur="2" oct="4" pname="a" pnum="69">
+                              <!-- Ignored in performance  
+                      u
+                    -->
+                              
+                              <verse xml:id="e47-m-100" n="2">
+                                 
+                                 <syl xml:id="e47-m-101" con="d" wordpos="m">gi</syl>
+                                 </verse>
+                              </note>
+                           </layer>
+                        </staff>
+                     
+                     <staff xml:id="e47-m-68" n="2">
+                        
+                        <layer xml:id="e47-m-69" n="1">
+                           
+                           <note xml:id="e47-m-70" dur="1" oct="4" pname="d" pnum="62">
+                              <!-- Ignored in performance  
+                      Hinc,
+                    -->
+                              
+                              <verse xml:id="e47-m-114" n="2">
+                                 
+                                 <syl xml:id="e47-m-115" con="d" wordpos="i">Mer</syl>
+                                 </verse>
+                              </note>
+                           
+                           <note xml:id="e47-m-71" dur="2" oct="3" pname="a" pnum="57">
+                              <!-- Ignored in performance  
+                      u
+                    -->
+                              
+                              <verse xml:id="e47-m-116" n="2">
+                                 
+                                 <syl xml:id="e47-m-117" con="d" wordpos="m">gi</syl>
+                                 </verse>
+                              </note>
+                           </layer>
+                        </staff>
+                     
+                     <staff xml:id="e47-m-74" n="3">
+                        
+                        <layer xml:id="e47-m-75" n="1">
+                           
+                           <note xml:id="e47-m-76" dur="4" oct="2" pname="g" pnum="43">
+                              <!-- Ignored in performance  
+                      Hinc
+                    -->
+                              
+                              <verse xml:id="e47-m-141" n="2">
+                                 
+                                 <syl xml:id="e47-m-142" con="d" wordpos="i">Mer</syl>
+                                 </verse>
+                              </note>
+                           
+                           <note xml:id="e47-m-77" dur="4" oct="2" pname="a" pnum="45"></note>
+                           
+                           <note xml:id="e47-m-78" dur="4" oct="2" pname="b" pnum="46">
+                              
+                              <accid xml:id="e47-m-79" accid.ges="f"></accid>
+                              </note>
+                           
+                           <note xml:id="e47-m-80" dur="4" oct="3" pname="c" pnum="48"></note>
+                           
+                           <note xml:id="e47-m-81" dur="4" oct="2" pname="a" pnum="45">
+                              <!-- Ignored in performance  
+                      u
+                    -->
+                              
+                              <verse xml:id="e47-m-143" n="2">
+                                 
+                                 <syl xml:id="e47-m-144" con="d" wordpos="m">gi</syl>
+                                 </verse>
+                              </note>
+                           
+                           <beam xml:id="e47-m-83">
+                              
+                              <note xml:id="e47-m-82" dur="8" oct="3" pname="d" pnum="50"></note>
+                              
+                              <note xml:id="e47-m-84" dur="8" oct="3" pname="c" pnum="48"></note>
+                              </beam>
+                           </layer>
+                        </staff>
+                     </measure>
+                  
+                  <measure xml:id="e47-m-88" n="2">
+                     
+                     <staff xml:id="e47-m-89" n="1">
+                        
+                        <layer xml:id="e47-m-90" n="1">
+                           
+                           <note xml:id="e47-m-91" dur="1" oct="4" pname="b" pnum="70">
+                              
+                              <accid xml:id="e47-m-92" accid.ges="f"></accid>
+                              <!-- Ignored in performance  
+                      bi
+                    -->
+                              
+                              <verse xml:id="e47-m-102" n="2">
+                                 
+                                 <syl xml:id="e47-m-103" wordpos="t">tur,</syl>
+                                 </verse>
+                              </note>
+                           
+                           <note xml:id="e47-m-93" dur="2" oct="5" pname="c" pnum="72">
+                              <!-- Ignored in performance  
+                      Sol
+                    -->
+                              
+                              <verse xml:id="e47-m-152" n="2">
+                                 
+                                 <syl xml:id="e47-m-153" con="d" wordpos="i">in</syl>
+                                 </verse>
+                              </note>
+                           </layer>
+                        </staff>
+                     
+                     <staff xml:id="e47-m-106" n="2">
+                        
+                        <layer xml:id="e47-m-107" n="1">
+                           
+                           <note xml:id="e47-m-108" dur="1" oct="3" pname="g" pnum="55">
+                              <!-- Ignored in performance  
+                      bi
+                    -->
+                              
+                              <verse xml:id="e47-m-118" n="2">
+                                 
+                                 <syl xml:id="e47-m-119" wordpos="t">tur,</syl>
+                                 </verse>
+                              </note>
+                           
+                           <note xml:id="e47-m-109" dur="2" oct="3" pname="a" pnum="57">
+                              <!-- Ignored in performance  
+                      Sol
+                    -->
+                              
+                              <verse xml:id="e47-m-161" n="2">
+                                 
+                                 <syl xml:id="e47-m-162" con="d" wordpos="i">in</syl>
+                                 </verse>
+                              </note>
+                           </layer>
+                        </staff>
+                     
+                     <staff xml:id="e47-m-122" n="3">
+                        
+                        <layer xml:id="e47-m-123" n="1">
+                           
+                           <beam xml:id="e47-m-126">
+                              
+                              <note xml:id="e47-m-124" dur="8" oct="2" pname="b" pnum="46">
+                                 
+                                 <accid xml:id="e47-m-125" accid.ges="f"></accid>
+                                 </note>
+                              
+                              <note xml:id="e47-m-127" dur="8" oct="3" pname="c" pnum="48"></note>
+                              
+                              <note xml:id="e47-m-128" dur="8" oct="2" pname="b" pnum="46">
+                                 
+                                 <accid xml:id="e47-m-129" accid.ges="f"></accid>
+                                 </note>
+                              
+                              <note xml:id="e47-m-130" dur="8" oct="2" pname="a" pnum="45"></note>
+                              </beam>
+                           
+                           <beam xml:id="e47-m-132">
+                              
+                              <note xml:id="e47-m-131" dur="8" oct="2" pname="g" pnum="43"></note>
+                              
+                              <note xml:id="e47-m-133" dur="8" oct="2" pname="b" pnum="46">
+                                 
+                                 <accid xml:id="e47-m-134" accid.ges="f"></accid>
+                                 </note>
+                              </beam>
+                           
+                           <note xml:id="e47-m-135" dur="4" oct="2" pname="a" pnum="45"></note>
+                           
+                           <note xml:id="e47-m-136" dur="2" oct="3" pname="f" pnum="53">
+                              <!-- Ignored in performance  
+                      bi
+                    -->
+                              
+                              <verse xml:id="e47-m-145" n="2">
+                                 
+                                 <syl xml:id="e47-m-146" wordpos="t">tur,</syl>
+                                 </verse>
+                              </note>
+                           </layer>
+                        </staff>
+                     </measure>
+                  
+                  <measure xml:id="e47-m-147" n="3">
+                     
+                     <staff xml:id="e47-m-148" n="1">
+                        
+                        <layer xml:id="e47-m-149" n="1">
+                           
+                           <note xml:id="e47-m-150" dur="1" oct="4" pname="a" pnum="69">
+                              <!-- Ignored in performance  
+                      de
+                    -->
+                              
+                              <verse xml:id="e47-m-191" n="1">
+                                 
+                                 <syl xml:id="e47-m-192" con="d" wordpos="i">o</syl>
+                                 </verse>
+                              </note>
+                           
+                           <note xml:id="e47-m-151" dur="2" oct="5" pname="d" pnum="74">
+                              <!-- Ignored in performance  
+                      ri
+                    -->
+                              
+                              <verse xml:id="e47-m-197" n="2">
+                                 
+                                 <syl xml:id="e47-m-198" con="d" wordpos="i">ca</syl>
+                                 </verse>
+                              </note>
+                           </layer>
+                        </staff>
+                     
+                     <staff xml:id="e47-m-156" n="2">
+                        
+                        <layer xml:id="e47-m-157" n="1">
+                           
+                           <note xml:id="e47-m-158" dur="1" oct="4" pname="c" pnum="60">
+                              <!-- Ignored in performance  
+                      de
+                    -->
+                              
+                              <verse xml:id="e47-m-208" n="1">
+                                 
+                                 <syl xml:id="e47-m-209" con="d" wordpos="i">o</syl>
+                                 </verse>
+                              </note>
+                           
+                           <note xml:id="e47-m-159" dur="2" oct="3" pname="b" pnum="58">
+                              
+                              <accid xml:id="e47-m-160" accid.ges="f"></accid>
+                              <!-- Ignored in performance  
+                      ri
+                    -->
+                              
+                              <verse xml:id="e47-m-214" n="2">
+                                 
+                                 <syl xml:id="e47-m-215" con="d" wordpos="i">ca</syl>
+                                 </verse>
+                              </note>
+                           </layer>
+                        </staff>
+                     
+                     <staff xml:id="e47-m-165" n="3">
+                        
+                        <layer xml:id="e47-m-166" n="1">
+                           
+                           <note xml:id="e47-m-167" dur="4" oct="3" pname="f" pnum="53">
+                              <!-- Ignored in performance  
+                      Sol
+                    -->
+                              
+                              <verse xml:id="e47-m-180" n="2">
+                                 
+                                 <syl xml:id="e47-m-181" con="d" wordpos="i">in</syl>
+                                 </verse>
+                              </note>
+                           
+                           <note xml:id="e47-m-168" dur="4" oct="3" pname="f" pnum="53">
+                              <!-- Ignored in performance  
+                      de
+                    -->
+                              
+                              <verse xml:id="e47-m-238" n="1">
+                                 
+                                 <syl xml:id="e47-m-239" con="d" wordpos="i">o</syl>
+                                 </verse>
+                              </note>
+                           
+                           <note xml:id="e47-m-169" dur="4" oct="3" pname="e" pnum="52">
+                              <!-- Ignored in performance  
+                      ca
+                    -->
+                              
+                              <verse xml:id="e47-m-240" n="1">
+                                 
+                                 <syl xml:id="e47-m-241" con="d" wordpos="m">ri</syl>
+                                 </verse>
+                              </note>
+                           
+                           <note xml:id="e47-m-170" dur="4" oct="3" pname="d" pnum="50"></note>
+                           
+                           <beam xml:id="e47-m-173">
+                              
+                              <note xml:id="e47-m-171" dur="8" oct="2" pname="b" pnum="46">
+                                 
+                                 <accid xml:id="e47-m-172" accid.ges="f"></accid>
+                                 </note>
+                              
+                              <note xml:id="e47-m-174" dur="8" oct="3" pname="c" pnum="48"></note>
+                              
+                              <note xml:id="e47-m-175" dur="8" oct="3" pname="d" pnum="50"></note>
+                              
+                              <note xml:id="e47-m-176" dur="8" oct="3" pname="e" pnum="51">
+                                 
+                                 <accid xml:id="e47-m-177" accid="f"></accid>
+                                 </note>
+                              </beam>
+                           </layer>
+                        </staff>
+                     </measure>
+                  
+                  <sb xml:id="e47-m-185"></sb>
+                  
+                  <measure xml:id="e47-m-184" n="4">
+                     
+                     <staff xml:id="e47-m-186" n="1">
+                        
+                        <layer xml:id="e47-m-187" n="1">
+                           
+                           <note xml:id="e47-m-188" dur="1" oct="5" pname="c" pnum="72">
+                              <!-- Ignored in performance  
+                      tur,
+                    -->
+                              
+                              <verse xml:id="e47-m-199" n="2">
+                                 
+                                 <syl xml:id="e47-m-200" wordpos="t">nis,</syl>
+                                 </verse>
+                              </note>
+                           
+                           <note xml:id="e47-m-189" dur="2" oct="4" pname="b" pnum="70">
+                              
+                              <accid xml:id="e47-m-190" accid.ges="f"></accid>
+                              <!-- Ignored in performance  
+                      qui
+                    -->
+                              
+                              <verse xml:id="e47-m-252" n="1">
+                                 
+                                 <syl xml:id="e47-m-253" con="d" wordpos="i">Lu</syl>
+                                 </verse>
+                              </note>
+                           </layer>
+                        </staff>
+                     
+                     <staff xml:id="e47-m-203" n="2">
+                        
+                        <layer xml:id="e47-m-204" n="1">
+                           
+                           <note xml:id="e47-m-205" dur="1" oct="3" pname="a" pnum="57">
+                              <!-- Ignored in performance  
+                      tur,
+                    -->
+                              
+                              <verse xml:id="e47-m-216" n="2">
+                                 
+                                 <syl xml:id="e47-m-217" wordpos="t">nis,</syl>
+                                 </verse>
+                              </note>
+                           
+                           <note xml:id="e47-m-206" dur="2" oct="3" pname="b" pnum="58">
+                              
+                              <accid xml:id="e47-m-207" accid.ges="f"></accid>
+                              <!-- Ignored in performance  
+                      qui
+                    -->
+                              
+                              <verse xml:id="e47-m-264" n="1">
+                                 
+                                 <syl xml:id="e47-m-265" con="d" wordpos="i">Lu</syl>
+                                 </verse>
+                              </note>
+                           </layer>
+                        </staff>
+                     
+                     <staff xml:id="e47-m-220" n="3">
+                        
+                        <layer xml:id="e47-m-221" n="1">
+                           
+                           <note xml:id="e47-m-222" dur="4" oct="3" pname="f" pnum="53">
+                              
+                              <verse xml:id="e47-m-236" n="2">
+                                 
+                                 <syl xml:id="e47-m-237" con="u" wordpos="t">nis,</syl>
+                                 </verse>
+                              </note>
+                           
+                           <note xml:id="e47-m-223" dur="4" oct="3" pname="c" pnum="48"></note>
+                           
+                           <beam xml:id="e47-m-225">
+                              
+                              <note xml:id="e47-m-224" dur="8" oct="3" pname="f" pnum="53"></note>
+                              
+                              <note xml:id="e47-m-226" dur="8" oct="3" pname="e" pnum="51">
+                                 
+                                 <accid xml:id="e47-m-227" accid="f"></accid>
+                                 </note>
+                              </beam>
+                           
+                           <note xml:id="e47-m-228" dur="4" oct="3" pname="d" pnum="50"></note>
+                           
+                           <beam xml:id="e47-m-231">
+                              
+                              <note xml:id="e47-m-229" dur="8" oct="3" pname="e" pnum="51">
+                                 
+                                 <accid xml:id="e47-m-230" accid="f" func="caution"></accid>
+                                 <!-- Ignored in performance  
+                        tur,
+                      -->
+                                 
+                                 <verse xml:id="e47-m-244" n="2">
+                                    
+                                    <syl xml:id="e47-m-245" wordpos="i">qui</syl>
+                                    </verse>
+                                 </note>
+                              
+                              <note xml:id="e47-m-232" dur="8" oct="3" pname="f" pnum="53"></note>
+                              </beam>
+                           
+                           <note xml:id="e47-m-233" dur="4" oct="3" pname="g" pnum="55"></note>
+                           </layer>
+                        </staff>
+                     </measure>
+                  
+                  <measure xml:id="e47-m-246" n="5">
+                     
+                     <staff xml:id="e47-m-247" n="1">
+                        
+                        <layer xml:id="e47-m-248" n="1">
+                           
+                           <note xml:id="e47-m-249" dur="1" oct="5" pname="c" pnum="72">
+                              <!-- Ignored in performance  
+                      pus
+                    -->
+                              
+                              <verse xml:id="e47-m-256" n="2">
+                                 
+                                 <syl xml:id="e47-m-257" con="d" wordpos="i">du</syl>
+                                 </verse>
+                              </note>
+                           
+                           <note xml:id="e47-m-250" dur="2" oct="4" pname="b" pnum="70">
+                              
+                              <accid xml:id="e47-m-251" accid.ges="f"></accid>
+                              <!-- Ignored in performance  
+                      o
+                    -->
+                              
+                              <verse xml:id="e47-m-301" n="1">
+                                 
+                                 <syl xml:id="e47-m-302" con="d" wordpos="i">ad</syl>
+                                 </verse>
+                              </note>
+                           </layer>
+                        </staff>
+                     
+                     <staff xml:id="e47-m-260" n="2">
+                        
+                        <layer xml:id="e47-m-261" n="1">
+                           
+                           <note xml:id="e47-m-262" dur="1" oct="3" pname="a" pnum="57">
+                              <!-- Ignored in performance  
+                      pus
+                    -->
+                              
+                              <verse xml:id="e47-m-268" n="2">
+                                 
+                                 <syl xml:id="e47-m-269" con="d" wordpos="i">du</syl>
+                                 </verse>
+                              </note>
+                           
+                           <note xml:id="e47-m-263" dur="2" oct="3" pname="g" pnum="55">
+                              <!-- Ignored in performance  
+                      o
+                    -->
+                              
+                              <verse xml:id="e47-m-316" n="1">
+                                 
+                                 <syl xml:id="e47-m-317" con="d" wordpos="i">ad</syl>
+                                 </verse>
+                              </note>
+                           </layer>
+                        </staff>
+                     
+                     <staff xml:id="e47-m-272" n="3">
+                        
+                        <layer xml:id="e47-m-273" n="1">
+                           
+                           <note xml:id="e47-m-274" dots="1" dur="4" oct="3" pname="f" pnum="53">
+                              <!-- Ignored in performance  
+                      Lu
+                    -->
+                              
+                              <verse xml:id="e47-m-292" n="2">
+                                 
+                                 <syl xml:id="e47-m-293" con="d" wordpos="i">du</syl>
+                                 </verse>
+                              </note>
+                           
+                           <note xml:id="e47-m-275" dur="8" oct="3" pname="e" pnum="51">
+                              
+                              <accid xml:id="e47-m-276" accid="f"></accid>
+                              </note>
+                           
+                           <beam xml:id="e47-m-278">
+                              
+                              <note xml:id="e47-m-277" dur="8" oct="3" pname="c" pnum="48"></note>
+                              
+                              <note xml:id="e47-m-279" dur="8" oct="3" pname="d" pnum="50"></note>
+                              
+                              <note xml:id="e47-m-280" dur="8" oct="3" pname="e" pnum="51">
+                                 
+                                 <accid xml:id="e47-m-281" accid.ges="f"></accid>
+                                 </note>
+                              
+                              <note xml:id="e47-m-282" dur="8" oct="3" pname="d" pnum="50"></note>
+                              </beam>
+                           
+                           <beam xml:id="e47-m-285">
+                              
+                              <note xml:id="e47-m-283" dur="8" oct="3" pname="e" pnum="51">
+                                 
+                                 <accid xml:id="e47-m-284" accid.ges="f"></accid>
+                                 
+                                 <verse xml:id="e47-m-290" n="1">
+                                    
+                                    <syl xml:id="e47-m-291" con="u" wordpos="t">pus</syl>
+                                    </verse>
+                                 </note>
+                              
+                              <note xml:id="e47-m-286" dur="8" oct="3" pname="f" pnum="53"></note>
+                              </beam>
+                           
+                           <note xml:id="e47-m-287" dur="4" oct="3" pname="g" pnum="55">
+                              
+                              <verse xml:id="e47-m-294" n="2">
+                                 
+                                 <syl xml:id="e47-m-295" wordpos="t">o</syl>
+                                 </verse>
+                              </note>
+                           </layer>
+                        </staff>
+                     </measure>
+                  
+                  <measure xml:id="e47-m-296" n="6">
+                     
+                     <staff xml:id="e47-m-297" n="1">
+                        
+                        <layer xml:id="e47-m-298" n="1">
+                           
+                           <note xml:id="e47-m-299" dur="1" oct="4" pname="a" pnum="69">
+                              <!-- Ignored in performance  
+                      ve
+                    -->
+                              
+                              <verse xml:id="e47-m-307" n="2">
+                                 
+                                 <syl xml:id="e47-m-308" con="d" wordpos="i">bi</syl>
+                                 </verse>
+                              </note>
+                           
+                           <note xml:id="e47-m-300" dur="2" oct="4" pname="g" pnum="67">
+                              <!-- Ignored in performance  
+                      nit,
+                    -->
+                              
+                              <verse xml:id="e47-m-309" n="2">
+                                 
+                                 <syl xml:id="e47-m-310" wordpos="t">le</syl>
+                                 </verse>
+                              </note>
+                           </layer>
+                        </staff>
+                     
+                     <staff xml:id="e47-m-311" n="2">
+                        
+                        <layer xml:id="e47-m-312" n="1">
+                           
+                           <note xml:id="e47-m-313" dur="1" oct="4" pname="c" pnum="60">
+                              <!-- Ignored in performance  
+                      ve
+                    -->
+                              
+                              <verse xml:id="e47-m-322" n="2">
+                                 
+                                 <syl xml:id="e47-m-323" con="d" wordpos="i">bi</syl>
+                                 </verse>
+                              </note>
+                           
+                           <note xml:id="e47-m-314" dur="2" oct="3" pname="b" pnum="58">
+                              
+                              <accid xml:id="e47-m-315" accid.ges="f"></accid>
+                              <!-- Ignored in performance  
+                      nit,
+                    -->
+                              
+                              <verse xml:id="e47-m-324" n="2">
+                                 
+                                 <syl xml:id="e47-m-325" wordpos="t">le</syl>
+                                 </verse>
+                              </note>
+                           </layer>
+                        </staff>
+                     
+                     <staff xml:id="e47-m-326" n="3">
+                        
+                        <layer xml:id="e47-m-327" n="1">
+                           
+                           <note xml:id="e47-m-328" dur="4" oct="3" pname="f" pnum="53">
+                              <!-- Ignored in performance  
+                      bi
+                    -->
+                              
+                              <verse xml:id="e47-m-339" n="1">
+                                 
+                                 <syl xml:id="e47-m-340" con="d" wordpos="i">ad</syl>
+                                 </verse>
+                              </note>
+                           
+                           <note xml:id="e47-m-329" dur="4" oct="3" pname="c" pnum="48">
+                              <!-- Ignored in performance  
+                      le
+                    -->
+                              
+                              <verse xml:id="e47-m-341" n="1">
+                                 
+                                 <syl xml:id="e47-m-342" con="d" wordpos="m">ve</syl>
+                                 </verse>
+                              </note>
+                           
+                           <note xml:id="e47-m-330" dur="4" oct="3" pname="d" pnum="50">
+                              <!-- Ignored in performance  
+                      nit,
+                    -->
+                              
+                              <verse xml:id="e47-m-383" n="2">
+                                 
+                                 <syl xml:id="e47-m-384" con="d" wordpos="i">tu</syl>
+                                 </verse>
+                              </note>
+                           
+                           <note xml:id="e47-m-331" dots="1" dur="4" oct="3" pname="e" pnum="51">
+                              
+                              <accid xml:id="e47-m-332" accid="f"></accid>
+                              </note>
+                           
+                           <note xml:id="e47-m-333" dur="8" oct="3" pname="f" pnum="53"></note>
+                           
+                           <note xml:id="e47-m-334" dur="4" oct="3" pname="g" pnum="55"></note>
+                           </layer>
+                        </staff>
+                     
+                     <tie xmlns:mei="http://www.music-encoding.org/ns/mei" startid="#e47-m-334" endid="#e47-m-369"></tie>
+                     </measure>
+                  
+                  <measure xml:id="e47-m-345" n="7">
+                     
+                     <staff xml:id="e47-m-346" n="1">
+                        
+                        <layer xml:id="e47-m-347" n="1">
+                           
+                           <note xml:id="e47-m-348" dur="1" oct="4" pname="b" pnum="70">
+                              
+                              <accid xml:id="e47-m-349" accid.ges="f"></accid>
+                              <!-- Ignored in performance  
+                      ast
+                    -->
+                              
+                              <verse xml:id="e47-m-353" n="2">
+                                 
+                                 <syl xml:id="e47-m-354" con="d" wordpos="i">tu</syl>
+                                 </verse>
+                              </note>
+                           
+                           <note xml:id="e47-m-350" dur="2" oct="4" pname="a" pnum="69">
+                              <!-- Ignored in performance  
+                      ment,
+                    -->
+                              
+                              <verse xml:id="e47-m-395" n="1">
+                                 
+                                 <syl xml:id="e47-m-396" con="d" wordpos="i">u</syl>
+                                 </verse>
+                              </note>
+                           </layer>
+                        </staff>
+                     
+                     <staff xml:id="e47-m-357" n="2">
+                        
+                        <layer xml:id="e47-m-358" n="1">
+                           
+                           <note xml:id="e47-m-359" dur="1" oct="4" pname="d" pnum="62">
+                              <!-- Ignored in performance  
+                      ast
+                    -->
+                              
+                              <verse xml:id="e47-m-363" n="2">
+                                 
+                                 <syl xml:id="e47-m-364" con="d" wordpos="i">tu</syl>
+                                 </verse>
+                              </note>
+                           
+                           <note xml:id="e47-m-360" dur="2" oct="4" pname="c" pnum="60">
+                              <!-- Ignored in performance  
+                      ment,
+                    -->
+                              
+                              <verse xml:id="e47-m-406" n="1">
+                                 
+                                 <syl xml:id="e47-m-407" con="d" wordpos="i">u</syl>
+                                 </verse>
+                              </note>
+                           </layer>
+                        </staff>
+                     
+                     <staff xml:id="e47-m-367" n="3">
+                        
+                        <layer xml:id="e47-m-368" n="1">
+                           
+                           <note xmlns:mei="http://www.music-encoding.org/ns/mei" xml:id="e47-m-369" dur="8" oct="3" pname="g" pnum="55"></note>
+                           
+                           <note xml:id="e47-m-370" dur="8" oct="3" pname="f" pnum="53"></note>
+                           
+                           <note xml:id="e47-m-371" dots="1" dur="4" oct="3" pname="d" pnum="50">
+                              
+                              <verse xml:id="e47-m-385" n="2">
+                                 
+                                 <syl xml:id="e47-m-386" con="u" wordpos="t">ment,</syl>
+                                 </verse>
+                              </note>
+                           
+                           <note xml:id="e47-m-372" dur="8" oct="3" pname="e" pnum="51">
+                              
+                              <accid xml:id="e47-m-373" accid="f"></accid>
+                              
+                              <verse xml:id="e47-m-387" n="1">
+                                 
+                                 <syl xml:id="e47-m-388" wordpos="i">ast</syl>
+                                 </verse>
+                              </note>
+                           
+                           <beam xml:id="e47-m-375">
+                              
+                              <note xml:id="e47-m-374" dur="8" oct="3" pname="f" pnum="53"></note>
+                              
+                              <note xml:id="e47-m-376" dur="8" oct="3" pname="g" pnum="55"></note>
+                              </beam>
+                           
+                           <beam xml:id="e47-m-378">
+                              
+                              <note xml:id="e47-m-377" dur="8" oct="3" pname="f" pnum="53"></note>
+                              
+                              <note xml:id="e47-m-379" dur="8" oct="3" pname="e" pnum="51">
+                                 
+                                 <accid xml:id="e47-m-380" accid="f" func="caution"></accid>
+                                 </note>
+                              
+                              <note xml:id="e47-m-381" dur="8" oct="3" pname="d" pnum="50"></note>
+                              
+                              <note xml:id="e47-m-382" dur="8" oct="3" pname="c" pnum="48"></note>
+                              </beam>
+                           </layer>
+                        </staff>
+                     </measure>
+                  
+                  <sb xml:id="e47-m-390"></sb>
+                  
+                  <measure xml:id="e47-m-389" n="8">
+                     
+                     <staff xml:id="e47-m-391" n="1">
+                        
+                        <layer xml:id="e47-m-392" n="1">
+                           
+                           <note xml:id="e47-m-393" dur="1" oct="5" pname="f" pnum="77">
+                              <!-- Ignored in performance  
+                      bi
+                    -->
+                              
+                              <verse xml:id="e47-m-399" n="2">
+                                 
+                                 <syl xml:id="e47-m-400" wordpos="i">qui</syl>
+                                 </verse>
+                              </note>
+                           
+                           <note xml:id="e47-m-394" dur="2" oct="5" pname="f" pnum="77">
+                              <!-- Ignored in performance  
+                      pon
+                    -->
+                              
+                              <verse xml:id="e47-m-449" n="2">
+                                 
+                                 <syl xml:id="e47-m-450" con="d" wordpos="i">du</syl>
+                                 </verse>
+                              </note>
+                           </layer>
+                        </staff>
+                     
+                     <staff xml:id="e47-m-401" n="2">
+                        
+                        <layer xml:id="e47-m-402" n="1">
+                           
+                           <note xml:id="e47-m-403" dur="1" oct="3" pname="b" pnum="58">
+                              
+                              <accid xml:id="e47-m-404" accid.ges="f"></accid>
+                              <!-- Ignored in performance  
+                      bi
+                    -->
+                              
+                              <verse xml:id="e47-m-410" n="2">
+                                 
+                                 <syl xml:id="e47-m-411" con="d" wordpos="i">bi</syl>
+                                 </verse>
+                              </note>
+                           
+                           <note xml:id="e47-m-405" dur="2" oct="4" pname="c" pnum="60">
+                              <!-- Ignored in performance  
+                      le
+                    -->
+                              
+                              <verse xml:id="e47-m-457" n="1">
+                                 
+                                 <syl xml:id="e47-m-458" con="d" wordpos="i">pon</syl>
+                                 </verse>
+                              </note>
+                           </layer>
+                        </staff>
+                     
+                     <staff xml:id="e47-m-414" n="3">
+                        
+                        <layer xml:id="e47-m-415" n="1">
+                           
+                           <note xml:id="e47-m-416" dur="4" oct="3" pname="d" pnum="50">
+                              <!-- Ignored in performance  
+                      qui
+                    -->
+                              
+                              <verse xml:id="e47-m-428" n="1">
+                                 
+                                 <syl xml:id="e47-m-429" con="d" wordpos="i">u</syl>
+                                 </verse>
+                              </note>
+                           
+                           <note xml:id="e47-m-417" dur="4" oct="2" pname="b" pnum="46">
+                              
+                              <accid xml:id="e47-m-418" accid.ges="f"></accid>
+                              
+                              <verse xml:id="e47-m-430" n="1">
+                                 
+                                 <syl xml:id="e47-m-431" wordpos="t">bi</syl>
+                                 </verse>
+                              </note>
+                           
+                           <note xml:id="e47-m-419" dur="4" oct="3" pname="b" pnum="58">
+                              
+                              <accid xml:id="e47-m-420" accid.ges="f"></accid>
+                              <!--
+        
+        this-pitch= 58 
+        last-pitch= 46
+        this-acc= f
+        last-acc= f-->
+                              <!-- Ignored in performance  
+                      du
+                    -->
+                              
+                              <verse xml:id="e47-m-549" n="1">
+                                 
+                                 <syl xml:id="e47-m-550" con="d" wordpos="i">Pon</syl>
+                                 </verse>
+                              </note>
+                           
+                           <note xml:id="e47-m-421" dur="4" oct="3" pname="a" pnum="57">
+                              
+                              <verse xml:id="e47-m-434" n="2">
+                                 
+                                 <syl xml:id="e47-m-435" wordpos="t">o</syl>
+                                 </verse>
+                              </note>
+                           
+                           <beam xml:id="e47-m-423">
+                              
+                              <note xml:id="e47-m-422" dur="8" oct="3" pname="f" pnum="53">
+                                 
+                                 <verse xml:id="e47-m-436" n="2">
+                                    
+                                    <syl xml:id="e47-m-437" con="d" wordpos="i">bi</syl>
+                                    </verse>
+                                 </note>
+                              
+                              <note xml:id="e47-m-424" dur="8" oct="3" pname="g" pnum="55"></note>
+                              </beam>
+                           
+                           <note xml:id="e47-m-425" dur="4" oct="3" pname="a" pnum="57">
+                              
+                              <verse xml:id="e47-m-438" n="2">
+                                 
+                                 <syl xml:id="e47-m-439" wordpos="t">le</syl>
+                                 </verse>
+                              </note>
+                           </layer>
+                        </staff>
+                     </measure>
+                  
+                  <measure xml:id="e47-m-440" n="9">
+                     
+                     <staff xml:id="e47-m-441" n="1">
+                        
+                        <layer xml:id="e47-m-442" n="1">
+                           
+                           <note xml:id="e47-m-443" dur="1" oct="5" pname="f" pnum="77">
+                              <!-- Ignored in performance  
+                      to,
+                    -->
+                              
+                              <verse xml:id="e47-m-451" n="2">
+                                 
+                                 <syl xml:id="e47-m-452" wordpos="t">o</syl>
+                                 </verse>
+                              </note>
+                           
+                           <note xml:id="e47-m-444" dur="2" oct="5" pname="e" pnum="76">
+                              <!-- Ignored in performance  
+                      u
+                    -->
+                              
+                              <verse xml:id="e47-m-502" n="2">
+                                 
+                                 <syl xml:id="e47-m-503" con="d" wordpos="i">bi</syl>
+                                 </verse>
+                              </note>
+                           </layer>
+                        </staff>
+                     
+                     <staff xml:id="e47-m-453" n="2">
+                        
+                        <layer xml:id="e47-m-454" n="1">
+                           
+                           <note xml:id="e47-m-455" dur="1" oct="4" pname="d" pnum="62">
+                              <!-- Ignored in performance  
+                      to,
+                    -->
+                              
+                              <verse xml:id="e47-m-461" n="2">
+                                 
+                                 <syl xml:id="e47-m-462" con="d" wordpos="i">tu</syl>
+                                 </verse>
+                              </note>
+                           
+                           <note xml:id="e47-m-456" dur="2" oct="4" pname="c" pnum="60">
+                              <!-- Ignored in performance  
+                      ment,
+                    -->
+                              
+                              <verse xml:id="e47-m-524" n="1">
+                                 
+                                 <syl xml:id="e47-m-525" con="d" wordpos="i">u</syl>
+                                 </verse>
+                              </note>
+                           </layer>
+                        </staff>
+                     
+                     <staff xml:id="e47-m-465" n="3">
+                        
+                        <layer xml:id="e47-m-466" n="1">
+                           
+                           <beam xml:id="e47-m-468">
+                              
+                              <note xml:id="e47-m-467" dur="8" oct="3" pname="d" pnum="50">
+                                 
+                                 <verse xml:id="e47-m-553" n="2">
+                                    
+                                    <syl xml:id="e47-m-554" con="d" wordpos="i">tu</syl>
+                                    </verse>
+                                 </note>
+                              
+                              <note xml:id="e47-m-469" dur="8" oct="3" pname="e" pnum="52"></note>
+                              
+                              <note xml:id="e47-m-470" dur="8" oct="3" pname="f" pnum="53"></note>
+                              
+                              <note xml:id="e47-m-471" dur="8" oct="3" pname="d" pnum="50"></note>
+                              </beam>
+                           
+                           <beam xml:id="e47-m-473">
+                              
+                              <note xml:id="e47-m-472" dur="8" oct="3" pname="f" pnum="53"></note>
+                              
+                              <note xml:id="e47-m-474" dur="8" oct="3" pname="g" pnum="55"></note>
+                              
+                              <note xml:id="e47-m-475" dur="8" oct="3" pname="a" pnum="57"></note>
+                              
+                              <note xml:id="e47-m-476" dur="8" oct="3" pname="e" pnum="52"></note>
+                              </beam>
+                           
+                           <beam xml:id="e47-m-478">
+                              
+                              <note xml:id="e47-m-477" dur="8" oct="3" pname="a" pnum="57"></note>
+                              
+                              <note xml:id="e47-m-479" dur="16" oct="4" pname="c" pnum="60"></note>
+                              
+                              <note xml:id="e47-m-480" dur="16" oct="3" pname="b" pnum="58">
+                                 
+                                 <accid xml:id="e47-m-481" accid.ges="f"></accid>
+                                 </note>
+                              </beam>
+                           
+                           <beam xml:id="e47-m-483">
+                              
+                              <note xml:id="e47-m-482" dur="8" oct="3" pname="a" pnum="57"></note>
+                              
+                              <note xml:id="e47-m-484" dur="8" oct="3" pname="g" pnum="55"></note>
+                              </beam>
+                           </layer>
+                        </staff>
+                     </measure>
+                  
+                  <measure xml:id="e47-m-485" metcon="false" n="10" right="dbl">
+                     
+                     <staff xml:id="e47-m-486" n="1">
+                        
+                        <layer xml:id="e47-m-487" n="1">
+                           
+                           <note xml:id="e47-m-488" dur="1" oct="5" pname="d" pnum="74">
+                              <!-- Ignored in performance  
+                      bi
+                    -->
+                              
+                              <verse xml:id="e47-m-504" n="2">
+                                 
+                                 <syl xml:id="e47-m-505" wordpos="t">le</syl>
+                                 </verse>
+                              </note>
+                           
+                           <note xml:id="e47-m-489" dur="2" oct="4" pname="b" pnum="71">
+                              
+                              <accid xml:id="e47-m-490" accid="n"></accid>
+                              <!-- Ignored in performance  
+                      Pon
+                    -->
+                              
+                              <verse xml:id="e47-m-510" n="2">
+                                 
+                                 <syl xml:id="e47-m-511" con="d" wordpos="i">tu</syl>
+                                 </verse>
+                              </note>
+                           <!-- Original note 2 -->
+                           <note xmlns:mei="http://www.music-encoding.org/ns/mei" dur="2" xml:id="e47-m-491" oct="4" pname="b" pnum="71" perf-dur="1" fermata="above"></note>
+                           <!-- Filler notes 2 -->
+                           
+                           <space xml:id="e47-m-494" dur="2" dur.ges="512p"></space>
+                           
+                           <space xml:id="e47-m-495" dur="1" dur.ges="1024p"></space>
+                           
+                           <space xml:id="e47-m-496" dur="2" dur.ges="512p"></space>
+                           
+                           <space xml:id="e47-m-497" dur="4" dur.ges="256p"></space>
+                           </layer>
+                        </staff>
+                     
+                     <staff xml:id="e47-m-514" n="2">
+                        
+                        <layer xml:id="e47-m-515" n="1">
+                           
+                           <note xml:id="e47-m-516" dur="1" oct="4" pname="d" pnum="62">
+                              <!-- Ignored in performance  
+                      bi
+                    -->
+                              
+                              <verse xml:id="e47-m-532" n="2">
+                                 
+                                 <syl xml:id="e47-m-533" con="d" wordpos="i">tu</syl>
+                                 </verse>
+                              </note>
+                           
+                           <note xml:id="e47-m-517" dur="2" oct="4" pname="d" pnum="62">
+                              
+                              <verse xml:id="e47-m-528" n="1">
+                                 
+                                 <syl xml:id="e47-m-529" con="d" wordpos="i">Pon</syl>
+                                 </verse>
+                              </note>
+                           <!-- Original note 2 -->
+                           <note xmlns:mei="http://www.music-encoding.org/ns/mei" dur="2" xml:id="e47-m-518" oct="4" pname="d" pnum="62" perf-dur="1" fermata="above"></note>
+                           <!-- Filler notes 2 -->
+                           
+                           <space xml:id="e47-m-520" dur="2" dur.ges="512p"></space>
+                           
+                           <space xml:id="e47-m-521" dur="1" dur.ges="1024p"></space>
+                           
+                           <space xml:id="e47-m-522" dur="2" dur.ges="512p"></space>
+                           
+                           <space xml:id="e47-m-523" dur="4" dur.ges="256p"></space>
+                           </layer>
+                        </staff>
+                     
+                     <staff xml:id="e47-m-536" n="3">
+                        
+                        <layer xml:id="e47-m-537" n="1">
+                           
+                           <beam xml:id="e47-m-540">
+                              
+                              <note xml:id="e47-m-538" dur="8" oct="3" pname="f" pnum="54">
+                                 
+                                 <accid xml:id="e47-m-539" accid="s"></accid>
+                                 </note>
+                              
+                              <note xml:id="e47-m-541" dur="8" oct="3" pname="d" pnum="50"></note>
+                              
+                              <note xml:id="e47-m-542" dur="8" oct="3" pname="b" pnum="59"></note>
+                              
+                              <note xml:id="e47-m-544" dur="8" oct="3" pname="g" pnum="55"></note>
+                              </beam>
+                           
+                           <beam xml:id="e47-m-546">
+                              
+                              <note xml:id="e47-m-545" dur="8" oct="4" pname="d" pnum="62"></note>
+                              
+                              <note xml:id="e47-m-547" dur="8" oct="3" pname="d" pnum="50"></note>
+                              </beam>
+                           <!-- Original note 2 -->
+                           <note xmlns:mei="http://www.music-encoding.org/ns/mei" dur="2" xml:id="e47-m-548" oct="3" pname="g" pnum="55" stem.dir="down" perf-dur="1"></note>
+                           <!-- Filler notes 2 -->
+                           </layer>
+                        </staff>
+                     </measure>
+                  
+                  <pb xml:id="e47-m-559" n="2"></pb>
+                  
+                  <sb xml:id="e47-m-558"></sb>
+                  
+                  <measure xml:id="e47-m-557" n="11">
+                     
+                     <staff xml:id="e47-m-560" n="1">
+                        
+                        <layer xml:id="e47-m-561" n="1">
+                           
+                           <note xml:id="e47-m-562" dur="1" oct="4" pname="g" pnum="67">
+                              <!-- Ignored in performance  
+                      Hunc
+                    -->
+                              
+                              <verse xml:id="e47-m-566" n="2">
+                                 
+                                 <syl xml:id="e47-m-567" wordpos="i">Et</syl>
+                                 </verse>
+                              </note>
+                           
+                           <note xml:id="e47-m-563" dur="2" oct="4" pname="a" pnum="69">
+                              <!-- Ignored in performance  
+                      is,
+                    -->
+                              
+                              <verse xml:id="e47-m-607" n="2">
+                                 
+                                 <syl xml:id="e47-m-608" con="d" wordpos="i">ra</syl>
+                                 </verse>
+                              </note>
+                           </layer>
+                        </staff>
+                     
+                     <staff xml:id="e47-m-570" n="2">
+                        
+                        <layer xml:id="e47-m-571" n="1">
+                           
+                           <note xml:id="e47-m-572" dur="1" oct="4" pname="d" pnum="62">
+                              <!-- Ignored in performance  
+                      Hunc
+                    -->
+                              
+                              <verse xml:id="e47-m-576" n="2">
+                                 
+                                 <syl xml:id="e47-m-577" wordpos="i">Et</syl>
+                                 </verse>
+                              </note>
+                           
+                           <note xml:id="e47-m-573" dur="2" oct="3" pname="a" pnum="57">
+                              <!-- Ignored in performance  
+                      is,
+                    -->
+                              
+                              <verse xml:id="e47-m-621" n="2">
+                                 
+                                 <syl xml:id="e47-m-622" con="d" wordpos="i">ra</syl>
+                                 </verse>
+                              </note>
+                           </layer>
+                        </staff>
+                     
+                     <staff xml:id="e47-m-580" n="3">
+                        
+                        <layer xml:id="e47-m-581" n="1">
+                           
+                           <note xml:id="e47-m-582" dur="4" oct="2" pname="g" pnum="43">
+                              <!-- Ignored in performance  
+                      Hunc
+                    -->
+                              
+                              <verse xml:id="e47-m-593" n="2">
+                                 
+                                 <syl xml:id="e47-m-594" wordpos="i">Et</syl>
+                                 </verse>
+                              </note>
+                           
+                           <note xml:id="e47-m-583" dur="4" oct="2" pname="a" pnum="45"></note>
+                           
+                           <note xml:id="e47-m-584" dur="4" oct="2" pname="b" pnum="46">
+                              
+                              <accid xml:id="e47-m-585" accid.ges="f"></accid>
+                              </note>
+                           
+                           <note xml:id="e47-m-586" dur="4" oct="3" pname="c" pnum="48"></note>
+                           
+                           <note xml:id="e47-m-587" dur="4" oct="2" pname="a" pnum="45">
+                              <!-- Ignored in performance  
+                      is,
+                    -->
+                              
+                              <verse xml:id="e47-m-644" n="2">
+                                 
+                                 <syl xml:id="e47-m-645" con="d" wordpos="i">ra</syl>
+                                 </verse>
+                              </note>
+                           
+                           <beam xml:id="e47-m-589">
+                              
+                              <note xml:id="e47-m-588" dur="8" oct="3" pname="d" pnum="50"></note>
+                              
+                              <note xml:id="e47-m-590" dur="8" oct="3" pname="c" pnum="48"></note>
+                              </beam>
+                           </layer>
+                        </staff>
+                     </measure>
+                  
+                  <measure xml:id="e47-m-597" n="12">
+                     
+                     <staff xml:id="e47-m-598" n="1">
+                        
+                        <layer xml:id="e47-m-599" n="1">
+                           
+                           <note xml:id="e47-m-600" dur="1" oct="4" pname="b" pnum="70">
+                              
+                              <accid xml:id="e47-m-601" accid.ges="f"></accid>
+                              <!-- Ignored in performance  
+                      et
+                    -->
+                              
+                              <verse xml:id="e47-m-609" n="2">
+                                 
+                                 <syl xml:id="e47-m-610" con="d" wordpos="m">bi</syl>
+                                 </verse>
+                              </note>
+                           
+                           <note xml:id="e47-m-602" dur="2" oct="5" pname="c" pnum="72">
+                              <!-- Ignored in performance  
+                      hic
+                    -->
+                              
+                              <verse xml:id="e47-m-611" n="2">
+                                 
+                                 <syl xml:id="e47-m-612" wordpos="t">dus</syl>
+                                 </verse>
+                              </note>
+                           </layer>
+                        </staff>
+                     
+                     <staff xml:id="e47-m-613" n="2">
+                        
+                        <layer xml:id="e47-m-614" n="1">
+                           
+                           <note xml:id="e47-m-615" dur="1" oct="3" pname="g" pnum="55">
+                              <!-- Ignored in performance  
+                      et
+                    -->
+                              
+                              <verse xml:id="e47-m-623" n="2">
+                                 
+                                 <syl xml:id="e47-m-624" con="d" wordpos="m">bi</syl>
+                                 </verse>
+                              </note>
+                           
+                           <note xml:id="e47-m-616" dur="2" oct="3" pname="a" pnum="57">
+                              <!-- Ignored in performance  
+                      hic
+                    -->
+                              
+                              <verse xml:id="e47-m-625" n="2">
+                                 
+                                 <syl xml:id="e47-m-626" wordpos="t">dus</syl>
+                                 </verse>
+                              </note>
+                           </layer>
+                        </staff>
+                     
+                     <staff xml:id="e47-m-627" n="3">
+                        
+                        <layer xml:id="e47-m-628" n="1">
+                           
+                           <beam xml:id="e47-m-631">
+                              
+                              <note xml:id="e47-m-629" dur="8" oct="2" pname="b" pnum="46">
+                                 
+                                 <accid xml:id="e47-m-630" accid.ges="f"></accid>
+                                 
+                                 <verse xml:id="e47-m-646" n="2">
+                                    
+                                    <syl xml:id="e47-m-647" con="d" wordpos="m">bi</syl>
+                                    </verse>
+                                 </note>
+                              
+                              <note xml:id="e47-m-632" dur="8" oct="3" pname="c" pnum="48"></note>
+                              
+                              <note xml:id="e47-m-633" dur="8" oct="2" pname="b" pnum="46">
+                                 
+                                 <accid xml:id="e47-m-634" accid.ges="f"></accid>
+                                 </note>
+                              
+                              <note xml:id="e47-m-635" dur="8" oct="2" pname="a" pnum="45"></note>
+                              </beam>
+                           
+                           <beam xml:id="e47-m-637">
+                              
+                              <note xml:id="e47-m-636" dur="8" oct="2" pname="g" pnum="43"></note>
+                              
+                              <note xml:id="e47-m-638" dur="8" oct="2" pname="b" pnum="46">
+                                 
+                                 <accid xml:id="e47-m-639" accid.ges="f"></accid>
+                                 </note>
+                              </beam>
+                           
+                           <note xml:id="e47-m-640" dur="4" oct="2" pname="a" pnum="45"></note>
+                           
+                           <note xml:id="e47-m-641" dur="2" oct="3" pname="f" pnum="53">
+                              <!-- Ignored in performance  
+                      et
+                    -->
+                              
+                              <verse xml:id="e47-m-648" n="2">
+                                 
+                                 <syl xml:id="e47-m-649" wordpos="t">dus</syl>
+                                 </verse>
+                              </note>
+                           </layer>
+                        </staff>
+                     </measure>
+                  
+                  <measure xml:id="e47-m-650" n="13">
+                     
+                     <staff xml:id="e47-m-651" n="1">
+                        
+                        <layer xml:id="e47-m-652" n="1">
+                           
+                           <note xml:id="e47-m-653" dur="1" oct="4" pname="a" pnum="69">
+                              <!-- Ignored in performance  
+                      il
+                    -->
+                              
+                              <verse xml:id="e47-m-659" n="2">
+                                 
+                                 <syl xml:id="e47-m-660" con="d" wordpos="i">ri</syl>
+                                 </verse>
+                              </note>
+                           
+                           <note xml:id="e47-m-654" dur="2" oct="5" pname="d" pnum="74">
+                              <!-- Ignored in performance  
+                      lum,
+                    -->
+                              
+                              <verse xml:id="e47-m-661" n="2">
+                                 
+                                 <syl xml:id="e47-m-662" wordpos="t">ctu</syl>
+                                 </verse>
+                              </note>
+                           </layer>
+                        </staff>
+                     
+                     <staff xml:id="e47-m-663" n="2">
+                        
+                        <layer xml:id="e47-m-664" n="1">
+                           
+                           <note xml:id="e47-m-665" dur="1" oct="4" pname="c" pnum="60">
+                              <!-- Ignored in performance  
+                      il
+                    -->
+                              
+                              <verse xml:id="e47-m-672" n="2">
+                                 
+                                 <syl xml:id="e47-m-673" con="d" wordpos="i">ri</syl>
+                                 </verse>
+                              </note>
+                           
+                           <note xml:id="e47-m-666" dur="2" oct="3" pname="b" pnum="58">
+                              
+                              <accid xml:id="e47-m-667" accid.ges="f"></accid>
+                              <!-- Ignored in performance  
+                      lum,
+                    -->
+                              
+                              <verse xml:id="e47-m-674" n="2">
+                                 
+                                 <syl xml:id="e47-m-675" wordpos="t">ctu</syl>
+                                 </verse>
+                              </note>
+                           </layer>
+                        </staff>
+                     
+                     <staff xml:id="e47-m-676" n="3">
+                        
+                        <layer xml:id="e47-m-677" n="1">
+                           
+                           <note xml:id="e47-m-678" dur="4" oct="3" pname="f" pnum="53">
+                              <!-- Ignored in performance  
+                      hic
+                    -->
+                              
+                              <verse xml:id="e47-m-691" n="2">
+                                 
+                                 <syl xml:id="e47-m-692" con="d" wordpos="i">ri</syl>
+                                 </verse>
+                              </note>
+                           
+                           <note xml:id="e47-m-679" dur="4" oct="3" pname="f" pnum="53">
+                              <!-- Ignored in performance  
+                      ctu
+                    -->
+                              
+                              <verse xml:id="e47-m-695" n="1">
+                                 
+                                 <syl xml:id="e47-m-696" con="d" wordpos="i">il</syl>
+                                 </verse>
+                              </note>
+                           
+                           <note xml:id="e47-m-680" dur="4" oct="3" pname="e" pnum="52">
+                              
+                              <verse xml:id="e47-m-697" n="1">
+                                 
+                                 <syl xml:id="e47-m-698" con="u" wordpos="t">lum,</syl>
+                                 </verse>
+                              </note>
+                           
+                           <note xml:id="e47-m-681" dur="4" oct="3" pname="d" pnum="50"></note>
+                           
+                           <beam xml:id="e47-m-684">
+                              
+                              <note xml:id="e47-m-682" dur="8" oct="2" pname="b" pnum="46">
+                                 
+                                 <accid xml:id="e47-m-683" accid.ges="f"></accid>
+                                 
+                                 <verse xml:id="e47-m-742" n="2">
+                                    
+                                    <syl xml:id="e47-m-743" con="d" wordpos="i">vi</syl>
+                                    </verse>
+                                 </note>
+                              
+                              <note xml:id="e47-m-685" dur="8" oct="3" pname="c" pnum="48"></note>
+                              
+                              <note xml:id="e47-m-686" dur="8" oct="3" pname="d" pnum="50"></note>
+                              
+                              <note xml:id="e47-m-687" dur="8" oct="3" pname="e" pnum="51">
+                                 
+                                 <accid xml:id="e47-m-688" accid="f"></accid>
+                                 </note>
+                              </beam>
+                           </layer>
+                        </staff>
+                     </measure>
+                  
+                  <measure xml:id="e47-m-699" n="14">
+                     
+                     <staff xml:id="e47-m-700" n="1">
+                        
+                        <layer xml:id="e47-m-701" n="1">
+                           
+                           <note xml:id="e47-m-702" dur="1" oct="5" pname="c" pnum="72">
+                              <!-- Ignored in performance  
+                      et
+                    -->
+                              
+                              <verse xml:id="e47-m-709" n="2">
+                                 
+                                 <syl xml:id="e47-m-710" con="d" wordpos="i">vi</syl>
+                                 </verse>
+                              </note>
+                           
+                           <note xml:id="e47-m-703" dur="2" oct="4" pname="b" pnum="70">
+                              
+                              <accid xml:id="e47-m-704" accid.ges="f"></accid>
+                              <!-- Ignored in performance  
+                      hic
+                    -->
+                              
+                              <verse xml:id="e47-m-711" n="2">
+                                 
+                                 <syl xml:id="e47-m-712" wordpos="t">sus</syl>
+                                 </verse>
+                              </note>
+                           </layer>
+                        </staff>
+                     
+                     <staff xml:id="e47-m-713" n="2">
+                        
+                        <layer xml:id="e47-m-714" n="1">
+                           
+                           <note xml:id="e47-m-715" dur="1" oct="3" pname="a" pnum="57">
+                              <!-- Ignored in performance  
+                      et
+                    -->
+                              
+                              <verse xml:id="e47-m-722" n="2">
+                                 
+                                 <syl xml:id="e47-m-723" con="d" wordpos="i">vi</syl>
+                                 </verse>
+                              </note>
+                           
+                           <note xml:id="e47-m-716" dur="2" oct="3" pname="b" pnum="58">
+                              
+                              <accid xml:id="e47-m-717" accid.ges="f"></accid>
+                              <!-- Ignored in performance  
+                      hic
+                    -->
+                              
+                              <verse xml:id="e47-m-724" n="2">
+                                 
+                                 <syl xml:id="e47-m-725" wordpos="t">sus</syl>
+                                 </verse>
+                              </note>
+                           </layer>
+                        </staff>
+                     
+                     <staff xml:id="e47-m-726" n="3">
+                        
+                        <layer xml:id="e47-m-727" n="1">
+                           
+                           <note xml:id="e47-m-728" dur="4" oct="3" pname="f" pnum="53"></note>
+                           
+                           <note xml:id="e47-m-729" dur="4" oct="3" pname="c" pnum="48"></note>
+                           
+                           <beam xml:id="e47-m-731">
+                              
+                              <note xml:id="e47-m-730" dur="8" oct="3" pname="f" pnum="53"></note>
+                              
+                              <note xml:id="e47-m-732" dur="8" oct="3" pname="e" pnum="51">
+                                 
+                                 <accid xml:id="e47-m-733" accid="f"></accid>
+                                 </note>
+                              </beam>
+                           
+                           <note xml:id="e47-m-734" dur="4" oct="3" pname="d" pnum="50"></note>
+                           
+                           <beam xml:id="e47-m-737">
+                              
+                              <note xml:id="e47-m-735" dur="8" oct="3" pname="e" pnum="51">
+                                 
+                                 <accid xml:id="e47-m-736" accid="f" func="caution"></accid>
+                                 <!-- Ignored in performance  
+                        et
+                      -->
+                                 
+                                 <verse xml:id="e47-m-744" n="2">
+                                    
+                                    <syl xml:id="e47-m-745" con="u" wordpos="t">sus</syl>
+                                    </verse>
+                                 </note>
+                              
+                              <note xml:id="e47-m-738" dur="8" oct="3" pname="f" pnum="53"></note>
+                              </beam>
+                           
+                           <note xml:id="e47-m-739" dur="4" oct="3" pname="g" pnum="55"></note>
+                           </layer>
+                        </staff>
+                     </measure>
+                  
+                  <sb xml:id="e47-m-747"></sb>
+                  
+                  <measure xml:id="e47-m-746" n="15">
+                     
+                     <staff xml:id="e47-m-748" n="1">
+                        
+                        <layer xml:id="e47-m-749" n="1">
+                           
+                           <note xml:id="e47-m-750" dur="1" oct="5" pname="c" pnum="72">
+                              <!-- Ignored in performance  
+                      il
+                    -->
+                              
+                              <verse xml:id="e47-m-788" n="2">
+                                 
+                                 <syl xml:id="e47-m-789" con="d" wordpos="i">u</syl>
+                                 </verse>
+                              </note>
+                           
+                           <note xml:id="e47-m-751" dur="2" oct="4" pname="b" pnum="70">
+                              
+                              <accid xml:id="e47-m-752" accid.ges="f"></accid>
+                              <!-- Ignored in performance  
+                      lum,
+                    -->
+                              </note>
+                           </layer>
+                        </staff>
+                     
+                     <staff xml:id="e47-m-757" n="2">
+                        
+                        <layer xml:id="e47-m-758" n="1">
+                           
+                           <note xml:id="e47-m-759" dur="1" oct="3" pname="a" pnum="57">
+                              <!-- Ignored in performance  
+                      il
+                    -->
+                              
+                              <verse xml:id="e47-m-801" n="2">
+                                 
+                                 <syl xml:id="e47-m-802" con="d" wordpos="i">u</syl>
+                                 </verse>
+                              </note>
+                           
+                           <note xml:id="e47-m-760" dur="2" oct="3" pname="g" pnum="55">
+                              <!-- Ignored in performance  
+                      lum,
+                    -->
+                              </note>
+                           </layer>
+                        </staff>
+                     
+                     <staff xml:id="e47-m-765" n="3">
+                        
+                        <layer xml:id="e47-m-766" n="1">
+                           
+                           <note xml:id="e47-m-767" dots="1" dur="4" oct="3" pname="f" pnum="53">
+                              <!-- Ignored in performance  
+                      hic,
+                    -->
+                              
+                              <verse xml:id="e47-m-822" n="2">
+                                 
+                                 <syl xml:id="e47-m-823" con="d" wordpos="i">u</syl>
+                                 </verse>
+                              </note>
+                           
+                           <note xml:id="e47-m-768" dur="8" oct="3" pname="e" pnum="51">
+                              
+                              <accid xml:id="e47-m-769" accid="f"></accid>
+                              </note>
+                           
+                           <beam xml:id="e47-m-771">
+                              
+                              <note xml:id="e47-m-770" dur="8" oct="3" pname="c" pnum="48"></note>
+                              
+                              <note xml:id="e47-m-772" dur="8" oct="3" pname="d" pnum="50"></note>
+                              
+                              <note xml:id="e47-m-773" dur="8" oct="3" pname="e" pnum="51">
+                                 
+                                 <accid xml:id="e47-m-774" accid.ges="f"></accid>
+                                 </note>
+                              
+                              <note xml:id="e47-m-775" dur="8" oct="3" pname="d" pnum="50"></note>
+                              </beam>
+                           
+                           <beam xml:id="e47-m-778">
+                              
+                              <note xml:id="e47-m-776" dur="8" oct="3" pname="e" pnum="51">
+                                 
+                                 <accid xml:id="e47-m-777" accid.ges="f"></accid>
+                                 </note>
+                              
+                              <note xml:id="e47-m-779" dur="8" oct="3" pname="f" pnum="53"></note>
+                              </beam>
+                           
+                           <note xml:id="e47-m-780" dur="4" oct="3" pname="g" pnum="55"></note>
+                           </layer>
+                        </staff>
+                     </measure>
+                  
+                  <measure xml:id="e47-m-783" n="16">
+                     
+                     <staff xml:id="e47-m-784" n="1">
+                        
+                        <layer xml:id="e47-m-785" n="1">
+                           
+                           <note xml:id="e47-m-786" dur="1" oct="4" pname="a" pnum="69">
+                              <!-- Ignored in performance  
+                      ter
+                    -->
+                              
+                              <verse xml:id="e47-m-836" n="1">
+                                 
+                                 <syl xml:id="e47-m-837" con="d" wordpos="i">sti</syl>
+                                 </verse>
+                              </note>
+                           
+                           <note xml:id="e47-m-787" dur="2" oct="4" pname="g" pnum="67">
+                              <!-- Ignored in performance  
+                      que
+                    -->
+                              
+                              <verse xml:id="e47-m-838" n="1">
+                                 
+                                 <syl xml:id="e47-m-839" con="d" wordpos="m">mu</syl>
+                                 </verse>
+                              </note>
+                           </layer>
+                        </staff>
+                     
+                     <staff xml:id="e47-m-796" n="2">
+                        
+                        <layer xml:id="e47-m-797" n="1">
+                           
+                           <note xml:id="e47-m-798" dur="1" oct="4" pname="c" pnum="60">
+                              <!-- Ignored in performance  
+                      ter
+                    -->
+                              
+                              <verse xml:id="e47-m-852" n="1">
+                                 
+                                 <syl xml:id="e47-m-853" con="d" wordpos="i">sti</syl>
+                                 </verse>
+                              </note>
+                           
+                           <note xml:id="e47-m-799" dur="2" oct="3" pname="b" pnum="58">
+                              
+                              <accid xml:id="e47-m-800" accid.ges="f"></accid>
+                              <!-- Ignored in performance  
+                      que
+                    -->
+                              
+                              <verse xml:id="e47-m-854" n="1">
+                                 
+                                 <syl xml:id="e47-m-855" con="d" wordpos="m">mu</syl>
+                                 </verse>
+                              </note>
+                           </layer>
+                        </staff>
+                     
+                     <staff xml:id="e47-m-809" n="3">
+                        
+                        <layer xml:id="e47-m-810" n="1">
+                           
+                           <note xml:id="e47-m-811" dur="4" oct="3" pname="f" pnum="53">
+                              <!-- Ignored in performance  
+                      il
+                    -->
+                              
+                              <verse xml:id="e47-m-826" n="2">
+                                 
+                                 <syl xml:id="e47-m-827" con="d" wordpos="m">ter</syl>
+                                 </verse>
+                              </note>
+                           
+                           <note xml:id="e47-m-812" dur="4" oct="3" pname="c" pnum="48">
+                              <!-- Ignored in performance  
+                      lum
+                    -->
+                              
+                              <verse xml:id="e47-m-828" n="2">
+                                 
+                                 <syl xml:id="e47-m-829" wordpos="t">que</syl>
+                                 </verse>
+                              </note>
+                           
+                           <note xml:id="e47-m-813" dur="4" oct="3" pname="d" pnum="50">
+                              <!-- Ignored in performance  
+                      fu
+                    -->
+                              
+                              <verse xml:id="e47-m-884" n="1">
+                                 
+                                 <syl xml:id="e47-m-885" con="d" wordpos="i">sti</syl>
+                                 </verse>
+                              </note>
+                           
+                           <note xml:id="e47-m-814" dots="1" dur="4" oct="3" pname="e" pnum="51">
+                              
+                              <accid xml:id="e47-m-815" accid="f"></accid>
+                              
+                              <verse xml:id="e47-m-886" n="1">
+                                 
+                                 <syl xml:id="e47-m-887" con="d" wordpos="m">mu</syl>
+                                 </verse>
+                              </note>
+                           
+                           <note xml:id="e47-m-816" dur="8" oct="3" pname="f" pnum="53"></note>
+                           
+                           <note xml:id="e47-m-817" dur="4" oct="3" pname="g" pnum="55"></note>
+                           </layer>
+                        </staff>
+                     
+                     <tie xmlns:mei="http://www.music-encoding.org/ns/mei" startid="#e47-m-817" endid="#e47-m-866"></tie>
+                     </measure>
+                  
+                  <measure xml:id="e47-m-830" n="17">
+                     
+                     <staff xml:id="e47-m-831" n="1">
+                        
+                        <layer xml:id="e47-m-832" n="1">
+                           
+                           <note xml:id="e47-m-833" dur="1" oct="4" pname="b" pnum="70">
+                              
+                              <accid xml:id="e47-m-834" accid.ges="f"></accid>
+                              <!-- Ignored in performance  
+                      lan
+                    -->
+                              
+                              <verse xml:id="e47-m-844" n="2">
+                                 
+                                 <syl xml:id="e47-m-845" con="d" wordpos="i">fu</syl>
+                                 </verse>
+                              </note>
+                           
+                           <note xml:id="e47-m-835" dur="2" oct="4" pname="a" pnum="69">
+                              <!-- Ignored in performance  
+                      te
+                    -->
+                              
+                              <verse xml:id="e47-m-846" n="2">
+                                 
+                                 <syl xml:id="e47-m-847" wordpos="t">it,</syl>
+                                 </verse>
+                              </note>
+                           </layer>
+                        </staff>
+                     
+                     <staff xml:id="e47-m-848" n="2">
+                        
+                        <layer xml:id="e47-m-849" n="1">
+                           
+                           <note xml:id="e47-m-850" dur="1" oct="4" pname="d" pnum="62">
+                              <!-- Ignored in performance  
+                      lan
+                    -->
+                              
+                              <verse xml:id="e47-m-860" n="2">
+                                 
+                                 <syl xml:id="e47-m-861" con="d" wordpos="i">fu</syl>
+                                 </verse>
+                              </note>
+                           
+                           <note xml:id="e47-m-851" dur="2" oct="4" pname="c" pnum="60">
+                              <!-- Ignored in performance  
+                      te
+                    -->
+                              
+                              <verse xml:id="e47-m-862" n="2">
+                                 
+                                 <syl xml:id="e47-m-863" wordpos="t">it,</syl>
+                                 </verse>
+                              </note>
+                           </layer>
+                        </staff>
+                     
+                     <staff xml:id="e47-m-864" n="3">
+                        
+                        <layer xml:id="e47-m-865" n="1">
+                           
+                           <note xmlns:mei="http://www.music-encoding.org/ns/mei" xml:id="e47-m-866" dur="8" oct="3" pname="g" pnum="55"></note>
+                           
+                           <note xml:id="e47-m-867" dur="8" oct="3" pname="f" pnum="53"></note>
+                           
+                           <note xml:id="e47-m-868" dots="1" dur="4" oct="3" pname="d" pnum="50">
+                              <!-- Ignored in performance  
+                      it,
+                    -->
+                              
+                              <verse xml:id="e47-m-888" n="1">
+                                 
+                                 <syl xml:id="e47-m-889" con="d" wordpos="m">lan</syl>
+                                 </verse>
+                              </note>
+                           
+                           <note xml:id="e47-m-869" dur="8" oct="3" pname="e" pnum="51">
+                              
+                              <accid xml:id="e47-m-870" accid="f"></accid>
+                              <!-- Ignored in performance  
+                      te
+                    -->
+                              
+                              <verse xml:id="e47-m-921" n="2">
+                                 
+                                 <syl xml:id="e47-m-922" con="d" wordpos="i">u</syl>
+                                 </verse>
+                              </note>
+                           
+                           <beam xml:id="e47-m-872">
+                              
+                              <note xml:id="e47-m-871" dur="8" oct="3" pname="f" pnum="53">
+                                 
+                                 <verse xml:id="e47-m-923" n="2">
+                                    
+                                    <syl xml:id="e47-m-924" con="d" wordpos="m">te</syl>
+                                    </verse>
+                                 </note>
+                              
+                              <note xml:id="e47-m-873" dur="8" oct="3" pname="g" pnum="55"></note>
+                              </beam>
+                           
+                           <beam xml:id="e47-m-875">
+                              
+                              <note xml:id="e47-m-874" dur="8" oct="3" pname="f" pnum="53">
+                                 
+                                 <verse xml:id="e47-m-915" n="1">
+                                    
+                                    <syl xml:id="e47-m-916" con="d" wordpos="i">fu</syl>
+                                    </verse>
+                                 </note>
+                              
+                              <note xml:id="e47-m-876" dur="8" oct="3" pname="e" pnum="51">
+                                 
+                                 <accid xml:id="e47-m-877" accid="f" func="caution"></accid>
+                                 </note>
+                              
+                              <note xml:id="e47-m-878" dur="8" oct="3" pname="d" pnum="50"></note>
+                              
+                              <note xml:id="e47-m-879" dur="8" oct="3" pname="c" pnum="48"></note>
+                              </beam>
+                           </layer>
+                        </staff>
+                     </measure>
+                  
+                  <sb xml:id="e47-m-893"></sb>
+                  
+                  <measure xml:id="e47-m-892" n="18">
+                     
+                     <staff xml:id="e47-m-894" n="1">
+                        
+                        <layer xml:id="e47-m-895" n="1">
+                           
+                           <note xml:id="e47-m-896" dur="1" oct="5" pname="f" pnum="77">
+                              <!-- Ignored in performance  
+                      fu
+                    -->
+                              
+                              <verse xml:id="e47-m-940" n="2">
+                                 
+                                 <syl xml:id="e47-m-941" con="d" wordpos="i">u</syl>
+                                 </verse>
+                              </note>
+                           
+                           <note xml:id="e47-m-897" dur="2" oct="5" pname="f" pnum="77">
+                              <!-- Ignored in performance  
+                      ro
+                    -->
+                              
+                              <verse xml:id="e47-m-942" n="2">
+                                 
+                                 <syl xml:id="e47-m-943" con="d" wordpos="m">te</syl>
+                                 </verse>
+                              </note>
+                           </layer>
+                        </staff>
+                     
+                     <staff xml:id="e47-m-898" n="2">
+                        
+                        <layer xml:id="e47-m-899" n="1">
+                           
+                           <note xml:id="e47-m-900" dur="1" oct="3" pname="b" pnum="58">
+                              
+                              <accid xml:id="e47-m-901" accid.ges="f"></accid>
+                              <!-- Ignored in performance  
+                      fu
+                    -->
+                              
+                              <verse xml:id="e47-m-958" n="2">
+                                 
+                                 <syl xml:id="e47-m-959" con="d" wordpos="i">u</syl>
+                                 </verse>
+                              </note>
+                           
+                           <note xml:id="e47-m-902" dur="2" oct="4" pname="c" pnum="60">
+                              <!-- Ignored in performance  
+                      ro
+                    -->
+                              
+                              <verse xml:id="e47-m-960" n="2">
+                                 
+                                 <syl xml:id="e47-m-961" con="d" wordpos="m">te</syl>
+                                 </verse>
+                              </note>
+                           </layer>
+                        </staff>
+                     
+                     <staff xml:id="e47-m-903" n="3">
+                        
+                        <layer xml:id="e47-m-904" n="1">
+                           
+                           <note xml:id="e47-m-905" dur="4" oct="3" pname="d" pnum="50">
+                              <!-- Ignored in performance  
+                      ro
+                    -->
+                              
+                              <verse xml:id="e47-m-925" n="2">
+                                 
+                                 <syl xml:id="e47-m-926" con="d" wordpos="m">ru</syl>
+                                 </verse>
+                              </note>
+                           
+                           <note xml:id="e47-m-906" dur="4" oct="2" pname="b" pnum="46">
+                              
+                              <accid xml:id="e47-m-907" accid.ges="f"></accid>
+                              <!-- Ignored in performance  
+                      re
+                    -->
+                              
+                              <verse xml:id="e47-m-927" n="2">
+                                 
+                                 <syl xml:id="e47-m-928" wordpos="t">que</syl>
+                                 </verse>
+                              </note>
+                           
+                           <note xml:id="e47-m-908" dur="4" oct="3" pname="b" pnum="58">
+                              
+                              <accid xml:id="e47-m-909" accid.ges="f"></accid>
+                              <!--
+        
+        this-pitch= 58 
+        last-pitch= 46
+        this-acc= f
+        last-acc= f-->
+                              <!-- Ignored in performance  
+                      mo
+                    -->
+                              
+                              <verse xml:id="e47-m-1047" n="2">
+                                 
+                                 <syl xml:id="e47-m-1048" con="d" wordpos="i">fu</syl>
+                                 </verse>
+                              </note>
+                           
+                           <note xml:id="e47-m-910" dur="4" oct="3" pname="a" pnum="57">
+                              
+                              <verse xml:id="e47-m-1043" n="1">
+                                 
+                                 <syl xml:id="e47-m-1044" con="d" wordpos="m">mor</syl>
+                                 </verse>
+                              </note>
+                           
+                           <beam xml:id="e47-m-912">
+                              
+                              <note xml:id="e47-m-911" dur="8" oct="3" pname="f" pnum="53"></note>
+                              
+                              <note xml:id="e47-m-913" dur="8" oct="3" pname="g" pnum="55"></note>
+                              </beam>
+                           
+                           <note xml:id="e47-m-914" dur="4" oct="3" pname="a" pnum="57"></note>
+                           </layer>
+                        </staff>
+                     </measure>
+                  
+                  <measure xml:id="e47-m-929" n="19">
+                     
+                     <staff xml:id="e47-m-930" n="1">
+                        
+                        <layer xml:id="e47-m-931" n="1">
+                           
+                           <note xml:id="e47-m-932" dur="1" oct="5" pname="f" pnum="77">
+                              <!-- Ignored in performance  
+                      re
+                    -->
+                              
+                              <verse xml:id="e47-m-944" n="2">
+                                 
+                                 <syl xml:id="e47-m-945" con="d" wordpos="m">ru</syl>
+                                 </verse>
+                              </note>
+                           
+                           <note xml:id="e47-m-933" dur="2" oct="5" pname="e" pnum="76">
+                              <!-- Ignored in performance  
+                      que
+                    -->
+                              
+                              <verse xml:id="e47-m-999" n="1">
+                                 
+                                 <syl xml:id="e47-m-1000" con="d" wordpos="i">mo</syl>
+                                 </verse>
+                              </note>
+                           </layer>
+                        </staff>
+                     
+                     <staff xml:id="e47-m-948" n="2">
+                        
+                        <layer xml:id="e47-m-949" n="1">
+                           
+                           <note xml:id="e47-m-950" dur="1" oct="4" pname="d" pnum="62">
+                              <!-- Ignored in performance  
+                      re
+                    -->
+                              
+                              <verse xml:id="e47-m-962" n="2">
+                                 
+                                 <syl xml:id="e47-m-963" con="d" wordpos="m">ru</syl>
+                                 </verse>
+                              </note>
+                           
+                           <note xml:id="e47-m-951" dur="2" oct="4" pname="c" pnum="60">
+                              <!-- Ignored in performance  
+                      que
+                    -->
+                              
+                              <verse xml:id="e47-m-1018" n="1">
+                                 
+                                 <syl xml:id="e47-m-1019" con="d" wordpos="i">mo</syl>
+                                 </verse>
+                              </note>
+                           </layer>
+                        </staff>
+                     
+                     <staff xml:id="e47-m-966" n="3">
+                        
+                        <layer xml:id="e47-m-967" n="1">
+                           
+                           <beam xml:id="e47-m-969">
+                              
+                              <note xml:id="e47-m-968" dur="8" oct="3" pname="d" pnum="50"></note>
+                              
+                              <note xml:id="e47-m-970" dur="8" oct="3" pname="e" pnum="52"></note>
+                              
+                              <note xml:id="e47-m-971" dur="8" oct="3" pname="f" pnum="53"></note>
+                              
+                              <note xml:id="e47-m-972" dur="8" oct="3" pname="d" pnum="50"></note>
+                              </beam>
+                           
+                           <beam xml:id="e47-m-974">
+                              
+                              <note xml:id="e47-m-973" dur="8" oct="3" pname="f" pnum="53"></note>
+                              
+                              <note xml:id="e47-m-975" dur="8" oct="3" pname="g" pnum="55"></note>
+                              
+                              <note xml:id="e47-m-976" dur="8" oct="3" pname="a" pnum="57"></note>
+                              
+                              <note xml:id="e47-m-977" dur="8" oct="3" pname="e" pnum="52"></note>
+                              </beam>
+                           
+                           <beam xml:id="e47-m-979">
+                              
+                              <note xml:id="e47-m-978" dur="8" oct="3" pname="a" pnum="57"></note>
+                              
+                              <note xml:id="e47-m-980" dur="16" oct="4" pname="c" pnum="60"></note>
+                              
+                              <note xml:id="e47-m-981" dur="16" oct="3" pname="b" pnum="58">
+                                 
+                                 <accid xml:id="e47-m-982" accid.ges="f"></accid>
+                                 </note>
+                              </beam>
+                           
+                           <beam xml:id="e47-m-984">
+                              
+                              <note xml:id="e47-m-983" dur="8" oct="3" pname="a" pnum="57"></note>
+                              
+                              <note xml:id="e47-m-985" dur="8" oct="3" pname="g" pnum="55"></note>
+                              </beam>
+                           </layer>
+                        </staff>
+                     </measure>
+                  
+                  <measure xml:id="e47-m-986" metcon="false" n="20" right="dbl">
+                     
+                     <staff xml:id="e47-m-987" n="1">
+                        
+                        <layer xml:id="e47-m-988" n="1">
+                           
+                           <note xml:id="e47-m-989" dur="1" oct="5" pname="d" pnum="74">
+                              <!-- Ignored in performance  
+                      mor
+                    -->
+                              
+                              <verse xml:id="e47-m-1005" n="2">
+                                 
+                                 <syl xml:id="e47-m-1006" con="d" wordpos="i">fu</syl>
+                                 </verse>
+                              </note>
+                           
+                           <note xml:id="e47-m-990" dur="2" oct="4" pname="b" pnum="71">
+                              
+                              <accid xml:id="e47-m-991" accid="n"></accid>
+                              </note>
+                           <!-- Original note 2 -->
+                           <note xmlns:mei="http://www.music-encoding.org/ns/mei" dur="2" xml:id="e47-m-992" oct="4" pname="b" pnum="71" fermata="above" perf-dur="1"></note>
+                           <!-- Filler notes 2 -->
+                           
+                           <space xml:id="e47-m-995" dur="2" dur.ges="512p"></space>
+                           
+                           <space xml:id="e47-m-996" dur="1" dur.ges="1024p"></space>
+                           
+                           <space xml:id="e47-m-997" dur="2" dur.ges="512p"></space>
+                           
+                           <space xml:id="e47-m-998" dur="4" dur.ges="256p"></space>
+                           </layer>
+                        </staff>
+                     
+                     <staff xml:id="e47-m-1009" n="2">
+                        
+                        <layer xml:id="e47-m-1010" n="1">
+                           
+                           <note xml:id="e47-m-1011" dots="1" dur="1" oct="4" pname="d" pnum="62">
+                              <!-- Ignored in performance  
+                      mor
+                    -->
+                              
+                              <verse xml:id="e47-m-1024" n="2">
+                                 
+                                 <syl xml:id="e47-m-1025" con="d" wordpos="i">fu</syl>
+                                 </verse>
+                              </note>
+                           <!-- Original note 2 -->
+                           <note xmlns:mei="http://www.music-encoding.org/ns/mei" dur="2" xml:id="e47-m-1012" oct="4" pname="d" pnum="62" fermata="above" perf-dur="1"></note>
+                           <!-- Filler notes 2 -->
+                           
+                           <space xml:id="e47-m-1014" dur="2" dur.ges="512p"></space>
+                           
+                           <space xml:id="e47-m-1015" dur="1" dur.ges="1024p"></space>
+                           
+                           <space xml:id="e47-m-1016" dur="2" dur.ges="512p"></space>
+                           
+                           <space xml:id="e47-m-1017" dur="4" dur.ges="256p"></space>
+                           </layer>
+                        </staff>
+                     
+                     <staff xml:id="e47-m-1028" n="3">
+                        
+                        <layer xml:id="e47-m-1029" n="1">
+                           
+                           <beam xml:id="e47-m-1032">
+                              
+                              <note xml:id="e47-m-1030" dur="8" oct="3" pname="f" pnum="54">
+                                 
+                                 <accid xml:id="e47-m-1031" accid="s"></accid>
+                                 </note>
+                              
+                              <note xml:id="e47-m-1033" dur="8" oct="3" pname="d" pnum="50"></note>
+                              
+                              <note xml:id="e47-m-1034" dur="8" oct="3" pname="b" pnum="59"></note>
+                              
+                              <note xml:id="e47-m-1036" dur="8" oct="3" pname="g" pnum="55"></note>
+                              </beam>
+                           
+                           <beam xml:id="e47-m-1038">
+                              
+                              <note xml:id="e47-m-1037" dur="8" oct="4" pname="d" pnum="62"></note>
+                              
+                              <note xml:id="e47-m-1039" dur="8" oct="3" pname="d" pnum="50"></note>
+                              </beam>
+                           
+                           <note xml:id="e47-m-1040" dur="long" oct="3" pname="g" pnum="55" stem.dir="down">
+                              <!-- Ignored in performance  
+                      dit,
+                    -->
+                              
+                              <verse xml:id="e47-m-1049" n="2">
+                                 
+                                 <syl xml:id="e47-m-1050" wordpos="t">it.</syl>
+                                 </verse>
+                              </note>
+                           </layer>
+                        </staff>
+                     </measure>
+                  
+                  <pb xml:id="e47-m-1053" n="3"></pb>
+                  
+                  <sb xml:id="e47-m-1052"></sb>
+                  
+                  <measure xml:id="e47-m-1051" n="21">
+                     
+                     <staff xml:id="e47-m-1054" n="1">
+                        
+                        <layer xml:id="e47-m-1055" n="1">
+                           
+                           <note xml:id="e47-m-1056" dur="1" oct="4" pname="g" pnum="67">
+                              <!-- Ignored in performance  
+                      Sunt
+                    -->
+                              
+                              <verse xml:id="e47-m-1085" n="2">
+                                 
+                                 <syl xml:id="e47-m-1086" con="d" wordpos="i">Om</syl>
+                                 </verse>
+                              </note>
+                           
+                           <note xml:id="e47-m-1057" dur="2" oct="4" pname="a" pnum="69">
+                              <!-- Ignored in performance  
+                      ni
+                    -->
+                              
+                              <verse xml:id="e47-m-1091" n="1">
+                                 
+                                 <syl xml:id="e47-m-1092" con="d" wordpos="i">ge</syl>
+                                 </verse>
+                              </note>
+                           </layer>
+                        </staff>
+                     
+                     <staff xml:id="e47-m-1060" n="2">
+                        
+                        <layer xml:id="e47-m-1061" n="1">
+                           
+                           <note xml:id="e47-m-1062" dur="1" oct="4" pname="d" pnum="62">
+                              <!-- Ignored in performance  
+                      Sunt
+                    -->
+                              
+                              <verse xml:id="e47-m-1101" n="2">
+                                 
+                                 <syl xml:id="e47-m-1102" con="d" wordpos="i">Om</syl>
+                                 </verse>
+                              </note>
+                           
+                           <note xml:id="e47-m-1063" dur="2" oct="3" pname="a" pnum="57">
+                              <!-- Ignored in performance  
+                      ni
+                    -->
+                              
+                              <verse xml:id="e47-m-1107" n="1">
+                                 
+                                 <syl xml:id="e47-m-1108" con="d" wordpos="i">ge</syl>
+                                 </verse>
+                              </note>
+                           </layer>
+                        </staff>
+                     
+                     <staff xml:id="e47-m-1066" n="3">
+                        
+                        <layer xml:id="e47-m-1067" n="1">
+                           
+                           <note xml:id="e47-m-1068" dur="4" oct="2" pname="g" pnum="43">
+                              <!-- Ignored in performance  
+                      Sunt
+                    -->
+                              
+                              <verse xml:id="e47-m-1134" n="2">
+                                 
+                                 <syl xml:id="e47-m-1135" con="d" wordpos="i">Om</syl>
+                                 </verse>
+                              </note>
+                           
+                           <note xml:id="e47-m-1069" dur="4" oct="2" pname="a" pnum="45"></note>
+                           
+                           <note xml:id="e47-m-1070" dur="4" oct="2" pname="b" pnum="46">
+                              
+                              <accid xml:id="e47-m-1071" accid.ges="f"></accid>
+                              </note>
+                           
+                           <note xml:id="e47-m-1072" dur="4" oct="3" pname="c" pnum="48"></note>
+                           
+                           <note xml:id="e47-m-1073" dur="4" oct="2" pname="a" pnum="45">
+                              <!-- Ignored in performance  
+                      ge
+                    -->
+                              
+                              <verse xml:id="e47-m-1136" n="2">
+                                 
+                                 <syl xml:id="e47-m-1137" con="d" wordpos="m">ni</syl>
+                                 </verse>
+                              </note>
+                           
+                           <beam xml:id="e47-m-1075">
+                              
+                              <note xml:id="e47-m-1074" dur="8" oct="3" pname="d" pnum="50"></note>
+                              
+                              <note xml:id="e47-m-1076" dur="8" oct="3" pname="c" pnum="48"></note>
+                              </beam>
+                           </layer>
+                        </staff>
+                     </measure>
+                  
+                  <measure xml:id="e47-m-1079" n="22">
+                     
+                     <staff xml:id="e47-m-1080" n="1">
+                        
+                        <layer xml:id="e47-m-1081" n="1">
+                           
+                           <note xml:id="e47-m-1082" dur="1" oct="4" pname="b" pnum="70">
+                              
+                              <accid xml:id="e47-m-1083" accid.ges="f"></accid>
+                              <!-- Ignored in performance  
+                      bus
+                    -->
+                              
+                              <verse xml:id="e47-m-1093" n="1">
+                                 
+                                 <syl xml:id="e47-m-1094" con="d" wordpos="m">mi</syl>
+                                 </verse>
+                              </note>
+                           
+                           <note xml:id="e47-m-1084" dur="2" oct="5" pname="c" pnum="72">
+                              <!-- Ignored in performance  
+                      ni
+                    -->
+                              
+                              <verse xml:id="e47-m-1147" n="2">
+                                 
+                                 <syl xml:id="e47-m-1148" con="d" wordpos="i">at</syl>
+                                 </verse>
+                              </note>
+                           </layer>
+                        </staff>
+                     
+                     <staff xml:id="e47-m-1097" n="2">
+                        
+                        <layer xml:id="e47-m-1098" n="1">
+                           
+                           <note xml:id="e47-m-1099" dur="1" oct="3" pname="g" pnum="55">
+                              <!-- Ignored in performance  
+                      bus
+                    -->
+                              
+                              <verse xml:id="e47-m-1109" n="1">
+                                 
+                                 <syl xml:id="e47-m-1110" con="d" wordpos="m">mi</syl>
+                                 </verse>
+                              </note>
+                           
+                           <note xml:id="e47-m-1100" dur="2" oct="3" pname="a" pnum="57">
+                              <!-- Ignored in performance  
+                      ni
+                    -->
+                              
+                              <verse xml:id="e47-m-1158" n="2">
+                                 
+                                 <syl xml:id="e47-m-1159" con="d" wordpos="i">at</syl>
+                                 </verse>
+                              </note>
+                           </layer>
+                        </staff>
+                     
+                     <staff xml:id="e47-m-1113" n="3">
+                        
+                        <layer xml:id="e47-m-1114" n="1">
+                           
+                           <beam xml:id="e47-m-1117">
+                              
+                              <note xml:id="e47-m-1115" dur="8" oct="2" pname="b" pnum="46">
+                                 
+                                 <accid xml:id="e47-m-1116" accid.ges="f"></accid>
+                                 </note>
+                              
+                              <note xml:id="e47-m-1118" dur="8" oct="3" pname="c" pnum="48"></note>
+                              
+                              <note xml:id="e47-m-1119" dur="8" oct="2" pname="b" pnum="46">
+                                 
+                                 <accid xml:id="e47-m-1120" accid.ges="f"></accid>
+                                 </note>
+                              
+                              <note xml:id="e47-m-1121" dur="8" oct="2" pname="a" pnum="45"></note>
+                              </beam>
+                           
+                           <beam xml:id="e47-m-1123">
+                              
+                              <note xml:id="e47-m-1122" dur="8" oct="2" pname="g" pnum="43"></note>
+                              
+                              <note xml:id="e47-m-1124" dur="8" oct="2" pname="b" pnum="46">
+                                 
+                                 <accid xml:id="e47-m-1125" accid.ges="f"></accid>
+                                 </note>
+                              </beam>
+                           
+                           <note xml:id="e47-m-1126" dur="4" oct="2" pname="a" pnum="45">
+                              
+                              <verse xml:id="e47-m-1130" n="1">
+                                 
+                                 <syl xml:id="e47-m-1131" con="d" wordpos="m">mi</syl>
+                                 </verse>
+                              </note>
+                           
+                           <note xml:id="e47-m-1127" dur="2" oct="3" pname="f" pnum="53">
+                              <!-- Ignored in performance  
+                      ni
+                    -->
+                              
+                              <verse xml:id="e47-m-1138" n="2">
+                                 
+                                 <syl xml:id="e47-m-1139" wordpos="t">bus</syl>
+                                 </verse>
+                              </note>
+                           </layer>
+                        </staff>
+                     </measure>
+                  
+                  <measure xml:id="e47-m-1140" n="23">
+                     
+                     <staff xml:id="e47-m-1141" n="1">
+                        
+                        <layer xml:id="e47-m-1142" n="1">
+                           
+                           <note xml:id="e47-m-1143" dur="1" oct="4" pname="a" pnum="69">
+                              <!-- Ignored in performance  
+                      hi
+                    -->
+                              
+                              <verse xml:id="e47-m-1149" n="2">
+                                 
+                                 <syl xml:id="e47-m-1150" wordpos="t">que</syl>
+                                 </verse>
+                              </note>
+                           
+                           <note xml:id="e47-m-1144" dur="2" oct="5" pname="d" pnum="74">
+                              <!-- Ignored in performance  
+                      om
+                    -->
+                              
+                              <verse xml:id="e47-m-1191" n="1">
+                                 
+                                 <syl xml:id="e47-m-1192" con="d" wordpos="i">la</syl>
+                                 </verse>
+                              </note>
+                           </layer>
+                        </staff>
+                     
+                     <staff xml:id="e47-m-1151" n="2">
+                        
+                        <layer xml:id="e47-m-1152" n="1">
+                           
+                           <note xml:id="e47-m-1153" dur="1" oct="4" pname="c" pnum="60">
+                              <!-- Ignored in performance  
+                      hi
+                    -->
+                              
+                              <verse xml:id="e47-m-1160" n="2">
+                                 
+                                 <syl xml:id="e47-m-1161" wordpos="t">que</syl>
+                                 </verse>
+                              </note>
+                           
+                           <note xml:id="e47-m-1154" dur="2" oct="3" pname="b" pnum="58">
+                              
+                              <accid xml:id="e47-m-1155" accid.ges="f"></accid>
+                              <!-- Ignored in performance  
+                      om
+                    -->
+                              
+                              <verse xml:id="e47-m-1206" n="1">
+                                 
+                                 <syl xml:id="e47-m-1207" con="d" wordpos="i">la</syl>
+                                 </verse>
+                              </note>
+                           </layer>
+                        </staff>
+                     
+                     <staff xml:id="e47-m-1162" n="3">
+                        
+                        <layer xml:id="e47-m-1163" n="1">
+                           
+                           <note xml:id="e47-m-1164" dur="4" oct="3" pname="f" pnum="53">
+                              <!-- Ignored in performance  
+                      hi
+                    -->
+                              
+                              <verse xml:id="e47-m-1177" n="2">
+                                 
+                                 <syl xml:id="e47-m-1178" con="d" wordpos="i">at</syl>
+                                 </verse>
+                              </note>
+                           
+                           <note xml:id="e47-m-1165" dur="4" oct="3" pname="f" pnum="53">
+                              <!-- Ignored in performance  
+                      que
+                    -->
+                              
+                              <verse xml:id="e47-m-1226" n="1">
+                                 
+                                 <syl xml:id="e47-m-1227" con="d" wordpos="i">la</syl>
+                                 </verse>
+                              </note>
+                           
+                           <note xml:id="e47-m-1166" dur="4" oct="3" pname="e" pnum="52">
+                              
+                              <verse xml:id="e47-m-1228" n="1">
+                                 
+                                 <syl xml:id="e47-m-1229" con="d" wordpos="m">pi</syl>
+                                 </verse>
+                              </note>
+                           
+                           <note xml:id="e47-m-1167" dur="4" oct="3" pname="d" pnum="50"></note>
+                           
+                           <beam xml:id="e47-m-1170">
+                              
+                              <note xml:id="e47-m-1168" dur="8" oct="2" pname="b" pnum="46">
+                                 
+                                 <accid xml:id="e47-m-1169" accid.ges="f"></accid>
+                                 
+                                 <verse xml:id="e47-m-1232" n="2">
+                                    
+                                    <syl xml:id="e47-m-1233" con="d" wordpos="i">om</syl>
+                                    </verse>
+                                 </note>
+                              
+                              <note xml:id="e47-m-1171" dur="8" oct="3" pname="c" pnum="48"></note>
+                              
+                              <note xml:id="e47-m-1172" dur="8" oct="3" pname="d" pnum="50"></note>
+                              
+                              <note xml:id="e47-m-1173" dur="8" oct="3" pname="e" pnum="51">
+                                 
+                                 <accid xml:id="e47-m-1174" accid="f"></accid>
+                                 </note>
+                              </beam>
+                           </layer>
+                        </staff>
+                     </measure>
+                  
+                  <measure xml:id="e47-m-1181" n="24">
+                     
+                     <staff xml:id="e47-m-1182" n="1">
+                        
+                        <layer xml:id="e47-m-1183" n="1">
+                           
+                           <note xml:id="e47-m-1184" dur="1" oct="5" pname="c" pnum="72">
+                              <!-- Ignored in performance  
+                      ni
+                    -->
+                              
+                              <verse xml:id="e47-m-1193" n="1">
+                                 
+                                 <syl xml:id="e47-m-1194" con="d" wordpos="m">pi</syl>
+                                 </verse>
+                              </note>
+                           
+                           <note xml:id="e47-m-1185" dur="2" oct="4" pname="b" pnum="70">
+                              
+                              <accid xml:id="e47-m-1186" accid.ges="f"></accid>
+                              <!-- Ignored in performance  
+                      des,
+                    -->
+                              
+                              <verse xml:id="e47-m-1245" n="2">
+                                 
+                                 <syl xml:id="e47-m-1246" con="d" wordpos="i">tem</syl>
+                                 </verse>
+                              </note>
+                           </layer>
+                        </staff>
+                     
+                     <staff xml:id="e47-m-1197" n="2">
+                        
+                        <layer xml:id="e47-m-1198" n="1">
+                           
+                           <note xml:id="e47-m-1199" dur="1" oct="3" pname="a" pnum="57">
+                              <!-- Ignored in performance  
+                      ni
+                    -->
+                              
+                              <verse xml:id="e47-m-1208" n="1">
+                                 
+                                 <syl xml:id="e47-m-1209" con="d" wordpos="m">pi</syl>
+                                 </verse>
+                              </note>
+                           
+                           <note xml:id="e47-m-1200" dur="2" oct="3" pname="b" pnum="58">
+                              
+                              <accid xml:id="e47-m-1201" accid.ges="f"></accid>
+                              <!-- Ignored in performance  
+                      des,
+                    -->
+                              
+                              <verse xml:id="e47-m-1257" n="2">
+                                 
+                                 <syl xml:id="e47-m-1258" con="d" wordpos="i">tem</syl>
+                                 </verse>
+                              </note>
+                           </layer>
+                        </staff>
+                     
+                     <staff xml:id="e47-m-1212" n="3">
+                        
+                        <layer xml:id="e47-m-1213" n="1">
+                           
+                           <note xml:id="e47-m-1214" dur="4" oct="3" pname="f" pnum="53"></note>
+                           
+                           <note xml:id="e47-m-1215" dur="4" oct="3" pname="c" pnum="48"></note>
+                           
+                           <beam xml:id="e47-m-1217">
+                              
+                              <note xml:id="e47-m-1216" dur="8" oct="3" pname="f" pnum="53"></note>
+                              
+                              <note xml:id="e47-m-1218" dur="8" oct="3" pname="e" pnum="51">
+                                 
+                                 <accid xml:id="e47-m-1219" accid="f"></accid>
+                                 </note>
+                              </beam>
+                           
+                           <note xml:id="e47-m-1220" dur="4" oct="3" pname="d" pnum="50"></note>
+                           
+                           <beam xml:id="e47-m-1223">
+                              
+                              <note xml:id="e47-m-1221" dur="8" oct="3" pname="e" pnum="51">
+                                 
+                                 <accid xml:id="e47-m-1222" accid="f" func="caution"></accid>
+                                 <!-- Ignored in performance  
+                        des,
+                      -->
+                                 
+                                 <verse xml:id="e47-m-1234" n="2">
+                                    
+                                    <syl xml:id="e47-m-1235" con="u" wordpos="t">ni</syl>
+                                    </verse>
+                                 </note>
+                              
+                              <note xml:id="e47-m-1224" dur="8" oct="3" pname="f" pnum="53"></note>
+                              </beam>
+                           
+                           <note xml:id="e47-m-1225" dur="4" oct="3" pname="g" pnum="55"></note>
+                           </layer>
+                        </staff>
+                     </measure>
+                  
+                  <sb xml:id="e47-m-1237"></sb>
+                  
+                  <measure xml:id="e47-m-1236" n="25">
+                     
+                     <staff xml:id="e47-m-1238" n="1">
+                        
+                        <layer xml:id="e47-m-1239" n="1">
+                           
+                           <note xml:id="e47-m-1240" dur="1" oct="5" pname="c" pnum="72">
+                              <!-- Ignored in performance  
+                      hi
+                    -->
+                              
+                              <verse xml:id="e47-m-1247" n="2">
+                                 
+                                 <syl xml:id="e47-m-1248" con="d" wordpos="m">po</syl>
+                                 </verse>
+                              </note>
+                           
+                           <note xml:id="e47-m-1241" dur="2" oct="4" pname="b" pnum="70">
+                              
+                              <accid xml:id="e47-m-1242" accid.ges="f"></accid>
+                              <!-- Ignored in performance  
+                      re,
+                    -->
+                              
+                              <verse xml:id="e47-m-1286" n="1">
+                                 
+                                 <syl xml:id="e47-m-1287" con="d" wordpos="i">la</syl>
+                                 </verse>
+                              </note>
+                           </layer>
+                        </staff>
+                     
+                     <staff xml:id="e47-m-1251" n="2">
+                        
+                        <layer xml:id="e47-m-1252" n="1">
+                           
+                           <note xml:id="e47-m-1253" dur="1" oct="3" pname="a" pnum="57">
+                              <!-- Ignored in performance  
+                      hi
+                    -->
+                              
+                              <verse xml:id="e47-m-1259" n="2">
+                                 
+                                 <syl xml:id="e47-m-1260" con="d" wordpos="m">po</syl>
+                                 </verse>
+                              </note>
+                           
+                           <note xml:id="e47-m-1254" dur="2" oct="3" pname="g" pnum="55">
+                              <!-- Ignored in performance  
+                      re,
+                    -->
+                              
+                              <verse xml:id="e47-m-1301" n="1">
+                                 
+                                 <syl xml:id="e47-m-1302" con="d" wordpos="i">la</syl>
+                                 </verse>
+                              </note>
+                           </layer>
+                        </staff>
+                     
+                     <staff xml:id="e47-m-1263" n="3">
+                        
+                        <layer xml:id="e47-m-1264" n="1">
+                           
+                           <note xml:id="e47-m-1265" dots="1" dur="4" oct="3" pname="f" pnum="53">
+                              <!-- Ignored in performance  
+                      hi
+                    -->
+                              
+                              <verse xml:id="e47-m-1326" n="2">
+                                 
+                                 <syl xml:id="e47-m-1327" con="d" wordpos="i">tem</syl>
+                                 </verse>
+                              </note>
+                           
+                           <note xml:id="e47-m-1266" dur="8" oct="3" pname="e" pnum="51">
+                              
+                              <accid xml:id="e47-m-1267" accid="f"></accid>
+                              </note>
+                           
+                           <beam xml:id="e47-m-1269">
+                              
+                              <note xml:id="e47-m-1268" dur="8" oct="3" pname="c" pnum="48"></note>
+                              
+                              <note xml:id="e47-m-1270" dur="8" oct="3" pname="d" pnum="50"></note>
+                              
+                              <note xml:id="e47-m-1271" dur="8" oct="3" pname="e" pnum="51">
+                                 
+                                 <accid xml:id="e47-m-1272" accid.ges="f"></accid>
+                                 </note>
+                              
+                              <note xml:id="e47-m-1273" dur="8" oct="3" pname="d" pnum="50"></note>
+                              </beam>
+                           
+                           <beam xml:id="e47-m-1276">
+                              
+                              <note xml:id="e47-m-1274" dur="8" oct="3" pname="e" pnum="51">
+                                 
+                                 <accid xml:id="e47-m-1275" accid.ges="f"></accid>
+                                 
+                                 <verse xml:id="e47-m-1320" n="1">
+                                    
+                                    <syl xml:id="e47-m-1321" con="d" wordpos="i">la</syl>
+                                    </verse>
+                                 </note>
+                              
+                              <note xml:id="e47-m-1277" dur="8" oct="3" pname="f" pnum="53"></note>
+                              </beam>
+                           
+                           <note xml:id="e47-m-1278" dur="4" oct="3" pname="g" pnum="55"></note>
+                           </layer>
+                        </staff>
+                     </measure>
+                  
+                  <measure xml:id="e47-m-1281" n="26">
+                     
+                     <staff xml:id="e47-m-1282" n="1">
+                        
+                        <layer xml:id="e47-m-1283" n="1">
+                           
+                           <note xml:id="e47-m-1284" dur="1" oct="4" pname="a" pnum="69">
+                              <!-- Ignored in performance  
+                      pi
+                    -->
+                              
+                              <verse xml:id="e47-m-1292" n="2">
+                                 
+                                 <syl xml:id="e47-m-1293" con="d" wordpos="i">at</syl>
+                                 </verse>
+                              </note>
+                           
+                           <note xml:id="e47-m-1285" dur="2" oct="4" pname="g" pnum="67">
+                              <!-- Ignored in performance  
+                      des,
+                    -->
+                              
+                              <verse xml:id="e47-m-1294" n="2">
+                                 
+                                 <syl xml:id="e47-m-1295" wordpos="t">que</syl>
+                                 </verse>
+                              </note>
+                           </layer>
+                        </staff>
+                     
+                     <staff xml:id="e47-m-1296" n="2">
+                        
+                        <layer xml:id="e47-m-1297" n="1">
+                           
+                           <note xml:id="e47-m-1298" dur="1" oct="4" pname="c" pnum="60">
+                              <!-- Ignored in performance  
+                      pi
+                    -->
+                              
+                              <verse xml:id="e47-m-1307" n="2">
+                                 
+                                 <syl xml:id="e47-m-1308" con="d" wordpos="i">at</syl>
+                                 </verse>
+                              </note>
+                           
+                           <note xml:id="e47-m-1299" dur="2" oct="3" pname="b" pnum="58">
+                              
+                              <accid xml:id="e47-m-1300" accid.ges="f"></accid>
+                              <!-- Ignored in performance  
+                      des,
+                    -->
+                              
+                              <verse xml:id="e47-m-1309" n="2">
+                                 
+                                 <syl xml:id="e47-m-1310" wordpos="t">que</syl>
+                                 </verse>
+                              </note>
+                           </layer>
+                        </staff>
+                     
+                     <staff xml:id="e47-m-1311" n="3">
+                        
+                        <layer xml:id="e47-m-1312" n="1">
+                           
+                           <note xml:id="e47-m-1313" dur="4" oct="3" pname="f" pnum="53">
+                              <!-- Ignored in performance  
+                      pi
+                    -->
+                              
+                              <verse xml:id="e47-m-1328" n="2">
+                                 
+                                 <syl xml:id="e47-m-1329" con="d" wordpos="m">po</syl>
+                                 </verse>
+                              </note>
+                           
+                           <note xml:id="e47-m-1314" dur="4" oct="3" pname="c" pnum="48">
+                              <!-- Ignored in performance  
+                      des,
+                    -->
+                              
+                              <verse xml:id="e47-m-1330" n="2">
+                                 
+                                 <syl xml:id="e47-m-1331" wordpos="t">re,</syl>
+                                 </verse>
+                              </note>
+                           
+                           <note xml:id="e47-m-1315" dur="4" oct="3" pname="d" pnum="50">
+                              <!-- Ignored in performance  
+                      gra
+                    -->
+                              
+                              <verse xml:id="e47-m-1378" n="2">
+                                 
+                                 <syl xml:id="e47-m-1379" con="d" wordpos="i">om</syl>
+                                 </verse>
+                              </note>
+                           
+                           <note xml:id="e47-m-1316" dots="1" dur="4" oct="3" pname="e" pnum="51">
+                              
+                              <accid xml:id="e47-m-1317" accid="f"></accid>
+                              </note>
+                           
+                           <note xml:id="e47-m-1318" dur="8" oct="3" pname="f" pnum="53"></note>
+                           
+                           <note xml:id="e47-m-1319" dur="4" oct="3" pname="g" pnum="55"></note>
+                           </layer>
+                        </staff>
+                     
+                     <tie xmlns:mei="http://www.music-encoding.org/ns/mei" startid="#e47-m-1319" endid="#e47-m-1360"></tie>
+                     </measure>
+                  
+                  <measure xml:id="e47-m-1332" n="27">
+                     
+                     <staff xml:id="e47-m-1333" n="1">
+                        
+                        <layer xml:id="e47-m-1334" n="1">
+                           
+                           <note xml:id="e47-m-1335" dur="1" oct="4" pname="b" pnum="70">
+                              
+                              <accid xml:id="e47-m-1336" accid.ges="f"></accid>
+                              <!-- Ignored in performance  
+                      gra
+                    -->
+                              
+                              <verse xml:id="e47-m-1342" n="2">
+                                 
+                                 <syl xml:id="e47-m-1343" con="d" wordpos="i">om</syl>
+                                 </verse>
+                              </note>
+                           
+                           <note xml:id="e47-m-1337" dur="2" oct="4" pname="a" pnum="69">
+                              <!-- Ignored in performance  
+                      tis
+                    -->
+                              
+                              <verse xml:id="e47-m-1344" n="2">
+                                 
+                                 <syl xml:id="e47-m-1345" wordpos="t">ni</syl>
+                                 </verse>
+                              </note>
+                           </layer>
+                        </staff>
+                     
+                     <staff xml:id="e47-m-1346" n="2">
+                        
+                        <layer xml:id="e47-m-1347" n="1">
+                           
+                           <note xml:id="e47-m-1348" dur="1" oct="4" pname="d" pnum="62">
+                              <!-- Ignored in performance  
+                      gra
+                    -->
+                              
+                              <verse xml:id="e47-m-1354" n="2">
+                                 
+                                 <syl xml:id="e47-m-1355" con="d" wordpos="i">om</syl>
+                                 </verse>
+                              </note>
+                           
+                           <note xml:id="e47-m-1349" dur="2" oct="4" pname="c" pnum="60">
+                              <!-- Ignored in performance  
+                      tis
+                    -->
+                              
+                              <verse xml:id="e47-m-1356" n="2">
+                                 
+                                 <syl xml:id="e47-m-1357" wordpos="t">ni</syl>
+                                 </verse>
+                              </note>
+                           </layer>
+                        </staff>
+                     
+                     <staff xml:id="e47-m-1358" n="3">
+                        
+                        <layer xml:id="e47-m-1359" n="1">
+                           
+                           <note xmlns:mei="http://www.music-encoding.org/ns/mei" xml:id="e47-m-1360" dur="8" oct="3" pname="g" pnum="55"></note>
+                           
+                           <note xml:id="e47-m-1361" dur="8" oct="3" pname="f" pnum="53"></note>
+                           
+                           <note xml:id="e47-m-1362" dots="1" dur="4" oct="3" pname="d" pnum="50">
+                              <!-- Ignored in performance  
+                      tis
+                    -->
+                              
+                              <verse xml:id="e47-m-1380" n="2">
+                                 
+                                 <syl xml:id="e47-m-1381" wordpos="t">ni</syl>
+                                 </verse>
+                              </note>
+                           
+                           <note xml:id="e47-m-1363" dur="8" oct="3" pname="e" pnum="51">
+                              
+                              <accid xml:id="e47-m-1364" accid="f"></accid>
+                              <!-- Ignored in performance  
+                      qui
+                    -->
+                              
+                              <verse xml:id="e47-m-1417" n="2">
+                                 
+                                 <syl xml:id="e47-m-1418" con="d" wordpos="i">tem</syl>
+                                 </verse>
+                              </note>
+                           
+                           <beam xml:id="e47-m-1366">
+                              
+                              <note xml:id="e47-m-1365" dur="8" oct="3" pname="f" pnum="53"></note>
+                              
+                              <note xml:id="e47-m-1367" dur="8" oct="3" pname="g" pnum="55"></note>
+                              </beam>
+                           
+                           <beam xml:id="e47-m-1369">
+                              
+                              <note xml:id="e47-m-1368" dur="8" oct="3" pname="f" pnum="53"></note>
+                              
+                              <note xml:id="e47-m-1370" dur="8" oct="3" pname="e" pnum="51">
+                                 
+                                 <accid xml:id="e47-m-1371" accid="f" func="caution"></accid>
+                                 </note>
+                              
+                              <note xml:id="e47-m-1372" dur="8" oct="3" pname="d" pnum="50"></note>
+                              
+                              <note xml:id="e47-m-1373" dur="8" oct="3" pname="c" pnum="48"></note>
+                              </beam>
+                           </layer>
+                        </staff>
+                     </measure>
+                  
+                  <sb xml:id="e47-m-1385"></sb>
+                  
+                  <measure xml:id="e47-m-1384" n="28">
+                     
+                     <staff xml:id="e47-m-1386" n="1">
+                        
+                        <layer xml:id="e47-m-1387" n="1">
+                           
+                           <note xml:id="e47-m-1388" dur="1" oct="5" pname="f" pnum="77">
+                              <!-- Ignored in performance  
+                      qui
+                    -->
+                              
+                              <verse xml:id="e47-m-1434" n="2">
+                                 
+                                 <syl xml:id="e47-m-1435" con="d" wordpos="i">tem</syl>
+                                 </verse>
+                              </note>
+                           
+                           <note xml:id="e47-m-1389" dur="2" oct="5" pname="f" pnum="77">
+                              <!-- Ignored in performance  
+                      dan
+                    -->
+                              
+                              <verse xml:id="e47-m-1436" n="2">
+                                 
+                                 <syl xml:id="e47-m-1437" con="d" wordpos="m">po</syl>
+                                 </verse>
+                              </note>
+                           </layer>
+                        </staff>
+                     
+                     <staff xml:id="e47-m-1392" n="2">
+                        
+                        <layer xml:id="e47-m-1393" n="1">
+                           
+                           <note xml:id="e47-m-1394" dur="1" oct="3" pname="b" pnum="58">
+                              
+                              <accid xml:id="e47-m-1395" accid.ges="f"></accid>
+                              <!-- Ignored in performance  
+                      qui
+                    -->
+                              
+                              <verse xml:id="e47-m-1399" n="2">
+                                 
+                                 <syl xml:id="e47-m-1400" wordpos="i" con="d">temp</syl>
+                                 </verse>
+                              </note>
+                           
+                           <note xml:id="e47-m-1396" dur="2" oct="4" pname="c" pnum="60">
+                              <!-- Ignored in performance  
+                      dan
+                    -->
+                              
+                              <verse xml:id="e47-m-1450" n="2">
+                                 
+                                 <syl xml:id="e47-m-1451" con="d" wordpos="m">po</syl>
+                                 </verse>
+                              </note>
+                           </layer>
+                        </staff>
+                     
+                     <staff xml:id="e47-m-1401" n="3">
+                        
+                        <layer xml:id="e47-m-1402" n="1">
+                           
+                           <note xml:id="e47-m-1403" dur="4" oct="3" pname="d" pnum="50">
+                              <!-- Ignored in performance  
+                      dan
+                    -->
+                              
+                              <verse xml:id="e47-m-1419" n="2">
+                                 
+                                 <syl xml:id="e47-m-1420" con="d" wordpos="m">po</syl>
+                                 </verse>
+                              </note>
+                           
+                           <note xml:id="e47-m-1404" dur="4" oct="2" pname="b" pnum="46">
+                              
+                              <accid xml:id="e47-m-1405" accid.ges="f"></accid>
+                              <!-- Ignored in performance  
+                      tur
+                    -->
+                              
+                              <verse xml:id="e47-m-1421" n="2">
+                                 
+                                 <syl xml:id="e47-m-1422" wordpos="t">re,</syl>
+                                 </verse>
+                              </note>
+                           
+                           <note xml:id="e47-m-1406" dur="4" oct="3" pname="b" pnum="58">
+                              
+                              <accid xml:id="e47-m-1407" accid.ges="f"></accid>
+                              <!--
+        
+        this-pitch= 58 
+        last-pitch= 46
+        this-acc= f
+        last-acc= f-->
+                              <!-- Ignored in performance  
+                      quos
+                    -->
+                              
+                              <verse xml:id="e47-m-1536" n="1">
+                                 
+                                 <syl xml:id="e47-m-1537" con="d" wordpos="i">u</syl>
+                                 </verse>
+                              </note>
+                           
+                           <note xml:id="e47-m-1408" dur="4" oct="3" pname="a" pnum="57">
+                              
+                              <verse xml:id="e47-m-1542" n="2">
+                                 
+                                 <syl xml:id="e47-m-1543" con="d" wordpos="i">te</syl>
+                                 </verse>
+                              </note>
+                           
+                           <beam xml:id="e47-m-1410">
+                              
+                              <note xml:id="e47-m-1409" dur="8" oct="3" pname="f" pnum="53">
+                                 <!-- Ignored in performance  
+                        bit
+                      -->
+                                 
+                                 <verse xml:id="e47-m-1544" n="2">
+                                    
+                                    <syl xml:id="e47-m-1545" con="d" wordpos="m">ne</syl>
+                                    </verse>
+                                 </note>
+                              
+                              <note xml:id="e47-m-1411" dur="8" oct="3" pname="g" pnum="55"></note>
+                              </beam>
+                           
+                           <note xml:id="e47-m-1412" dur="4" oct="3" pname="a" pnum="57"></note>
+                           </layer>
+                        </staff>
+                     </measure>
+                  
+                  <measure xml:id="e47-m-1425" n="29">
+                     
+                     <staff xml:id="e47-m-1426" n="1">
+                        
+                        <layer xml:id="e47-m-1427" n="1">
+                           
+                           <note xml:id="e47-m-1428" dur="1" oct="5" pname="f" pnum="77">
+                              <!-- Ignored in performance  
+                      tur
+                    -->
+                              
+                              <verse xml:id="e47-m-1438" n="2">
+                                 
+                                 <syl xml:id="e47-m-1439" wordpos="t">re,</syl>
+                                 </verse>
+                              </note>
+                           
+                           <note xml:id="e47-m-1429" dur="2" oct="5" pname="e" pnum="76">
+                              <!-- Ignored in performance  
+                      quos
+                    -->
+                              
+                              <verse xml:id="e47-m-1489" n="1">
+                                 
+                                 <syl xml:id="e47-m-1490" con="d" wordpos="i">u</syl>
+                                 </verse>
+                              </note>
+                           </layer>
+                        </staff>
+                     
+                     <staff xml:id="e47-m-1442" n="2">
+                        
+                        <layer xml:id="e47-m-1443" n="1">
+                           
+                           <note xml:id="e47-m-1444" dur="1" oct="4" pname="d" pnum="62">
+                              <!-- Ignored in performance  
+                      tur
+                    -->
+                              
+                              <verse xml:id="e47-m-1452" n="2">
+                                 
+                                 <syl xml:id="e47-m-1453" wordpos="t">tur</syl>
+                                 </verse>
+                              </note>
+                           
+                           <note xml:id="e47-m-1445" dur="2" oct="4" pname="c" pnum="60">
+                              <!-- Ignored in performance  
+                      quos
+                    -->
+                              
+                              <verse xml:id="e47-m-1511" n="1">
+                                 
+                                 <syl xml:id="e47-m-1512" con="d" wordpos="i">u</syl>
+                                 </verse>
+                              </note>
+                           </layer>
+                        </staff>
+                     
+                     <staff xml:id="e47-m-1456" n="3">
+                        
+                        <layer xml:id="e47-m-1457" n="1">
+                           
+                           <beam xml:id="e47-m-1459">
+                              
+                              <note xml:id="e47-m-1458" dur="8" oct="3" pname="d" pnum="50">
+                                 
+                                 <verse xml:id="e47-m-1454y" n="1">
+                                    
+                                    <syl xml:id="e47-m-1455y" wordpos="m" con="d">&nbsp;</syl>
+                                    </verse>
+                                 
+                                 <verse xml:id="e47-m-1454x" n="2">
+                                    
+                                    <syl xml:id="e47-m-1455x" wordpos="m" con="d">&nbsp;</syl>
+                                    </verse>
+                                 </note>
+                              
+                              <note xml:id="e47-m-1460" dur="8" oct="3" pname="e" pnum="52"></note>
+                              
+                              <note xml:id="e47-m-1461" dur="8" oct="3" pname="f" pnum="53"></note>
+                              
+                              <note xml:id="e47-m-1462" dur="8" oct="3" pname="d" pnum="50"></note>
+                              </beam>
+                           
+                           <beam xml:id="e47-m-1464">
+                              
+                              <note xml:id="e47-m-1463" dur="8" oct="3" pname="f" pnum="53"></note>
+                              
+                              <note xml:id="e47-m-1465" dur="8" oct="3" pname="g" pnum="55"></note>
+                              
+                              <note xml:id="e47-m-1466" dur="8" oct="3" pname="a" pnum="57"></note>
+                              
+                              <note xml:id="e47-m-1467" dur="8" oct="3" pname="e" pnum="52"></note>
+                              </beam>
+                           
+                           <beam xml:id="e47-m-1469">
+                              
+                              <note xml:id="e47-m-1468" dur="8" oct="3" pname="a" pnum="57"></note>
+                              
+                              <note xml:id="e47-m-1470" dur="16" oct="4" pname="c" pnum="60"></note>
+                              
+                              <note xml:id="e47-m-1471" dur="16" oct="3" pname="b" pnum="58">
+                                 
+                                 <accid xml:id="e47-m-1472" accid.ges="f"></accid>
+                                 </note>
+                              </beam>
+                           
+                           <beam xml:id="e47-m-1474">
+                              
+                              <note xml:id="e47-m-1473" dur="8" oct="3" pname="a" pnum="57"></note>
+                              
+                              <note xml:id="e47-m-1475" dur="8" oct="3" pname="g" pnum="55"></note>
+                              </beam>
+                           </layer>
+                        </staff>
+                     </measure>
+                  
+                  <measure xml:id="e47-m-1476" metcon="false" n="30" right="end">
+                     
+                     <staff xml:id="e47-m-1477" n="1">
+                        
+                        <layer xml:id="e47-m-1478" n="1">
+                           
+                           <note xml:id="e47-m-1479" dur="1" oct="5" pname="d" pnum="74">
+                              <!-- Ignored in performance  
+                      bi
+                    -->
+                              
+                              <verse xml:id="e47-m-1495" n="2">
+                                 
+                                 <syl xml:id="e47-m-1496" con="d" wordpos="i">te</syl>
+                                 </verse>
+                              </note>
+                           
+                           <note xml:id="e47-m-1480" dur="2" oct="4" pname="b" pnum="71">
+                              
+                              <accid xml:id="e47-m-1481" accid="n"></accid>
+                              
+                              <verse xml:id="e47-m-1497" n="2">
+                                 
+                                 <syl xml:id="e47-m-1498" con="d" wordpos="m">ne</syl>
+                                 </verse>
+                              </note>
+                           
+                           <note xml:id="e47-m-1482" dur="1" oct="4" pname="b" pnum="71" fermata="above">
+                              <!-- DELETED -->
+                              <!--
+        
+        this-pitch= 71 
+        last-pitch= 71
+        this-acc= n
+        last-acc= n-->
+                              <!-- Ignored in performance  
+                      que
+                    -->
+                              
+                              <verse xml:id="e47-m-1499" n="2">
+                                 
+                                 <syl xml:id="e47-m-1500" wordpos="t">as.</syl>
+                                 </verse>
+                              </note>
+                           
+                           <space xml:id="e47-m-1485" dur="2" dur.ges="512p"></space>
+                           
+                           <space xml:id="e47-m-1486" dur="1" dur.ges="1024p"></space>
+                           
+                           <space xml:id="e47-m-1487" dur="2" dur.ges="512p"></space>
+                           
+                           <space xml:id="e47-m-1488" dur="4" dur.ges="256p"></space>
+                           </layer>
+                        </staff>
+                     
+                     <staff xml:id="e47-m-1501" n="2">
+                        
+                        <layer xml:id="e47-m-1502" n="1">
+                           
+                           <note xml:id="e47-m-1503" dur="1" oct="4" pname="d" pnum="62">
+                              <!-- Ignored in performance  
+                      bi
+                    -->
+                              
+                              <verse xml:id="e47-m-1517" n="2">
+                                 
+                                 <syl xml:id="e47-m-1518" con="d" wordpos="i">te</syl>
+                                 </verse>
+                              </note>
+                           
+                           <note xml:id="e47-m-1504" dur="2" oct="4" pname="d" pnum="62">
+                              
+                              <verse xml:id="e47-m-1519" n="2">
+                                 
+                                 <syl xml:id="e47-m-1520" con="d" wordpos="m">ne</syl>
+                                 </verse>
+                              </note>
+                           
+                           <note xml:id="e47-m-1505" dur="1" oct="4" pname="d" pnum="62" fermata="above">
+                              <!-- Ignored in performance  
+                      que
+                    -->
+                              
+                              <verse xml:id="e47-m-1521" n="2">
+                                 
+                                 <syl xml:id="e47-m-1522" wordpos="t">as.</syl>
+                                 </verse>
+                              </note>
+                           
+                           <space xml:id="e47-m-1507" dur="2" dur.ges="512p"></space>
+                           
+                           <space xml:id="e47-m-1508" dur="1" dur.ges="1024p"></space>
+                           
+                           <space xml:id="e47-m-1509" dur="2" dur.ges="512p"></space>
+                           
+                           <space xml:id="e47-m-1510" dur="4" dur.ges="256p"></space>
+                           </layer>
+                        </staff>
+                     
+                     <staff xml:id="e47-m-1523" n="3">
+                        
+                        <layer xml:id="e47-m-1524" n="1">
+                           
+                           <beam xml:id="e47-m-1527">
+                              
+                              <note xml:id="e47-m-1525" dur="8" oct="3" pname="f" pnum="54">
+                                 
+                                 <accid xml:id="e47-m-1526" accid="s"></accid>
+                                 </note>
+                              
+                              <note xml:id="e47-m-1528" dur="8" oct="3" pname="d" pnum="50"></note>
+                              
+                              <note xml:id="e47-m-1529" dur="8" oct="3" pname="b" pnum="59"></note>
+                              
+                              <note xml:id="e47-m-1531" dur="8" oct="3" pname="g" pnum="55"></note>
+                              </beam>
+                           
+                           <beam xml:id="e47-m-1533">
+                              
+                              <note xml:id="e47-m-1532" dur="8" oct="4" pname="d" pnum="62"></note>
+                              
+                              <note xml:id="e47-m-1534" dur="8" oct="3" pname="d" pnum="50"></note>
+                              </beam>
+                           
+                           <note xml:id="e47-m-1535" dur="long" oct="3" pname="g" pnum="55" stem.dir="down">
+                              <!-- Ignored in performance  
+                      que
+                    -->
+                              
+                              <verse xml:id="e47-m-1546" n="2">
+                                 
+                                 <syl xml:id="e47-m-1547" wordpos="t">as.</syl>
+                                 </verse>
+                              </note>
+                           </layer>
+                        </staff>
+                     </measure>
+                  </section>
+               </score>
+            </mdiv>
+         </body>
+      </music>
+   </mei>

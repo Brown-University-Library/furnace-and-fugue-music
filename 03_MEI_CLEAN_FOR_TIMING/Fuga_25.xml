@@ -1,0 +1,3392 @@
+<mei xmlns="http://www.music-encoding.org/ns/mei" xmlns:xlink="http://www.w3.org/1999/xlink" meiversion="3.0.0">
+   
+   <mei:meiHead xmlns:mei="http://www.music-encoding.org/ns/mei">
+      
+      <fileDesc>
+         
+         <titleStmt>
+            
+            <title>Atalanta Fugiens, music for Emblem 25</title>
+            
+            <respStmt>
+               
+               <persName>Robin Bier</persName>
+               
+               <persName>Patrick Rashleigh</persName>
+               </respStmt>
+            </titleStmt>
+         
+         <pubStmt>
+            
+            <availability>
+               
+               <useRestrict>Released under an open source license ...</useRestrict>
+               </availability>
+            </pubStmt>
+         </fileDesc>
+      
+      <encodingDesc></encodingDesc>
+      
+      <workDesc>
+         
+         <work>
+            
+            <titleStmt>
+               
+               <title></title>
+               
+               <respStmt></respStmt>
+               </titleStmt>
+            </work>
+         </workDesc>
+      </mei:meiHead>
+   
+   <music>
+      
+      <body>
+         
+         <mdiv>
+            
+            <score>
+               
+               <scoreDef meter.count="4" meter.unit="2" music.name="Opus Std" ppq="256">
+                  
+                  <staffGrp>
+                     
+                     <staffGrp n="1" symbol="bracket">
+                        
+                        <staffDef clef.line="2" clef.shape="G" key.mode="major" key.sig="1f" label="Atalanta fugiens." lines="5" n="1"></staffDef>
+                        
+                        <staffDef clef.line="2" clef.shape="G" key.mode="major" key.sig="1f" label="Pomum morans" lines="5" n="2" clef.dis="8" clef.dis.place="below"></staffDef>
+                        
+                        <staffDef clef.line="4" clef.shape="F" key.mode="major" key.sig="1f" label="Hippom sequens." lines="5" n="3"></staffDef>
+                        </staffGrp>
+                     </staffGrp>
+                  </scoreDef>
+               
+               <section>
+                  
+                  <sb xml:id="e25-m-40"></sb>
+                  
+                  <measure xml:id="e25-m-60" label="1" n="1">
+                     
+                     <staff xml:id="e25-m-61" n="1">
+                        
+                        <layer xml:id="e25-m-62" n="1">
+                           
+                           <rest xml:id="e25-m-63" dur="2"></rest>
+                           
+                           <note xml:id="e25-m-64" dur="4" oct="5" pname="d" pnum="74">
+                              
+                              <verse xml:id="e25-m-71" n="1">
+                                 
+                                 <syl xml:id="e25-m-72" con="d" wordpos="i">E</syl>
+                                 </verse>
+                              </note>
+                           
+                           <note xml:id="e25-m-65" dur="4" oct="5" pname="c" pnum="72">
+                              
+                              <verse xml:id="e25-m-73" n="1">
+                                 
+                                 <syl xml:id="e25-m-74" con="d" wordpos="m">xi</syl>
+                                 </verse>
+                              </note>
+                           
+                           <note xml:id="e25-m-66" dur="4" oct="4" pname="b" pnum="71">
+                              
+                              <accid xml:id="e25-m-67" accid="n"></accid>
+                              
+                              <verse xml:id="e25-m-75" n="1">
+                                 
+                                 <syl xml:id="e25-m-76" con="d" wordpos="m">gu</syl>
+                                 </verse>
+                              </note>
+                           
+                           <note xml:id="e25-m-68" dur="4" oct="4" pname="a" pnum="69"></note>
+                           
+                           <note xml:id="e25-m-69" dur="2" oct="4" pname="b" pnum="71">
+                              
+                              <accid xml:id="e25-m-70" accid="n" func="caution"></accid>
+                              
+                              <verse xml:id="e25-m-77" n="1">
+                                 
+                                 <syl xml:id="e25-m-78" wordpos="t">ae</syl>
+                                 </verse>
+                              </note>
+                           </layer>
+                        </staff>
+                     
+                     <staff xml:id="e25-m-79" n="2">
+                        
+                        <layer xml:id="e25-m-80" n="1">
+                           
+                           <note xml:id="e25-m-81" dur="1" oct="4" pname="d" pnum="62">
+                              
+                              <verse xml:id="e25-m-106" n="1">
+                                 
+                                 <syl xml:id="e25-m-107" con="d" wordpos="i">E</syl>
+                                 </verse>
+                              </note>
+                           
+                           <note xml:id="e25-m-82" dur="2" oct="4" pname="d" pnum="62">
+                              
+                              <verse xml:id="e25-m-108" n="1">
+                                 
+                                 <syl xml:id="e25-m-109" con="d" wordpos="m">xi</syl>
+                                 </verse>
+                              </note>
+                           
+                           <note xml:id="e25-m-83" dur="2" oct="4" pname="d" pnum="62">
+                              
+                              <verse xml:id="e25-m-110" n="1">
+                                 
+                                 <syl xml:id="e25-m-111" con="d" wordpos="m">gu</syl>
+                                 </verse>
+                              </note>
+                           </layer>
+                        </staff>
+                     
+                     <staff xml:id="e25-m-84" n="3">
+                        
+                        <layer xml:id="e25-m-85" n="1">
+                           
+                           <rest xml:id="e25-m-86" dur="1"></rest>
+                           
+                           <rest xml:id="e25-m-87" dur="2"></rest>
+                           
+                           <note xml:id="e25-m-88" dur="4" oct="3" pname="g" pnum="55">
+                              
+                              <verse xml:id="e25-m-124" n="1">
+                                 
+                                 <syl xml:id="e25-m-125" con="d" wordpos="i">E</syl>
+                                 </verse>
+                              </note>
+                           
+                           <note xml:id="e25-m-89" dur="4" oct="3" pname="f" pnum="53">
+                              
+                              <verse xml:id="e25-m-126" n="1">
+                                 
+                                 <syl xml:id="e25-m-127" con="d" wordpos="m">xi</syl>
+                                 </verse>
+                              </note>
+                           </layer>
+                        </staff>
+                     </measure>
+                  
+                  <measure xml:id="e25-m-90" n="2">
+                     
+                     <staff xml:id="e25-m-91" n="1">
+                        
+                        <layer xml:id="e25-m-92" n="1">
+                           
+                           <rest xml:id="e25-m-93" dur="2"></rest>
+                           
+                           <note xml:id="e25-m-94" dur="1" oct="5" pname="c" pnum="72">
+                              
+                              <verse xml:id="e25-m-97" n="1">
+                                 
+                                 <syl xml:id="e25-m-98" wordpos="i">est</syl>
+                                 </verse>
+                              </note>
+                           
+                           <note xml:id="e25-m-95" dur="2" oct="4" pname="b" pnum="70">
+                              
+                              <accid xml:id="e25-m-96" accid.ges="f"></accid>
+                              
+                              <verse xml:id="e25-m-99" n="1">
+                                 
+                                 <syl xml:id="e25-m-100" wordpos="i">non</syl>
+                                 </verse>
+                              </note>
+                           </layer>
+                        </staff>
+                     
+                     <staff xml:id="e25-m-101" n="2">
+                        
+                        <layer xml:id="e25-m-102" n="1">
+                           
+                           <note xml:id="e25-m-103" dur="1" oct="4" pname="c" pnum="60">
+                              
+                              <verse xml:id="e25-m-112" n="1">
+                                 
+                                 <syl xml:id="e25-m-113" wordpos="t">ae</syl>
+                                 </verse>
+                              </note>
+                           
+                           <note xml:id="e25-m-104" dur="2" oct="4" pname="d" pnum="62">
+                              
+                              <verse xml:id="e25-m-114" n="1">
+                                 
+                                 <syl xml:id="e25-m-115" wordpos="i">non</syl>
+                                 </verse>
+                              </note>
+                           
+                           <note xml:id="e25-m-105" dur="2" oct="4" pname="d" pnum="62">
+                              
+                              <verse xml:id="e25-m-157" n="1">
+                                 
+                                 <syl xml:id="e25-m-158" con="d" wordpos="i">est</syl>
+                                 </verse>
+                              </note>
+                           </layer>
+                        </staff>
+                     
+                     <staff xml:id="e25-m-116" n="3">
+                        
+                        <layer xml:id="e25-m-117" n="1">
+                           
+                           <note xml:id="e25-m-118" dur="4" oct="3" pname="e" pnum="52">
+                              
+                              <verse xml:id="e25-m-128" n="1">
+                                 
+                                 <syl xml:id="e25-m-129" con="d" wordpos="m">gu</syl>
+                                 </verse>
+                              </note>
+                           
+                           <note xml:id="e25-m-119" dur="4" oct="3" pname="d" pnum="50"></note>
+                           
+                           <note xml:id="e25-m-120" dur="2" oct="3" pname="e" pnum="52">
+                              
+                              <verse xml:id="e25-m-130" n="1">
+                                 
+                                 <syl xml:id="e25-m-131" wordpos="t">ae</syl>
+                                 </verse>
+                              </note>
+                           
+                           <rest xml:id="e25-m-121" dur="2"></rest>
+                           
+                           <note xml:id="e25-m-122" dur="2" oct="3" pname="f" pnum="53">
+                              
+                              <verse xml:id="e25-m-132" n="1">
+                                 
+                                 <syl xml:id="e25-m-133" wordpos="i">est</syl>
+                                 </verse>
+                              </note>
+                           </layer>
+                        </staff>
+                     
+                     <tie xml:id="e25-m-123" endid="#m-163" startid="#m-122"></tie>
+                     
+                     <tie xmlns:mei="http://www.music-encoding.org/ns/mei" startid="#e25-m-122" endid="#e25-m-163"></tie>
+                     </measure>
+                  
+                  <measure xml:id="e25-m-134" n="3">
+                     
+                     <staff xml:id="e25-m-135" n="1">
+                        
+                        <layer xml:id="e25-m-136" n="1">
+                           
+                           <note xml:id="e25-m-137" dur="2" oct="4" pname="a" pnum="69">
+                              
+                              <verse xml:id="e25-m-144" n="1">
+                                 
+                                 <syl xml:id="e25-m-145" con="d" wordpos="i">ar</syl>
+                                 </verse>
+                              </note>
+                           
+                           <note xml:id="e25-m-138" dur="4" oct="4" pname="g" pnum="67">
+                              
+                              <verse xml:id="e25-m-146" n="1">
+                                 
+                                 <syl xml:id="e25-m-147" con="u" wordpos="t">tis</syl>
+                                 </verse>
+                              </note>
+                           
+                           <note xml:id="e25-m-139" dur="4" oct="4" pname="a" pnum="69"></note>
+                           
+                           <note xml:id="e25-m-140" dots="1" dur="4" oct="4" pname="b" pnum="70">
+                              
+                              <accid xml:id="e25-m-141" accid.ges="f"></accid>
+                              
+                              <verse xml:id="e25-m-148" n="1">
+                                 
+                                 <syl xml:id="e25-m-149" con="d" wordpos="i">o</syl>
+                                 </verse>
+                              </note>
+                           
+                           <note xml:id="e25-m-142" dur="8" oct="4" pname="a" pnum="69"></note>
+                           
+                           <note xml:id="e25-m-143" dur="2" oct="4" pname="g" pnum="67">
+                              
+                              <verse xml:id="e25-m-150" n="1">
+                                 
+                                 <syl xml:id="e25-m-151" wordpos="t">pus,</syl>
+                                 </verse>
+                              </note>
+                           </layer>
+                        </staff>
+                     
+                     <staff xml:id="e25-m-152" n="2">
+                        
+                        <layer xml:id="e25-m-153" n="1">
+                           
+                           <note xml:id="e25-m-154" dur="1" oct="4" pname="c" pnum="60">
+                              
+                              <verse xml:id="e25-m-159" n="1">
+                                 
+                                 <syl xml:id="e25-m-160" wordpos="i" con="d">ar</syl>
+                                 </verse>
+                              </note>
+                           
+                           <note xml:id="e25-m-155" dur="2" oct="3" pname="b" pnum="58">
+                              
+                              <accid xml:id="e25-m-156" accid.ges="f"></accid>
+                              
+                              <verse xml:id="e25-m-194" n="1">
+                                 
+                                 <syl xml:id="e25-m-195" con="d" wordpos="i">tis</syl>
+                                 </verse>
+                              </note>
+                           
+                           <note xml:id="e25-m-155x" dur="2" oct="3" pname="b" pnum="58">
+                              <!-- DELETED -->
+                              <!--
+        
+        this-pitch= 58 
+        last-pitch= 58
+        this-acc= f
+        last-acc= f-->
+                              
+                              <verse xml:id="e25-m-194x" n="1">
+                                 
+                                 <syl xml:id="e25-m-195x" con="d" wordpos="i">o</syl>
+                                 </verse>
+                              </note>
+                           </layer>
+                        </staff>
+                     
+                     <staff xml:id="e25-m-161" n="3">
+                        
+                        <layer xml:id="e25-m-162" n="1">
+                           
+                           <note xmlns:mei="http://www.music-encoding.org/ns/mei" xml:id="e25-m-163" dur="2" oct="3" pname="f" pnum="53"></note>
+                           
+                           <note xml:id="e25-m-164" dur="2" oct="3" pname="e" pnum="51">
+                              
+                              <accid xml:id="e25-m-165" accid="f"></accid>
+                              
+                              <verse xml:id="e25-m-169" n="1">
+                                 
+                                 <syl xml:id="e25-m-170" wordpos="i">non</syl>
+                                 </verse>
+                              </note>
+                           
+                           <note xml:id="e25-m-166" dur="2" oct="3" pname="d" pnum="50">
+                              
+                              <verse xml:id="e25-m-171" n="1">
+                                 
+                                 <syl xml:id="e25-m-172" con="d" wordpos="i">ar</syl>
+                                 </verse>
+                              </note>
+                           
+                           <note xml:id="e25-m-167" dur="4" oct="3" pname="c" pnum="48">
+                              
+                              <verse xml:id="e25-m-173" n="1">
+                                 
+                                 <syl xml:id="e25-m-174" con="u" wordpos="t">tis</syl>
+                                 </verse>
+                              </note>
+                           
+                           <note xml:id="e25-m-168" dur="4" oct="3" pname="d" pnum="50"></note>
+                           </layer>
+                        </staff>
+                     </measure>
+                  
+                  <sb xml:id="e25-m-176"></sb>
+                  
+                  <measure xml:id="e25-m-175" n="4">
+                     
+                     <staff xml:id="e25-m-177" n="1">
+                        
+                        <layer xml:id="e25-m-178" n="1">
+                           
+                           <rest xml:id="e25-m-179" dur="2"></rest>
+                           
+                           <note xml:id="e25-m-180" dur="2" oct="5" pname="c" pnum="72">
+                              
+                              <verse xml:id="e25-m-184" n="1">
+                                 
+                                 <syl xml:id="e25-m-185" con="d" wordpos="i">stra</syl>
+                                 </verse>
+                              </note>
+                           
+                           <note xml:id="e25-m-181" dur="2" oct="4" pname="b" pnum="70">
+                              
+                              <accid xml:id="e25-m-182" accid.ges="f"></accid>
+                              
+                              <verse xml:id="e25-m-186" n="1">
+                                 
+                                 <syl xml:id="e25-m-187" con="d" wordpos="m">vis</syl>
+                                 </verse>
+                              </note>
+                           
+                           <note xml:id="e25-m-183" dur="2" oct="4" pname="a" pnum="69">
+                              
+                              <verse xml:id="e25-m-188" n="1">
+                                 
+                                 <syl xml:id="e25-m-189" wordpos="t">se</syl>
+                                 </verse>
+                              </note>
+                           </layer>
+                        </staff>
+                     
+                     <staff xml:id="e25-m-190" n="2">
+                        
+                        <layer xml:id="e25-m-191" n="1">
+                           
+                           <note xml:id="e25-m-192" dur="1" oct="4" pname="c" pnum="60">
+                              
+                              <verse xml:id="e25-m-196" n="1">
+                                 
+                                 <syl xml:id="e25-m-197" wordpos="t">pus</syl>
+                                 </verse>
+                              </note>
+                           
+                           <note xml:id="e25-m-193" dur="1" oct="4" pname="d" pnum="62">
+                              
+                              <verse xml:id="e25-m-230" n="1">
+                                 
+                                 <syl xml:id="e25-m-231" con="d" wordpos="i">stra</syl>
+                                 </verse>
+                              </note>
+                           </layer>
+                        </staff>
+                     
+                     <staff xml:id="e25-m-198" n="3">
+                        
+                        <layer xml:id="e25-m-199" n="1">
+                           
+                           <note xml:id="e25-m-200" dots="1" dur="4" oct="3" pname="e" pnum="51">
+                              
+                              <accid xml:id="e25-m-201" accid="f"></accid>
+                              
+                              <verse xml:id="e25-m-206" n="1">
+                                 
+                                 <syl xml:id="e25-m-207" con="d" wordpos="i">o</syl>
+                                 </verse>
+                              </note>
+                           
+                           <note xml:id="e25-m-202" dur="8" oct="3" pname="d" pnum="50"></note>
+                           
+                           <note xml:id="e25-m-203" dur="2" oct="3" pname="c" pnum="48">
+                              
+                              <verse xml:id="e25-m-208" n="1">
+                                 
+                                 <syl xml:id="e25-m-209" wordpos="t">pus</syl>
+                                 </verse>
+                              </note>
+                           
+                           <rest xml:id="e25-m-204" dur="2"></rest>
+                           
+                           <note xml:id="e25-m-205" dur="2" oct="3" pname="f" pnum="53">
+                              
+                              <verse xml:id="e25-m-244" n="1">
+                                 
+                                 <syl xml:id="e25-m-245" con="d" wordpos="i">stra</syl>
+                                 </verse>
+                              </note>
+                           </layer>
+                        </staff>
+                     </measure>
+                  
+                  <measure xml:id="e25-m-210" n="5">
+                     
+                     <staff xml:id="e25-m-211" n="1">
+                        
+                        <layer xml:id="e25-m-212" n="1">
+                           
+                           <note xml:id="e25-m-213" dur="2" oct="4" pname="g" pnum="67">
+                              
+                              <verse xml:id="e25-m-218" n="1">
+                                 
+                                 <syl xml:id="e25-m-219" con="d" wordpos="i">Dra</syl>
+                                 </verse>
+                              </note>
+                           
+                           <note xml:id="e25-m-214" dur="2" oct="4" pname="b" pnum="70">
+                              
+                              <accid xml:id="e25-m-215" accid.ges="f"></accid>
+                              
+                              <verse xml:id="e25-m-220" n="1">
+                                 
+                                 <syl xml:id="e25-m-221" con="d" wordpos="m">co</syl>
+                                 </verse>
+                              </note>
+                           
+                           <note xml:id="e25-m-216" dur="2" oct="4" pname="a" pnum="69">
+                              
+                              <verse xml:id="e25-m-222" n="1">
+                                 
+                                 <syl xml:id="e25-m-223" wordpos="t">nem</syl>
+                                 </verse>
+                              </note>
+                           
+                           <note xml:id="e25-m-217" dur="2" oct="5" pname="c" pnum="72">
+                              
+                              <verse xml:id="e25-m-296" n="1">
+                                 
+                                 <syl xml:id="e25-m-297" con="d" wordpos="i">Fu</syl>
+                                 </verse>
+                              </note>
+                           </layer>
+                        </staff>
+                     
+                     <staff xml:id="e25-m-224" n="2">
+                        
+                        <layer xml:id="e25-m-225" n="1">
+                           
+                           <note xml:id="e25-m-226" dur="1" oct="3" pname="b" pnum="58">
+                              
+                              <accid xml:id="e25-m-227" accid.ges="f"></accid>
+                              
+                              <verse xml:id="e25-m-232" n="1">
+                                 
+                                 <syl xml:id="e25-m-233" con="d" wordpos="m">vis</syl>
+                                 </verse>
+                              </note>
+                           
+                           <note xml:id="e25-m-228" dur="2" oct="4" pname="c" pnum="60">
+                              
+                              <verse xml:id="e25-m-234" n="1">
+                                 
+                                 <syl xml:id="e25-m-235" wordpos="t">se</syl>
+                                 </verse>
+                              </note>
+                           
+                           <note xml:id="e25-m-229" dur="2" oct="4" pname="c" pnum="60">
+                              
+                              <verse xml:id="e25-m-267" n="1">
+                                 
+                                 <syl xml:id="e25-m-268" con="d" wordpos="i">Dra</syl>
+                                 </verse>
+                              </note>
+                           </layer>
+                        </staff>
+                     
+                     <staff xml:id="e25-m-236" n="3">
+                        
+                        <layer xml:id="e25-m-237" n="1">
+                           
+                           <note xml:id="e25-m-238" dur="2" oct="3" pname="e" pnum="51">
+                              
+                              <accid xml:id="e25-m-239" accid="f"></accid>
+                              
+                              <verse xml:id="e25-m-246" n="1">
+                                 
+                                 <syl xml:id="e25-m-247" con="d" wordpos="m">vis</syl>
+                                 </verse>
+                              </note>
+                           
+                           <note xml:id="e25-m-240" dur="2" oct="3" pname="d" pnum="50">
+                              
+                              <verse xml:id="e25-m-248" n="1">
+                                 
+                                 <syl xml:id="e25-m-249" wordpos="t">se</syl>
+                                 </verse>
+                              </note>
+                           
+                           <note xml:id="e25-m-241" dur="2" oct="3" pname="c" pnum="48">
+                              
+                              <verse xml:id="e25-m-281" n="1">
+                                 
+                                 <syl xml:id="e25-m-282" con="d" wordpos="i">Dra</syl>
+                                 </verse>
+                              </note>
+                           
+                           <note xml:id="e25-m-242" dur="2" oct="3" pname="e" pnum="51">
+                              
+                              <accid xml:id="e25-m-243" accid="f" func="caution"></accid>
+                              
+                              <verse xml:id="e25-m-283" n="1">
+                                 
+                                 <syl xml:id="e25-m-284" con="d" wordpos="m">co</syl>
+                                 </verse>
+                              </note>
+                           </layer>
+                        </staff>
+                     
+                     <tie xmlns:mei="http://www.music-encoding.org/ns/mei" startid="#e25-m-217" endid="#e25-m-253"></tie>
+                     </measure>
+                  
+                  <measure xml:id="e25-m-250" n="6">
+                     
+                     <staff xml:id="e25-m-251" n="1">
+                        
+                        <layer xml:id="e25-m-252" n="1">
+                           
+                           <note xmlns:mei="http://www.music-encoding.org/ns/mei" xml:id="e25-m-253" dur="4" oct="5" pname="c" pnum="72"></note>
+                           
+                           <note xml:id="e25-m-254" dur="4" oct="4" pname="b" pnum="70">
+                              
+                              <accid xml:id="e25-m-255" accid.ges="f"></accid>
+                              
+                              <verse xml:id="e25-m-298" n="1">
+                                 
+                                 <syl xml:id="e25-m-299" con="d" wordpos="m">ne</syl>
+                                 </verse>
+                              </note>
+                           
+                           <note xml:id="e25-m-256" dur="4" oct="4" pname="a" pnum="69"></note>
+                           
+                           <note xml:id="e25-m-257" dur="4" oct="4" pname="g" pnum="67"></note>
+                           
+                           <note xml:id="e25-m-258" dur="4" oct="4" pname="f" pnum="65"></note>
+                           
+                           <note xml:id="e25-m-259" dur="2" oct="4" pname="g" pnum="67"></note>
+                           
+                           <note xml:id="e25-m-260" dur="4" oct="4" pname="f" pnum="66">
+                              
+                              <accid xml:id="e25-m-261" accid="s"></accid>
+                              </note>
+                           </layer>
+                        </staff>
+                     
+                     <staff xml:id="e25-m-262" n="2">
+                        
+                        <layer xml:id="e25-m-263" n="1">
+                           
+                           <note xml:id="e25-m-264" dur="2" oct="4" pname="d" pnum="62">
+                              
+                              <verse xml:id="e25-m-269" n="1">
+                                 
+                                 <syl xml:id="e25-m-270" con="d" wordpos="m">co</syl>
+                                 </verse>
+                              </note>
+                           
+                           <note xml:id="e25-m-265" dur="2" oct="4" pname="d" pnum="62">
+                              
+                              <verse xml:id="e25-m-271" n="1">
+                                 
+                                 <syl xml:id="e25-m-272" wordpos="t">nem</syl>
+                                 </verse>
+                              </note>
+                           
+                           <note xml:id="e25-m-266" dur="1" oct="3" pname="a" pnum="57">
+                              
+                              <verse xml:id="e25-m-309" n="1">
+                                 
+                                 <syl xml:id="e25-m-310" con="d" wordpos="i">Fu</syl>
+                                 </verse>
+                              </note>
+                           </layer>
+                        </staff>
+                     
+                     <staff xml:id="e25-m-273" n="3">
+                        
+                        <layer xml:id="e25-m-274" n="1">
+                           
+                           <note xml:id="e25-m-275" dur="2" oct="3" pname="d" pnum="50">
+                              
+                              <verse xml:id="e25-m-285" n="1">
+                                 
+                                 <syl xml:id="e25-m-286" wordpos="t">nem</syl>
+                                 </verse>
+                              </note>
+                           
+                           <note xml:id="e25-m-276" dots="1" dur="2" oct="3" pname="f" pnum="53">
+                              
+                              <verse xml:id="e25-m-326" n="1">
+                                 
+                                 <syl xml:id="e25-m-327" con="d" wordpos="i">Fu</syl>
+                                 </verse>
+                              </note>
+                           
+                           <note xml:id="e25-m-277" dur="4" oct="3" pname="e" pnum="51">
+                              
+                              <accid xml:id="e25-m-278" accid="f"></accid>
+                              
+                              <verse xml:id="e25-m-328" n="1">
+                                 
+                                 <syl xml:id="e25-m-329" con="d" wordpos="m">ne</syl>
+                                 </verse>
+                              </note>
+                           
+                           <note xml:id="e25-m-279" dur="4" oct="3" pname="d" pnum="50"></note>
+                           
+                           <note xml:id="e25-m-280" dur="4" oct="3" pname="c" pnum="48"></note>
+                           </layer>
+                        </staff>
+                     </measure>
+                  
+                  <measure xml:id="e25-m-287" n="7">
+                     
+                     <staff xml:id="e25-m-288" n="1">
+                        
+                        <layer xml:id="e25-m-289" n="1">
+                           
+                           <note xml:id="e25-m-290" dur="2" oct="4" pname="g" pnum="67">
+                              
+                              <verse xml:id="e25-m-300" n="1">
+                                 
+                                 <syl xml:id="e25-m-301" wordpos="t">re,</syl>
+                                 </verse>
+                              </note>
+                           
+                           <note xml:id="e25-m-291" dur="2" oct="4" pname="g" pnum="67">
+                              
+                              <verse xml:id="e25-m-302" n="1">
+                                 
+                                 <syl xml:id="e25-m-303" wordpos="i">ne</syl>
+                                 </verse>
+                              </note>
+                           
+                           <note xml:id="e25-m-292" dots="1" dur="2" oct="4" pname="e" pnum="64">
+                              
+                              <verse xml:id="e25-m-342" n="1">
+                                 
+                                 <syl xml:id="e25-m-343" con="d" wordpos="i">ser</syl>
+                                 </verse>
+                              </note>
+                           
+                           <beam xml:id="e25-m-294">
+                              
+                              <note xml:id="e25-m-293" dur="8" oct="4" pname="f" pnum="65"></note>
+                              
+                              <note xml:id="e25-m-295" dur="8" oct="4" pname="g" pnum="67"></note>
+                              </beam>
+                           </layer>
+                        </staff>
+                     
+                     <staff xml:id="e25-m-304" n="2">
+                        
+                        <layer xml:id="e25-m-305" n="1">
+                           
+                           <note xml:id="e25-m-306" dur="2" oct="3" pname="g" pnum="55">
+                              
+                              <verse xml:id="e25-m-311" n="1">
+                                 
+                                 <syl xml:id="e25-m-312" con="d" wordpos="m">ne</syl>
+                                 </verse>
+                              </note>
+                           
+                           <note xml:id="e25-m-307" dur="2" oct="3" pname="g" pnum="55">
+                              
+                              <verse xml:id="e25-m-313" n="1">
+                                 
+                                 <syl xml:id="e25-m-314" wordpos="t">re,</syl>
+                                 </verse>
+                              </note>
+                           
+                           <note xml:id="e25-m-308" dur="1" oct="3" pname="a" pnum="57">
+                              
+                              <verse xml:id="e25-m-315" n="1">
+                                 
+                                 <syl xml:id="e25-m-316" wordpos="i">ne</syl>
+                                 </verse>
+                              </note>
+                           </layer>
+                        </staff>
+                     
+                     <staff xml:id="e25-m-317" n="3">
+                        
+                        <layer xml:id="e25-m-318" n="1">
+                           
+                           <note xml:id="e25-m-319" dur="4" oct="2" pname="b" pnum="47">
+                              
+                              <accid xml:id="e25-m-320" accid="n"></accid>
+                              </note>
+                           
+                           <note xml:id="e25-m-321" dur="2" oct="3" pname="c" pnum="48"></note>
+                           
+                           <note xml:id="e25-m-322" dur="4" oct="2" pname="b" pnum="47"></note>
+                           
+                           <note xml:id="e25-m-324" dur="2" oct="3" pname="c" pnum="48">
+                              
+                              <verse xml:id="e25-m-330" n="1">
+                                 
+                                 <syl xml:id="e25-m-331" wordpos="t">re,</syl>
+                                 </verse>
+                              </note>
+                           
+                           <note xml:id="e25-m-325" dur="2" oct="3" pname="c" pnum="48">
+                              
+                              <verse xml:id="e25-m-332" n="1">
+                                 
+                                 <syl xml:id="e25-m-333" wordpos="i">ne</syl>
+                                 </verse>
+                              </note>
+                           </layer>
+                        </staff>
+                     </measure>
+                  
+                  <sb xml:id="e25-m-335"></sb>
+                  
+                  <measure xml:id="e25-m-334" n="8">
+                     
+                     <staff xml:id="e25-m-336" n="1">
+                        
+                        <layer xml:id="e25-m-337" n="1">
+                           
+                           <note xml:id="e25-m-338" dur="2" oct="4" pname="a" pnum="69"></note>
+                           
+                           <note xml:id="e25-m-339" dur="2" oct="4" pname="a" pnum="69">
+                              
+                              <verse xml:id="e25-m-344" n="1">
+                                 
+                                 <syl xml:id="e25-m-345" wordpos="t">pat</syl>
+                                 </verse>
+                              </note>
+                           
+                           <note xml:id="e25-m-340" dur="2" oct="4" pname="a" pnum="69">
+                              
+                              <verse xml:id="e25-m-346" n="1">
+                                 
+                                 <syl xml:id="e25-m-347" wordpos="i">mox</syl>
+                                 </verse>
+                              </note>
+                           
+                           <note xml:id="e25-m-341" dur="2" oct="4" pname="g" pnum="67">
+                              
+                              <verse xml:id="e25-m-381" n="1">
+                                 
+                                 <syl xml:id="e25-m-382" con="d" wordpos="i">re</syl>
+                                 </verse>
+                              </note>
+                           </layer>
+                        </staff>
+                     
+                     <staff xml:id="e25-m-348" n="2">
+                        
+                        <layer xml:id="e25-m-349" n="1">
+                           
+                           <note xml:id="e25-m-350" dur="1" oct="4" pname="c" pnum="60">
+                              
+                              <verse xml:id="e25-m-353" n="1">
+                                 
+                                 <syl xml:id="e25-m-354" con="d" wordpos="i">ser</syl>
+                                 </verse>
+                              </note>
+                           
+                           <note xml:id="e25-m-351" dur="1" oct="3" pname="b" pnum="58">
+                              
+                              <accid xml:id="e25-m-352" accid.ges="f"></accid>
+                              
+                              <verse xml:id="e25-m-355" n="1">
+                                 
+                                 <syl xml:id="e25-m-356" wordpos="t">pat</syl>
+                                 </verse>
+                              </note>
+                           </layer>
+                        </staff>
+                     
+                     <staff xml:id="e25-m-357" n="3">
+                        
+                        <layer xml:id="e25-m-358" n="1">
+                           
+                           <note xml:id="e25-m-359" dots="1" dur="2" oct="2" pname="a" pnum="45">
+                              
+                              <verse xml:id="e25-m-366" n="1">
+                                 
+                                 <syl xml:id="e25-m-367" con="d" wordpos="i">ser</syl>
+                                 </verse>
+                              </note>
+                           
+                           <beam xml:id="e25-m-362">
+                              
+                              <note xml:id="e25-m-360" dur="8" oct="2" pname="b" pnum="46">
+                                 
+                                 <accid xml:id="e25-m-361" accid.ges="f"></accid>
+                                 </note>
+                              
+                              <note xml:id="e25-m-363" dur="8" oct="3" pname="c" pnum="48"></note>
+                              </beam>
+                           
+                           <note xml:id="e25-m-364" dur="2" oct="3" pname="d" pnum="50"></note>
+                           
+                           <note xml:id="e25-m-365" dur="2" oct="3" pname="d" pnum="50">
+                              
+                              <verse xml:id="e25-m-368" n="1">
+                                 
+                                 <syl xml:id="e25-m-369" wordpos="t">pat</syl>
+                                 </verse>
+                              </note>
+                           </layer>
+                        </staff>
+                     </measure>
+                  
+                  <measure xml:id="e25-m-370" n="9">
+                     
+                     <staff xml:id="e25-m-371" n="1">
+                        
+                        <layer xml:id="e25-m-372" n="1">
+                           
+                           <note xml:id="e25-m-373" dur="4" oct="4" pname="f" pnum="65">
+                              
+                              <verse xml:id="e25-m-383" n="1">
+                                 
+                                 <syl xml:id="e25-m-384" con="d" wordpos="m">di</syl>
+                                 </verse>
+                              </note>
+                           
+                           <note xml:id="e25-m-374" dots="1" dur="4" oct="4" pname="d" pnum="62">
+                              
+                              <verse xml:id="e25-m-385" n="1">
+                                 
+                                 <syl xml:id="e25-m-386" con="d" wordpos="m">vi</syl>
+                                 </verse>
+                              </note>
+                           
+                           <note xml:id="e25-m-375" dur="8" oct="4" pname="e" pnum="64"></note>
+                           
+                           <note xml:id="e25-m-376" dur="4" oct="4" pname="f" pnum="65"></note>
+                           
+                           <note xml:id="e25-m-377" dur="2" oct="4" pname="g" pnum="67">
+                              
+                              <verse xml:id="e25-m-387" n="1">
+                                 
+                                 <syl xml:id="e25-m-388" wordpos="t">vus</syl>
+                                 </verse>
+                              </note>
+                           
+                           <rest xml:id="e25-m-378" dur="4"></rest>
+                           
+                           <note xml:id="e25-m-379" dur="4" oct="4" pname="g" pnum="67">
+                              
+                              <verse xml:id="e25-m-465" n="1">
+                                 
+                                 <syl xml:id="e25-m-466" con="d" wordpos="i">hu</syl>
+                                 </verse>
+                              </note>
+                           </layer>
+                        </staff>
+                     
+                     <staff xml:id="e25-m-389" n="2">
+                        
+                        <layer xml:id="e25-m-390" n="1">
+                           
+                           <note xml:id="e25-m-391" dur="1" oct="3" pname="a" pnum="57">
+                              
+                              <verse xml:id="e25-m-396" n="1">
+                                 
+                                 <syl xml:id="e25-m-397" wordpos="i">mox</syl>
+                                 </verse>
+                              </note>
+                           
+                           <note xml:id="e25-m-392" dur="2" oct="3" pname="b" pnum="58">
+                              
+                              <accid xml:id="e25-m-393" accid.ges="f"></accid>
+                              
+                              <verse xml:id="e25-m-430" n="1">
+                                 
+                                 <syl xml:id="e25-m-431" con="d" wordpos="i">re</syl>
+                                 </verse>
+                              </note>
+                           
+                           <note xml:id="e25-m-394" dur="2" oct="3" pname="b" pnum="58">
+                              <!-- DELETED -->
+                              <!--
+        
+        this-pitch= 58 
+        last-pitch= 58
+        this-acc= f
+        last-acc= f-->
+                              
+                              <verse xml:id="e25-m-432" n="1">
+                                 
+                                 <syl xml:id="e25-m-433" con="d" wordpos="m">di</syl>
+                                 </verse>
+                              </note>
+                           </layer>
+                        </staff>
+                     
+                     <staff xml:id="e25-m-398" n="3">
+                        
+                        <layer xml:id="e25-m-399" n="1">
+                           
+                           <note xml:id="e25-m-400" dur="2" oct="3" pname="d" pnum="50">
+                              
+                              <verse xml:id="e25-m-408" n="1">
+                                 
+                                 <syl xml:id="e25-m-409" wordpos="i">mox</syl>
+                                 </verse>
+                              </note>
+                           
+                           <note xml:id="e25-m-401" dur="2" oct="3" pname="c" pnum="48">
+                              
+                              <verse xml:id="e25-m-453" n="1">
+                                 
+                                 <syl xml:id="e25-m-454" con="d" wordpos="i">re</syl>
+                                 </verse>
+                              </note>
+                           
+                           <note xml:id="e25-m-402" dur="4" oct="2" pname="b" pnum="46">
+                              
+                              <accid xml:id="e25-m-403" accid.ges="f"></accid>
+                              
+                              <verse xml:id="e25-m-455" n="1">
+                                 
+                                 <syl xml:id="e25-m-456" con="d" wordpos="m">di</syl>
+                                 </verse>
+                              </note>
+                           
+                           <note xml:id="e25-m-404" dots="1" dur="4" oct="2" pname="g" pnum="43">
+                              
+                              <verse xml:id="e25-m-457" n="1">
+                                 
+                                 <syl xml:id="e25-m-458" con="d" wordpos="m">vi</syl>
+                                 </verse>
+                              </note>
+                           
+                           <note xml:id="e25-m-405" dur="8" oct="2" pname="a" pnum="45"></note>
+                           
+                           <note xml:id="e25-m-406" dur="4" oct="2" pname="b" pnum="46">
+                              
+                              <accid xml:id="e25-m-407" accid.ges="f"></accid>
+                              </note>
+                           </layer>
+                        </staff>
+                     
+                     <tie xml:id="e25-m-380" endid="#m-413" startid="#m-379"></tie>
+                     
+                     <tie xmlns:mei="http://www.music-encoding.org/ns/mei" startid="#e25-m-379" endid="#e25-m-413"></tie>
+                     </measure>
+                  
+                  <measure xml:id="e25-m-410" n="10">
+                     
+                     <staff xml:id="e25-m-411" n="1">
+                        
+                        <layer xml:id="e25-m-412" n="1">
+                           
+                           <note xmlns:mei="http://www.music-encoding.org/ns/mei" xml:id="e25-m-413" dur="4" oct="4" pname="g" pnum="67"></note>
+                           
+                           <beam xml:id="e25-m-416">
+                              
+                              <note xml:id="e25-m-414" dur="8" oct="4" pname="f" pnum="66">
+                                 
+                                 <accid xml:id="e25-m-415" accid="s"></accid>
+                                 </note>
+                              
+                              <note xml:id="e25-m-417" dur="8" oct="4" pname="e" pnum="64"></note>
+                              </beam>
+                           
+                           <note xml:id="e25-m-418" dur="4" oct="4" pname="f" pnum="66"></note>
+                           
+                           <beam xml:id="e25-m-421">
+                              
+                              <note xml:id="e25-m-420" dur="8" oct="4" pname="e" pnum="64"></note>
+                              
+                              <note xml:id="e25-m-422" dur="8" oct="4" pname="f" pnum="66"></note>
+                              </beam>
+                           
+                           <note xml:id="e25-m-424" dur="1" oct="4" pname="g" pnum="67"></note>
+                           </layer>
+                        </staff>
+                     
+                     <staff xml:id="e25-m-425" n="2">
+                        
+                        <layer xml:id="e25-m-426" n="1">
+                           
+                           <note xml:id="e25-m-427" dur="1" oct="3" pname="a" pnum="57">
+                              
+                              <verse xml:id="e25-m-434" n="1">
+                                 
+                                 <syl xml:id="e25-m-435" con="d" wordpos="m">vi</syl>
+                                 </verse>
+                              </note>
+                           
+                           <note xml:id="e25-m-428" dur="2" oct="3" pname="g" pnum="55">
+                              
+                              <verse xml:id="e25-m-436" n="1">
+                                 
+                                 <syl xml:id="e25-m-437" wordpos="t">vus</syl>
+                                 </verse>
+                              </note>
+                           
+                           <note xml:id="e25-m-429" dur="2" oct="3" pname="g" pnum="55">
+                              
+                              <verse xml:id="e25-m-472" n="1">
+                                 
+                                 <syl xml:id="e25-m-473" con="d" wordpos="i">hu</syl>
+                                 </verse>
+                              </note>
+                           </layer>
+                        </staff>
+                     
+                     <staff xml:id="e25-m-438" n="3">
+                        
+                        <layer xml:id="e25-m-439" n="1">
+                           
+                           <note xml:id="e25-m-440" dur="2" oct="3" pname="c" pnum="48">
+                              
+                              <verse xml:id="e25-m-459" n="1">
+                                 
+                                 <syl xml:id="e25-m-460" wordpos="t">vus</syl>
+                                 </verse>
+                              </note>
+                           
+                           <rest xml:id="e25-m-441" dur="4"></rest>
+                           
+                           <note xml:id="e25-m-442" dur="2" oct="3" pname="c" pnum="48">
+                              
+                              <verse xml:id="e25-m-539" n="1">
+                                 
+                                 <syl xml:id="e25-m-540" con="d" wordpos="i">hu</syl>
+                                 </verse>
+                              </note>
+                           
+                           <beam xml:id="e25-m-445">
+                              
+                              <note xml:id="e25-m-443" dur="8" oct="2" pname="b" pnum="47">
+                                 
+                                 <accid xml:id="e25-m-444" accid="n"></accid>
+                                 </note>
+                              
+                              <note xml:id="e25-m-446" dur="8" oct="2" pname="a" pnum="45"></note>
+                              </beam>
+                           
+                           <note xml:id="e25-m-447" dur="4" oct="2" pname="b" pnum="47"></note>
+                           
+                           <beam xml:id="e25-m-450">
+                              
+                              <note xml:id="e25-m-449" dur="8" oct="2" pname="a" pnum="45"></note>
+                              
+                              <note xml:id="e25-m-451" dur="8" oct="2" pname="b" pnum="47"></note>
+                              </beam>
+                           </layer>
+                        </staff>
+                     </measure>
+                  
+                  <measure xml:id="e25-m-461" metcon="false" n="11" right="dbl" perf-dur="6">
+                     
+                     <staff xml:id="e25-m-462" n="1">
+                        
+                        <layer xml:id="e25-m-463" n="1">
+                           <!-- Original note -->
+                           <note xmlns:mei="http://www.music-encoding.org/ns/mei" dur="2" xml:id="e25-m-464" oct="4" pname="g" pnum="67" stem.dir="up"></note>
+                           <!-- Filler notes -->
+                           <note xmlns:mei="http://www.music-encoding.org/ns/mei" xml:id="d1e1241-FAKE-5" dur="2" pnum="65" class="fake-note-for-timing"></note>
+                           <note xmlns:mei="http://www.music-encoding.org/ns/mei" xml:id="d1e1241-FAKE-4" dur="2" pnum="65" class="fake-note-for-timing"></note>
+                           <note xmlns:mei="http://www.music-encoding.org/ns/mei" xml:id="d1e1241-FAKE-3" dur="2" pnum="65" class="fake-note-for-timing"></note>
+                           <note xmlns:mei="http://www.music-encoding.org/ns/mei" xml:id="d1e1241-FAKE-2" dur="2" pnum="65" class="fake-note-for-timing"></note>
+                           <note xmlns:mei="http://www.music-encoding.org/ns/mei" xml:id="d1e1241-FAKE-1" dur="2" pnum="65" class="fake-note-for-timing" match-end="e25-m-464"></note>
+                           </layer>
+                        </staff>
+                     
+                     <staff xml:id="e25-m-469" n="2">
+                        
+                        <layer xml:id="e25-m-470" n="1">
+                           <!-- Original note -->
+                           <note xmlns:mei="http://www.music-encoding.org/ns/mei" dur="2" xml:id="e25-m-471" oct="3" pname="g" pnum="55" stem.dir="up"></note>
+                           <!-- Filler notes -->
+                           <note xmlns:mei="http://www.music-encoding.org/ns/mei" xml:id="d1e1256-FAKE-5" dur="2" pnum="65" class="fake-note-for-timing"></note>
+                           <note xmlns:mei="http://www.music-encoding.org/ns/mei" xml:id="d1e1256-FAKE-4" dur="2" pnum="65" class="fake-note-for-timing"></note>
+                           <note xmlns:mei="http://www.music-encoding.org/ns/mei" xml:id="d1e1256-FAKE-3" dur="2" pnum="65" class="fake-note-for-timing"></note>
+                           <note xmlns:mei="http://www.music-encoding.org/ns/mei" xml:id="d1e1256-FAKE-2" dur="2" pnum="65" class="fake-note-for-timing"></note>
+                           <note xmlns:mei="http://www.music-encoding.org/ns/mei" xml:id="d1e1256-FAKE-1" dur="2" pnum="65" class="fake-note-for-timing" match-end="e25-m-471"></note>
+                           </layer>
+                        </staff>
+                     
+                     <staff xml:id="e25-m-476" n="3">
+                        
+                        <layer xml:id="e25-m-477" n="1">
+                           <!-- Original note -->
+                           <note xmlns:mei="http://www.music-encoding.org/ns/mei" dur="2" xml:id="e25-m-478" oct="3" pname="c" pnum="48" stem.dir="up"></note>
+                           <!-- Filler notes -->
+                           <note xmlns:mei="http://www.music-encoding.org/ns/mei" xml:id="d1e1271-FAKE-5" dur="2" pnum="65" class="fake-note-for-timing"></note>
+                           <note xmlns:mei="http://www.music-encoding.org/ns/mei" xml:id="d1e1271-FAKE-4" dur="2" pnum="65" class="fake-note-for-timing"></note>
+                           <note xmlns:mei="http://www.music-encoding.org/ns/mei" xml:id="d1e1271-FAKE-3" dur="2" pnum="65" class="fake-note-for-timing"></note>
+                           <note xmlns:mei="http://www.music-encoding.org/ns/mei" xml:id="d1e1271-FAKE-2" dur="2" pnum="65" class="fake-note-for-timing"></note>
+                           <note xmlns:mei="http://www.music-encoding.org/ns/mei" xml:id="d1e1271-FAKE-1" dur="2" pnum="65" class="fake-note-for-timing" match-end="e25-m-478"></note>
+                           </layer>
+                        </staff>
+                     </measure>
+                  
+                  <pb xml:id="e25-m-481" n="2"></pb>
+                  
+                  <sb xml:id="e25-m-480"></sb>
+                  
+                  <measure xml:id="e25-m-479" n="12">
+                     
+                     <staff xml:id="e25-m-482" n="1">
+                        
+                        <layer xml:id="e25-m-483" n="1">
+                           
+                           <rest xml:id="e25-m-484" dur="2"></rest>
+                           
+                           <note xml:id="e25-m-485" dur="4" oct="5" pname="d" pnum="74">
+                              
+                              <verse xml:id="e25-m-492" n="1">
+                                 
+                                 <syl xml:id="e25-m-493" con="d" wordpos="i">Fra</syl>
+                                 </verse>
+                              </note>
+                           
+                           <note xml:id="e25-m-486" dur="4" oct="5" pname="c" pnum="72"></note>
+                           
+                           <note xml:id="e25-m-487" dur="4" oct="4" pname="b" pnum="71">
+                              
+                              <accid xml:id="e25-m-488" accid="n"></accid>
+                              </note>
+                           
+                           <note xml:id="e25-m-489" dur="4" oct="4" pname="a" pnum="69"></note>
+                           
+                           <note xml:id="e25-m-490" dur="2" oct="4" pname="b" pnum="71">
+                              
+                              <accid xml:id="e25-m-491" accid="n" func="caution"></accid>
+                              
+                              <verse xml:id="e25-m-494" n="1">
+                                 
+                                 <syl xml:id="e25-m-495" wordpos="t">ter</syl>
+                                 </verse>
+                              </note>
+                           </layer>
+                        </staff>
+                     
+                     <staff xml:id="e25-m-496" n="2">
+                        
+                        <layer xml:id="e25-m-497" n="1">
+                           
+                           <note xml:id="e25-m-498" dur="1" oct="4" pname="d" pnum="62">
+                              
+                              <verse xml:id="e25-m-501" n="1">
+                                 
+                                 <syl xml:id="e25-m-502" con="d" wordpos="i">Fra</syl>
+                                 </verse>
+                              </note>
+                           
+                           <note xml:id="e25-m-499" dur="2" oct="4" pname="d" pnum="62">
+                              
+                              <verse xml:id="e25-m-503" n="1">
+                                 
+                                 <syl xml:id="e25-m-504" wordpos="t">ter</syl>
+                                 </verse>
+                              </note>
+                           
+                           <note xml:id="e25-m-500" dur="2" oct="4" pname="d" pnum="62">
+                              
+                              <verse xml:id="e25-m-505" n="1">
+                                 
+                                 <syl xml:id="e25-m-506" wordpos="i">et</syl>
+                                 </verse>
+                              </note>
+                           </layer>
+                        </staff>
+                     
+                     <staff xml:id="e25-m-507" n="3">
+                        
+                        <layer xml:id="e25-m-508" n="1">
+                           
+                           <rest xml:id="e25-m-509" dur="1"></rest>
+                           
+                           <rest xml:id="e25-m-510" dur="2"></rest>
+                           
+                           <note xml:id="e25-m-511" dur="4" oct="3" pname="g" pnum="55">
+                              
+                              <verse xml:id="e25-m-541" n="1">
+                                 
+                                 <syl xml:id="e25-m-542" con="d" wordpos="m">Fra</syl>
+                                 </verse>
+                              </note>
+                           
+                           <note xml:id="e25-m-512" dur="4" oct="3" pname="f" pnum="53"></note>
+                           </layer>
+                        </staff>
+                     </measure>
+                  
+                  <measure xml:id="e25-m-513" n="13">
+                     
+                     <staff xml:id="e25-m-514" n="1">
+                        
+                        <layer xml:id="e25-m-515" n="1">
+                           
+                           <rest xml:id="e25-m-516" dur="2"></rest>
+                           
+                           <note xml:id="e25-m-517" dur="1" oct="5" pname="c" pnum="72">
+                              
+                              <verse xml:id="e25-m-520" n="1">
+                                 
+                                 <syl xml:id="e25-m-521" wordpos="i">et</syl>
+                                 </verse>
+                              </note>
+                           
+                           <note xml:id="e25-m-518" dur="2" oct="4" pname="b" pnum="70">
+                              
+                              <accid xml:id="e25-m-519" accid.ges="f"></accid>
+                              
+                              <verse xml:id="e25-m-557" n="1">
+                                 
+                                 <syl xml:id="e25-m-558" con="d" wordpos="i">ip</syl>
+                                 </verse>
+                              </note>
+                           </layer>
+                        </staff>
+                     
+                     <staff xml:id="e25-m-522" n="2">
+                        
+                        <layer xml:id="e25-m-523" n="1">
+                           
+                           <note xml:id="e25-m-524" dur="1" oct="4" pname="c" pnum="60">
+                              
+                              <verse xml:id="e25-m-527" n="1">
+                                 
+                                 <syl xml:id="e25-m-528" con="d" wordpos="i">ip</syl>
+                                 </verse>
+                              </note>
+                           
+                           <note xml:id="e25-m-525" dur="2" oct="4" pname="d" pnum="62">
+                              
+                              <verse xml:id="e25-m-529" n="1">
+                                 
+                                 <syl xml:id="e25-m-530" wordpos="t">sa</syl>
+                                 </verse>
+                              </note>
+                           
+                           <note xml:id="e25-m-526" dur="2" oct="4" pname="d" pnum="62">
+                              
+                              <verse xml:id="e25-m-574" n="1">
+                                 
+                                 <syl xml:id="e25-m-575" con="d" wordpos="i">so</syl>
+                                 </verse>
+                              </note>
+                           </layer>
+                        </staff>
+                     
+                     <staff xml:id="e25-m-531" n="3">
+                        
+                        <layer xml:id="e25-m-532" n="1">
+                           
+                           <note xml:id="e25-m-533" dur="4" oct="3" pname="e" pnum="52"></note>
+                           
+                           <note xml:id="e25-m-534" dur="4" oct="3" pname="d" pnum="50"></note>
+                           
+                           <note xml:id="e25-m-535" dur="2" oct="3" pname="e" pnum="52">
+                              
+                              <verse xml:id="e25-m-543" n="1">
+                                 
+                                 <syl xml:id="e25-m-544" wordpos="t">ter</syl>
+                                 </verse>
+                              </note>
+                           
+                           <rest xml:id="e25-m-536" dur="2"></rest>
+                           
+                           <note xml:id="e25-m-537" dur="2" oct="3" pname="f" pnum="53">
+                              
+                              <verse xml:id="e25-m-545" n="1">
+                                 
+                                 <syl xml:id="e25-m-546" wordpos="i">et</syl>
+                                 </verse>
+                              </note>
+                           </layer>
+                        </staff>
+                     
+                     <tie xml:id="e25-m-538" endid="#m-580" startid="#m-537"></tie>
+                     
+                     <tie xmlns:mei="http://www.music-encoding.org/ns/mei" startid="#e25-m-537" endid="#e25-m-580"></tie>
+                     </measure>
+                  
+                  <measure xml:id="e25-m-547" n="14">
+                     
+                     <staff xml:id="e25-m-548" n="1">
+                        
+                        <layer xml:id="e25-m-549" n="1">
+                           
+                           <note xml:id="e25-m-550" dur="2" oct="4" pname="a" pnum="69">
+                              
+                              <verse xml:id="e25-m-559" n="1">
+                                 
+                                 <syl xml:id="e25-m-560" wordpos="t">sa</syl>
+                                 </verse>
+                              </note>
+                           
+                           <note xml:id="e25-m-551" dur="4" oct="4" pname="g" pnum="67">
+                              
+                              <verse xml:id="e25-m-561" n="1">
+                                 
+                                 <syl xml:id="e25-m-562" con="d" wordpos="i">so</syl>
+                                 </verse>
+                              </note>
+                           
+                           <note xml:id="e25-m-552" dur="4" oct="4" pname="a" pnum="69">
+                              
+                              <verse xml:id="e25-m-563" n="1">
+                                 
+                                 <syl xml:id="e25-m-564" wordpos="t">ror</syl>
+                                 </verse>
+                              </note>
+                           
+                           <note xml:id="e25-m-553" dots="1" dur="4" oct="4" pname="b" pnum="70">
+                              
+                              <accid xml:id="e25-m-554" accid.ges="f"></accid>
+                              
+                              <verse xml:id="e25-m-565" n="1">
+                                 
+                                 <syl xml:id="e25-m-566" con="d" wordpos="i">jun</syl>
+                                 </verse>
+                              </note>
+                           
+                           <note xml:id="e25-m-555" dur="8" oct="4" pname="a" pnum="69"></note>
+                           
+                           <note xml:id="e25-m-556" dur="2" oct="4" pname="g" pnum="67">
+                              
+                              <verse xml:id="e25-m-567" n="1">
+                                 
+                                 <syl xml:id="e25-m-568" wordpos="t">cti</syl>
+                                 </verse>
+                              </note>
+                           </layer>
+                        </staff>
+                     
+                     <staff xml:id="e25-m-569" n="2">
+                        
+                        <layer xml:id="e25-m-570" n="1">
+                           
+                           <note xml:id="e25-m-571" dur="1" oct="4" pname="c" pnum="60">
+                              
+                              <verse xml:id="e25-m-576" n="1">
+                                 
+                                 <syl xml:id="e25-m-577" wordpos="t">ror</syl>
+                                 </verse>
+                              </note>
+                           
+                           <note xml:id="e25-m-572" dur="1" oct="3" pname="b" pnum="58">
+                              
+                              <accid xml:id="e25-m-573" accid.ges="f"></accid>
+                              
+                              <verse xml:id="e25-m-607" n="1">
+                                 
+                                 <syl xml:id="e25-m-608" con="d" wordpos="i">jun</syl>
+                                 </verse>
+                              </note>
+                           </layer>
+                        </staff>
+                     
+                     <staff xml:id="e25-m-578" n="3">
+                        
+                        <layer xml:id="e25-m-579" n="1">
+                           
+                           <note xmlns:mei="http://www.music-encoding.org/ns/mei" xml:id="e25-m-580" dur="2" oct="3" pname="f" pnum="53"></note>
+                           
+                           <note xml:id="e25-m-581" dur="2" oct="3" pname="e" pnum="51">
+                              
+                              <accid xml:id="e25-m-582" accid="f"></accid>
+                              
+                              <verse xml:id="e25-m-586" n="1">
+                                 
+                                 <syl xml:id="e25-m-587" con="d" wordpos="i">ip</syl>
+                                 </verse>
+                              </note>
+                           
+                           <note xml:id="e25-m-583" dur="2" oct="3" pname="d" pnum="50">
+                              
+                              <verse xml:id="e25-m-588" n="1">
+                                 
+                                 <syl xml:id="e25-m-589" wordpos="t">sa</syl>
+                                 </verse>
+                              </note>
+                           
+                           <note xml:id="e25-m-584" dur="4" oct="3" pname="c" pnum="48">
+                              
+                              <verse xml:id="e25-m-590" n="1">
+                                 
+                                 <syl xml:id="e25-m-591" con="d" wordpos="i">so</syl>
+                                 </verse>
+                              </note>
+                           
+                           <note xml:id="e25-m-585" dur="4" oct="3" pname="d" pnum="50">
+                              
+                              <verse xml:id="e25-m-592" n="1">
+                                 
+                                 <syl xml:id="e25-m-593" wordpos="t">ror</syl>
+                                 </verse>
+                              </note>
+                           </layer>
+                        </staff>
+                     </measure>
+                  
+                  <measure xml:id="e25-m-594" n="15">
+                     
+                     <staff xml:id="e25-m-595" n="1">
+                        
+                        <layer xml:id="e25-m-596" n="1">
+                           
+                           <rest xml:id="e25-m-597" dur="2"></rest>
+                           
+                           <note xml:id="e25-m-598" dur="2" oct="5" pname="c" pnum="72">
+                              
+                              <verse xml:id="e25-m-632" n="1">
+                                 
+                                 <syl xml:id="e25-m-633" con="d" wordpos="i">si</syl>
+                                 </verse>
+                              </note>
+                           
+                           <note xml:id="e25-m-599" dur="2" oct="4" pname="b" pnum="70">
+                              
+                              <accid xml:id="e25-m-600" accid.ges="f"></accid>
+                              
+                              <verse xml:id="e25-m-634" n="1">
+                                 
+                                 <syl xml:id="e25-m-635" con="d" wordpos="t">mul</syl>
+                                 </verse>
+                              </note>
+                           
+                           <note xml:id="e25-m-601" dur="2" oct="4" pname="a" pnum="69">
+                              
+                              <verse xml:id="e25-m-636" n="1">
+                                 
+                                 <syl xml:id="e25-m-637" con="d" wordpos="i">il</syl>
+                                 </verse>
+                              </note>
+                           </layer>
+                        </staff>
+                     
+                     <staff xml:id="e25-m-602" n="2">
+                        
+                        <layer xml:id="e25-m-603" n="1">
+                           
+                           <note xml:id="e25-m-604" dur="1" oct="4" pname="c" pnum="60">
+                              
+                              <verse xml:id="e25-m-609" n="1">
+                                 
+                                 <syl xml:id="e25-m-610" wordpos="t">cti</syl>
+                                 </verse>
+                              </note>
+                           
+                           <note xml:id="e25-m-605" dur="2" oct="4" pname="d" pnum="62">
+                              
+                              <verse xml:id="e25-m-650" n="1">
+                                 
+                                 <syl xml:id="e25-m-651" con="d" wordpos="i">si</syl>
+                                 </verse>
+                              </note>
+                           
+                           <note xml:id="e25-m-606" dur="2" oct="4" pname="d" pnum="62">
+                              
+                              <verse xml:id="e25-m-652" n="1">
+                                 
+                                 <syl xml:id="e25-m-653" con="d" wordpos="t">mul</syl>
+                                 </verse>
+                              </note>
+                           </layer>
+                        </staff>
+                     
+                     <staff xml:id="e25-m-611" n="3">
+                        
+                        <layer xml:id="e25-m-612" n="1">
+                           
+                           <note xml:id="e25-m-613" dots="1" dur="4" oct="3" pname="e" pnum="51">
+                              
+                              <accid xml:id="e25-m-614" accid="f"></accid>
+                              
+                              <verse xml:id="e25-m-619" n="1">
+                                 
+                                 <syl xml:id="e25-m-620" con="d" wordpos="i">jun</syl>
+                                 </verse>
+                              </note>
+                           
+                           <note xml:id="e25-m-615" dur="8" oct="3" pname="d" pnum="50"></note>
+                           
+                           <note xml:id="e25-m-616" dur="2" oct="3" pname="c" pnum="48">
+                              
+                              <verse xml:id="e25-m-621" n="1">
+                                 
+                                 <syl xml:id="e25-m-622" wordpos="t">cti</syl>
+                                 </verse>
+                              </note>
+                           
+                           <rest xml:id="e25-m-617" dur="2"></rest>
+                           
+                           <note xml:id="e25-m-618" dur="2" oct="3" pname="f" pnum="53">
+                              
+                              <verse xml:id="e25-m-668" n="1">
+                                 
+                                 <syl xml:id="e25-m-669" con="d" wordpos="i">si</syl>
+                                 </verse>
+                              </note>
+                           </layer>
+                        </staff>
+                     </measure>
+                  
+                  <sb xml:id="e25-m-624"></sb>
+                  
+                  <measure xml:id="e25-m-623" n="16">
+                     
+                     <staff xml:id="e25-m-625" n="1">
+                        
+                        <layer xml:id="e25-m-626" n="1">
+                           
+                           <note xml:id="e25-m-627" dur="2" oct="4" pname="g" pnum="67">
+                              
+                              <verse xml:id="e25-m-638" n="1">
+                                 
+                                 <syl xml:id="e25-m-639" wordpos="t">lius</syl>
+                                 </verse>
+                              </note>
+                           
+                           <note xml:id="e25-m-628" dur="2" oct="4" pname="b" pnum="70">
+                              
+                              <accid xml:id="e25-m-629" accid.ges="f"></accid>
+                              
+                              <verse xml:id="e25-m-640" n="1">
+                                 
+                                 <syl xml:id="e25-m-641" con="d" wordpos="i">o</syl>
+                                 </verse>
+                              </note>
+                           
+                           <note xml:id="e25-m-630" dur="2" oct="4" pname="a" pnum="69">
+                              
+                              <verse xml:id="e25-m-642" n="1">
+                                 
+                                 <syl xml:id="e25-m-643" wordpos="t">ra</syl>
+                                 </verse>
+                              </note>
+                           
+                           <note xml:id="e25-m-631" dur="2" oct="5" pname="c" pnum="72">
+                              
+                              <verse xml:id="e25-m-718" n="1">
+                                 
+                                 <syl xml:id="e25-m-719" con="d" wordpos="i">Fu</syl>
+                                 </verse>
+                              </note>
+                           </layer>
+                        </staff>
+                     
+                     <staff xml:id="e25-m-644" n="2">
+                        
+                        <layer xml:id="e25-m-645" n="1">
+                           
+                           <note xml:id="e25-m-646" dur="1" oct="3" pname="b" pnum="58">
+                              
+                              <accid xml:id="e25-m-647" accid.ges="f"></accid>
+                              
+                              <verse xml:id="e25-m-654" n="1">
+                                 
+                                 <syl xml:id="e25-m-655" con="d" wordpos="i">il</syl>
+                                 </verse>
+                              </note>
+                           
+                           <note xml:id="e25-m-648" dur="2" oct="4" pname="c" pnum="60">
+                              
+                              <verse xml:id="e25-m-656" n="1">
+                                 
+                                 <syl xml:id="e25-m-657" con="d" wordpos="m">li</syl>
+                                 </verse>
+                              </note>
+                           
+                           <note xml:id="e25-m-649" dur="2" oct="4" pname="c" pnum="60">
+                              
+                              <verse xml:id="e25-m-658" n="1">
+                                 
+                                 <syl xml:id="e25-m-659" wordpos="t">us</syl>
+                                 </verse>
+                              </note>
+                           </layer>
+                        </staff>
+                     
+                     <staff xml:id="e25-m-660" n="3">
+                        
+                        <layer xml:id="e25-m-661" n="1">
+                           
+                           <note xml:id="e25-m-662" dur="2" oct="3" pname="e" pnum="51">
+                              
+                              <accid xml:id="e25-m-663" accid="f"></accid>
+                              
+                              <verse xml:id="e25-m-670" n="1">
+                                 
+                                 <syl xml:id="e25-m-671" con="d" wordpos="t">mul</syl>
+                                 </verse>
+                              </note>
+                           
+                           <note xml:id="e25-m-664" dur="2" oct="3" pname="d" pnum="50">
+                              
+                              <verse xml:id="e25-m-672" n="1">
+                                 
+                                 <syl xml:id="e25-m-673" con="d" wordpos="i">il</syl>
+                                 </verse>
+                              </note>
+                           
+                           <note xml:id="e25-m-665" dur="2" oct="3" pname="c" pnum="48">
+                              
+                              <verse xml:id="e25-m-674" n="1">
+                                 
+                                 <syl xml:id="e25-m-675" wordpos="t">lius</syl>
+                                 </verse>
+                              </note>
+                           
+                           <note xml:id="e25-m-666" dur="2" oct="3" pname="e" pnum="51">
+                              
+                              <accid xml:id="e25-m-667" accid="f" func="caution"></accid>
+                              
+                              <verse xml:id="e25-m-705" n="1">
+                                 
+                                 <syl xml:id="e25-m-706" con="d" wordpos="i">o</syl>
+                                 </verse>
+                              </note>
+                           </layer>
+                        </staff>
+                     
+                     <tie xmlns:mei="http://www.music-encoding.org/ns/mei" startid="#e25-m-631" endid="#e25-m-679"></tie>
+                     </measure>
+                  
+                  <measure xml:id="e25-m-676" n="17">
+                     
+                     <staff xml:id="e25-m-677" n="1">
+                        
+                        <layer xml:id="e25-m-678" n="1">
+                           
+                           <note xmlns:mei="http://www.music-encoding.org/ns/mei" xml:id="e25-m-679" dur="4" oct="5" pname="c" pnum="72"></note>
+                           
+                           <note xml:id="e25-m-680" dur="4" oct="4" pname="b" pnum="70">
+                              
+                              <accid xml:id="e25-m-681" accid.ges="f"></accid>
+                              </note>
+                           
+                           <note xml:id="e25-m-682" dur="4" oct="4" pname="a" pnum="69"></note>
+                           
+                           <note xml:id="e25-m-683" dur="4" oct="4" pname="g" pnum="67"></note>
+                           
+                           <note xml:id="e25-m-684" dur="4" oct="4" pname="f" pnum="65"></note>
+                           
+                           <note xml:id="e25-m-685" dur="2" oct="4" pname="g" pnum="67"></note>
+                           
+                           <note xml:id="e25-m-686" dur="4" oct="4" pname="f" pnum="66">
+                              
+                              <accid xml:id="e25-m-687" accid="s"></accid>
+                              </note>
+                           </layer>
+                        </staff>
+                     
+                     <staff xml:id="e25-m-688" n="2">
+                        
+                        <layer xml:id="e25-m-689" n="1">
+                           
+                           <note xml:id="e25-m-690" dur="2" oct="4" pname="d" pnum="62">
+                              
+                              <verse xml:id="e25-m-693" n="1">
+                                 
+                                 <syl xml:id="e25-m-694" con="d" wordpos="i">o</syl>
+                                 </verse>
+                              </note>
+                           
+                           <note xml:id="e25-m-691" dur="2" oct="4" pname="d" pnum="62">
+                              
+                              <verse xml:id="e25-m-695" n="1">
+                                 
+                                 <syl xml:id="e25-m-696" wordpos="t">ra</syl>
+                                 </verse>
+                              </note>
+                           
+                           <note xml:id="e25-m-692" dur="1" oct="3" pname="a" pnum="57">
+                              
+                              <verse xml:id="e25-m-731" n="1">
+                                 
+                                 <syl xml:id="e25-m-732" con="d" wordpos="i">Fu</syl>
+                                 </verse>
+                              </note>
+                           </layer>
+                        </staff>
+                     
+                     <staff xml:id="e25-m-697" n="3">
+                        
+                        <layer xml:id="e25-m-698" n="1">
+                           
+                           <note xml:id="e25-m-699" dur="2" oct="3" pname="d" pnum="50">
+                              
+                              <verse xml:id="e25-m-707" n="1">
+                                 
+                                 <syl xml:id="e25-m-708" wordpos="t">ra</syl>
+                                 </verse>
+                              </note>
+                           
+                           <note xml:id="e25-m-700" dots="1" dur="2" oct="3" pname="f" pnum="53">
+                              
+                              <verse xml:id="e25-m-748" n="1">
+                                 
+                                 <syl xml:id="e25-m-749" con="d" wordpos="i">Fu</syl>
+                                 </verse>
+                              </note>
+                           
+                           <note xml:id="e25-m-701" dur="4" oct="3" pname="e" pnum="51">
+                              
+                              <accid xml:id="e25-m-702" accid="f"></accid>
+                              </note>
+                           
+                           <note xml:id="e25-m-703" dur="4" oct="3" pname="d" pnum="50"></note>
+                           
+                           <note xml:id="e25-m-704" dur="4" oct="3" pname="c" pnum="48"></note>
+                           </layer>
+                        </staff>
+                     </measure>
+                  
+                  <measure xml:id="e25-m-709" n="18">
+                     
+                     <staff xml:id="e25-m-710" n="1">
+                        
+                        <layer xml:id="e25-m-711" n="1">
+                           
+                           <note xml:id="e25-m-712" dur="2" oct="4" pname="g" pnum="67">
+                              
+                              <verse xml:id="e25-m-720" n="1">
+                                 
+                                 <syl xml:id="e25-m-721" wordpos="t">ste</syl>
+                                 </verse>
+                              </note>
+                           
+                           <note xml:id="e25-m-713" dur="2" oct="4" pname="g" pnum="67">
+                              
+                              <verse xml:id="e25-m-722" n="1">
+                                 
+                                 <syl xml:id="e25-m-723" con="d" wordpos="i">pre</syl>
+                                 </verse>
+                              </note>
+                           
+                           <note xml:id="e25-m-714" dots="1" dur="2" oct="4" pname="e" pnum="64">
+                              
+                              <verse xml:id="e25-m-724" n="1">
+                                 
+                                 <syl xml:id="e25-m-725" con="u" wordpos="t">munt,</syl>
+                                 </verse>
+                              </note>
+                           
+                           <beam xml:id="e25-m-716">
+                              
+                              <note xml:id="e25-m-715" dur="8" oct="4" pname="f" pnum="65"></note>
+                              
+                              <note xml:id="e25-m-717" dur="8" oct="4" pname="g" pnum="67"></note>
+                              </beam>
+                           </layer>
+                        </staff>
+                     
+                     <staff xml:id="e25-m-726" n="2">
+                        
+                        <layer xml:id="e25-m-727" n="1">
+                           
+                           <note xml:id="e25-m-728" dur="2" oct="3" pname="g" pnum="55">
+                              
+                              <verse xml:id="e25-m-733" n="1">
+                                 
+                                 <syl xml:id="e25-m-734" wordpos="t">ste</syl>
+                                 </verse>
+                              </note>
+                           
+                           <note xml:id="e25-m-729" dur="2" oct="3" pname="g" pnum="55">
+                              
+                              <verse xml:id="e25-m-735" n="1">
+                                 
+                                 <syl xml:id="e25-m-736" con="d" wordpos="i">pre</syl>
+                                 </verse>
+                              </note>
+                           
+                           <note xml:id="e25-m-730" dur="1" oct="3" pname="a" pnum="57">
+                              
+                              <verse xml:id="e25-m-737" n="1">
+                                 
+                                 <syl xml:id="e25-m-738" wordpos="t">munt,</syl>
+                                 </verse>
+                              </note>
+                           </layer>
+                        </staff>
+                     
+                     <staff xml:id="e25-m-739" n="3">
+                        
+                        <layer xml:id="e25-m-740" n="1">
+                           
+                           <note xml:id="e25-m-741" dur="4" oct="2" pname="b" pnum="47">
+                              
+                              <accid xml:id="e25-m-742" accid="n"></accid>
+                              </note>
+                           
+                           <note xml:id="e25-m-743" dur="2" oct="3" pname="c" pnum="48"></note>
+                           
+                           <note xml:id="e25-m-744" dur="4" oct="2" pname="b" pnum="47"></note>
+                           
+                           <note xml:id="e25-m-746" dur="2" oct="3" pname="c" pnum="48">
+                              
+                              <verse xml:id="e25-m-750" n="1">
+                                 
+                                 <syl xml:id="e25-m-751" wordpos="t">ste</syl>
+                                 </verse>
+                              </note>
+                           
+                           <note xml:id="e25-m-747" dur="2" oct="3" pname="c" pnum="48">
+                              
+                              <verse xml:id="e25-m-784" n="1">
+                                 
+                                 <syl xml:id="e25-m-785" con="d" wordpos="i">pre</syl>
+                                 </verse>
+                              </note>
+                           </layer>
+                        </staff>
+                     </measure>
+                  
+                  <sb xml:id="e25-m-753"></sb>
+                  
+                  <measure xml:id="e25-m-752" n="19">
+                     
+                     <staff xml:id="e25-m-754" n="1">
+                        
+                        <layer xml:id="e25-m-755" n="1">
+                           
+                           <note xml:id="e25-m-756" dur="2" oct="4" pname="a" pnum="69">
+                              
+                              <verse xml:id="e25-m-760" n="1">
+                                 
+                                 <syl xml:id="e25-m-761" con="d" wordpos="i">nec</syl>
+                                 </verse>
+                              </note>
+                           
+                           <note xml:id="e25-m-757" dur="2" oct="4" pname="a" pnum="69">
+                              
+                              <verse xml:id="e25-m-762" n="1">
+                                 
+                                 <syl xml:id="e25-m-763" wordpos="t">res</syl>
+                                 </verse>
+                              </note>
+                           
+                           <note xml:id="e25-m-758" dur="2" oct="4" pname="a" pnum="69">
+                              
+                              <verse xml:id="e25-m-764" n="1">
+                                 
+                                 <syl xml:id="e25-m-765" wordpos="i">fert</syl>
+                                 </verse>
+                              </note>
+                           
+                           <note xml:id="e25-m-759" dur="2" oct="4" pname="g" pnum="67">
+                              
+                              <verse xml:id="e25-m-803" n="1">
+                                 
+                                 <syl xml:id="e25-m-804" con="d" wordpos="i">a</syl>
+                                 </verse>
+                              </note>
+                           </layer>
+                        </staff>
+                     
+                     <staff xml:id="e25-m-766" n="2">
+                        
+                        <layer xml:id="e25-m-767" n="1">
+                           
+                           <note xml:id="e25-m-768" dur="1" oct="4" pname="c" pnum="60">
+                              
+                              <verse xml:id="e25-m-771" n="1">
+                                 
+                                 <syl xml:id="e25-m-772" con="d" wordpos="i">nec</syl>
+                                 </verse>
+                              </note>
+                           
+                           <note xml:id="e25-m-769" dur="1" oct="3" pname="b" pnum="58">
+                              
+                              <accid xml:id="e25-m-770" accid.ges="f"></accid>
+                              
+                              <verse xml:id="e25-m-773" n="1">
+                                 
+                                 <syl xml:id="e25-m-774" wordpos="t">res</syl>
+                                 </verse>
+                              </note>
+                           </layer>
+                        </staff>
+                     
+                     <staff xml:id="e25-m-775" n="3">
+                        
+                        <layer xml:id="e25-m-776" n="1">
+                           
+                           <note xml:id="e25-m-777" dots="1" dur="2" oct="2" pname="a" pnum="45">
+                              
+                              <verse xml:id="e25-m-786" n="1">
+                                 
+                                 <syl xml:id="e25-m-787" con="u" wordpos="t">munt,</syl>
+                                 </verse>
+                              </note>
+                           
+                           <beam xml:id="e25-m-780">
+                              
+                              <note xml:id="e25-m-778" dur="8" oct="2" pname="b" pnum="46">
+                                 
+                                 <accid xml:id="e25-m-779" accid.ges="f"></accid>
+                                 </note>
+                              
+                              <note xml:id="e25-m-781" dur="8" oct="3" pname="c" pnum="48"></note>
+                              </beam>
+                           
+                           <note xml:id="e25-m-782" dur="2" oct="3" pname="d" pnum="50">
+                              
+                              <verse xml:id="e25-m-788" n="1">
+                                 
+                                 <syl xml:id="e25-m-789" con="d" wordpos="i">nec</syl>
+                                 </verse>
+                              </note>
+                           
+                           <note xml:id="e25-m-783" dur="2" oct="3" pname="d" pnum="50">
+                              
+                              <verse xml:id="e25-m-790" n="1">
+                                 
+                                 <syl xml:id="e25-m-791" wordpos="t">res</syl>
+                                 </verse>
+                              </note>
+                           </layer>
+                        </staff>
+                     </measure>
+                  
+                  <measure xml:id="e25-m-792" n="20">
+                     
+                     <staff xml:id="e25-m-793" n="1">
+                        
+                        <layer xml:id="e25-m-794" n="1">
+                           
+                           <note xml:id="e25-m-795" dur="4" oct="4" pname="f" pnum="65">
+                              
+                              <verse xml:id="e25-m-805" n="1">
+                                 
+                                 <syl xml:id="e25-m-806" con="d" wordpos="m">li</syl>
+                                 </verse>
+                              </note>
+                           
+                           <note xml:id="e25-m-796" dots="1" dur="4" oct="4" pname="d" pnum="62">
+                              
+                              <verse xml:id="e25-m-807" n="1">
+                                 
+                                 <syl xml:id="e25-m-808" con="d" wordpos="m">e</syl>
+                                 </verse>
+                              </note>
+                           
+                           <note xml:id="e25-m-797" dur="8" oct="4" pname="e" pnum="64"></note>
+                           
+                           <note xml:id="e25-m-798" dur="4" oct="4" pname="f" pnum="65"></note>
+                           
+                           <note xml:id="e25-m-799" dur="2" oct="4" pname="g" pnum="67">
+                              
+                              <verse xml:id="e25-m-809" n="1">
+                                 
+                                 <syl xml:id="e25-m-810" wordpos="t">na</syl>
+                                 </verse>
+                              </note>
+                           
+                           <rest xml:id="e25-m-800" dur="4"></rest>
+                           
+                           <note xml:id="e25-m-801" dur="4" oct="4" pname="g" pnum="67">
+                              
+                              <verse xml:id="e25-m-887" n="1">
+                                 
+                                 <syl xml:id="e25-m-888" con="d" wordpos="i">ne</syl>
+                                 </verse>
+                              </note>
+                           </layer>
+                        </staff>
+                     
+                     <staff xml:id="e25-m-811" n="2">
+                        
+                        <layer xml:id="e25-m-812" n="1">
+                           
+                           <note xml:id="e25-m-813" dur="1" oct="3" pname="a" pnum="57">
+                              
+                              <verse xml:id="e25-m-818" n="1">
+                                 
+                                 <syl xml:id="e25-m-819" wordpos="i">fert</syl>
+                                 </verse>
+                              </note>
+                           
+                           <note xml:id="e25-m-814" dur="2" oct="3" pname="b" pnum="58">
+                              
+                              <accid xml:id="e25-m-815" accid.ges="f"></accid>
+                              
+                              <verse xml:id="e25-m-852" n="1">
+                                 
+                                 <syl xml:id="e25-m-853" con="d" wordpos="i">a</syl>
+                                 </verse>
+                              </note>
+                           
+                           <note xml:id="e25-m-816" dur="2" oct="3" pname="b" pnum="58">
+                              <!-- DELETED -->
+                              <!--
+        
+        this-pitch= 58 
+        last-pitch= 58
+        this-acc= f
+        last-acc= f-->
+                              
+                              <verse xml:id="e25-m-854" n="1">
+                                 
+                                 <syl xml:id="e25-m-855" con="d" wordpos="m">li</syl>
+                                 </verse>
+                              </note>
+                           </layer>
+                        </staff>
+                     
+                     <staff xml:id="e25-m-820" n="3">
+                        
+                        <layer xml:id="e25-m-821" n="1">
+                           
+                           <note xml:id="e25-m-822" dur="2" oct="3" pname="d" pnum="50">
+                              
+                              <verse xml:id="e25-m-830" n="1">
+                                 
+                                 <syl xml:id="e25-m-831" wordpos="i">fert</syl>
+                                 </verse>
+                              </note>
+                           
+                           <note xml:id="e25-m-823" dur="2" oct="3" pname="c" pnum="48">
+                              
+                              <verse xml:id="e25-m-875" n="1">
+                                 
+                                 <syl xml:id="e25-m-876" con="d" wordpos="i">a</syl>
+                                 </verse>
+                              </note>
+                           
+                           <note xml:id="e25-m-824" dur="4" oct="2" pname="b" pnum="46">
+                              
+                              <accid xml:id="e25-m-825" accid.ges="f"></accid>
+                              
+                              <verse xml:id="e25-m-877" n="1">
+                                 
+                                 <syl xml:id="e25-m-878" con="d" wordpos="m">li</syl>
+                                 </verse>
+                              </note>
+                           
+                           <note xml:id="e25-m-826" dots="1" dur="4" oct="2" pname="g" pnum="43">
+                              
+                              <verse xml:id="e25-m-879" n="1">
+                                 
+                                 <syl xml:id="e25-m-880" con="d" wordpos="m">e</syl>
+                                 </verse>
+                              </note>
+                           
+                           <note xml:id="e25-m-827" dur="8" oct="2" pname="a" pnum="45"></note>
+                           
+                           <note xml:id="e25-m-828" dur="4" oct="2" pname="b" pnum="46">
+                              
+                              <accid xml:id="e25-m-829" accid.ges="f"></accid>
+                              </note>
+                           </layer>
+                        </staff>
+                     
+                     <tie xml:id="e25-m-802" endid="#m-835" startid="#m-801"></tie>
+                     
+                     <tie xmlns:mei="http://www.music-encoding.org/ns/mei" startid="#e25-m-801" endid="#e25-m-835"></tie>
+                     </measure>
+                  
+                  <measure xml:id="e25-m-832" n="21">
+                     
+                     <staff xml:id="e25-m-833" n="1">
+                        
+                        <layer xml:id="e25-m-834" n="1">
+                           
+                           <note xmlns:mei="http://www.music-encoding.org/ns/mei" xml:id="e25-m-835" dur="4" oct="4" pname="g" pnum="67"></note>
+                           
+                           <beam xml:id="e25-m-838">
+                              
+                              <note xml:id="e25-m-836" dur="8" oct="4" pname="f" pnum="66">
+                                 
+                                 <accid xml:id="e25-m-837" accid="s"></accid>
+                                 </note>
+                              
+                              <note xml:id="e25-m-839" dur="8" oct="4" pname="e" pnum="64"></note>
+                              </beam>
+                           
+                           <note xml:id="e25-m-840" dur="4" oct="4" pname="f" pnum="66"></note>
+                           
+                           <beam xml:id="e25-m-843">
+                              
+                              <note xml:id="e25-m-842" dur="8" oct="4" pname="e" pnum="64"></note>
+                              
+                              <note xml:id="e25-m-844" dur="8" oct="4" pname="f" pnum="66"></note>
+                              </beam>
+                           
+                           <note xml:id="e25-m-846" dur="1" oct="4" pname="g" pnum="67"></note>
+                           </layer>
+                        </staff>
+                     
+                     <staff xml:id="e25-m-847" n="2">
+                        
+                        <layer xml:id="e25-m-848" n="1">
+                           
+                           <note xml:id="e25-m-849" dur="1" oct="3" pname="a" pnum="57">
+                              
+                              <verse xml:id="e25-m-856" n="1">
+                                 
+                                 <syl xml:id="e25-m-857" con="d" wordpos="m">e</syl>
+                                 </verse>
+                              </note>
+                           
+                           <note xml:id="e25-m-850" dur="2" oct="3" pname="g" pnum="55">
+                              
+                              <verse xml:id="e25-m-858" n="1">
+                                 
+                                 <syl xml:id="e25-m-859" wordpos="t">na</syl>
+                                 </verse>
+                              </note>
+                           
+                           <note xml:id="e25-m-851" dur="2" oct="3" pname="g" pnum="55">
+                              
+                              <verse xml:id="e25-m-894" n="1">
+                                 
+                                 <syl xml:id="e25-m-895" con="d" wordpos="i">ne</syl>
+                                 </verse>
+                              </note>
+                           </layer>
+                        </staff>
+                     
+                     <staff xml:id="e25-m-860" n="3">
+                        
+                        <layer xml:id="e25-m-861" n="1">
+                           
+                           <note xml:id="e25-m-862" dur="2" oct="3" pname="c" pnum="48">
+                              
+                              <verse xml:id="e25-m-881" n="1">
+                                 
+                                 <syl xml:id="e25-m-882" wordpos="t">na</syl>
+                                 </verse>
+                              </note>
+                           
+                           <rest xml:id="e25-m-863" dur="4"></rest>
+                           
+                           <note xml:id="e25-m-864" dur="2" oct="3" pname="c" pnum="48">
+                              
+                              <verse xml:id="e25-m-901" n="1">
+                                 
+                                 <syl xml:id="e25-m-902" con="d" wordpos="i">ne</syl>
+                                 </verse>
+                              </note>
+                           
+                           <beam xml:id="e25-m-867">
+                              
+                              <note xml:id="e25-m-865" dur="8" oct="2" pname="b" pnum="47">
+                                 
+                                 <accid xml:id="e25-m-866" accid="n"></accid>
+                                 </note>
+                              
+                              <note xml:id="e25-m-868" dur="8" oct="2" pname="a" pnum="45"></note>
+                              </beam>
+                           
+                           <note xml:id="e25-m-869" dur="4" oct="2" pname="b" pnum="47"></note>
+                           
+                           <beam xml:id="e25-m-872">
+                              
+                              <note xml:id="e25-m-871" dur="8" oct="2" pname="a" pnum="45"></note>
+                              
+                              <note xml:id="e25-m-873" dur="8" oct="2" pname="b" pnum="47"></note>
+                              </beam>
+                           </layer>
+                        </staff>
+                     </measure>
+                  
+                  <measure xml:id="e25-m-883" metcon="false" n="22" right="dbl" perf-dur="6">
+                     
+                     <staff xml:id="e25-m-884" n="1">
+                        
+                        <layer xml:id="e25-m-885" n="1">
+                           <!-- Original note -->
+                           <note xmlns:mei="http://www.music-encoding.org/ns/mei" dur="2" xml:id="e25-m-886" oct="4" pname="g" pnum="67" stem.dir="up"></note>
+                           <!-- Filler notes -->
+                           <note xmlns:mei="http://www.music-encoding.org/ns/mei" xml:id="d1e2442-FAKE-5" dur="2" pnum="65" class="fake-note-for-timing"></note>
+                           <note xmlns:mei="http://www.music-encoding.org/ns/mei" xml:id="d1e2442-FAKE-4" dur="2" pnum="65" class="fake-note-for-timing"></note>
+                           <note xmlns:mei="http://www.music-encoding.org/ns/mei" xml:id="d1e2442-FAKE-3" dur="2" pnum="65" class="fake-note-for-timing"></note>
+                           <note xmlns:mei="http://www.music-encoding.org/ns/mei" xml:id="d1e2442-FAKE-2" dur="2" pnum="65" class="fake-note-for-timing"></note>
+                           <note xmlns:mei="http://www.music-encoding.org/ns/mei" xml:id="d1e2442-FAKE-1" dur="2" pnum="65" class="fake-note-for-timing" match-end="e25-m-886"></note>
+                           </layer>
+                        </staff>
+                     
+                     <staff xml:id="e25-m-891" n="2">
+                        
+                        <layer xml:id="e25-m-892" n="1">
+                           <!-- Original note -->
+                           <note xmlns:mei="http://www.music-encoding.org/ns/mei" dur="2" xml:id="e25-m-893" oct="3" pname="g" pnum="55" stem.dir="up"></note>
+                           <!-- Filler notes -->
+                           <note xmlns:mei="http://www.music-encoding.org/ns/mei" xml:id="d1e2457-FAKE-5" dur="2" pnum="65" class="fake-note-for-timing"></note>
+                           <note xmlns:mei="http://www.music-encoding.org/ns/mei" xml:id="d1e2457-FAKE-4" dur="2" pnum="65" class="fake-note-for-timing"></note>
+                           <note xmlns:mei="http://www.music-encoding.org/ns/mei" xml:id="d1e2457-FAKE-3" dur="2" pnum="65" class="fake-note-for-timing"></note>
+                           <note xmlns:mei="http://www.music-encoding.org/ns/mei" xml:id="d1e2457-FAKE-2" dur="2" pnum="65" class="fake-note-for-timing"></note>
+                           <note xmlns:mei="http://www.music-encoding.org/ns/mei" xml:id="d1e2457-FAKE-1" dur="2" pnum="65" class="fake-note-for-timing" match-end="e25-m-893"></note>
+                           </layer>
+                        </staff>
+                     
+                     <staff xml:id="e25-m-898" n="3">
+                        
+                        <layer xml:id="e25-m-899" n="1">
+                           <!-- Original note -->
+                           <note xmlns:mei="http://www.music-encoding.org/ns/mei" dur="2" xml:id="e25-m-900" oct="3" pname="c" pnum="48" stem.dir="up"></note>
+                           <!-- Filler notes -->
+                           <note xmlns:mei="http://www.music-encoding.org/ns/mei" xml:id="d1e2472-FAKE-5" dur="2" pnum="65" class="fake-note-for-timing"></note>
+                           <note xmlns:mei="http://www.music-encoding.org/ns/mei" xml:id="d1e2472-FAKE-4" dur="2" pnum="65" class="fake-note-for-timing"></note>
+                           <note xmlns:mei="http://www.music-encoding.org/ns/mei" xml:id="d1e2472-FAKE-3" dur="2" pnum="65" class="fake-note-for-timing"></note>
+                           <note xmlns:mei="http://www.music-encoding.org/ns/mei" xml:id="d1e2472-FAKE-2" dur="2" pnum="65" class="fake-note-for-timing"></note>
+                           <note xmlns:mei="http://www.music-encoding.org/ns/mei" xml:id="d1e2472-FAKE-1" dur="2" pnum="65" class="fake-note-for-timing" match-end="e25-m-900"></note>
+                           </layer>
+                        </staff>
+                     </measure>
+                  
+                  <pb xml:id="e25-m-907" n="3"></pb>
+                  
+                  <sb xml:id="e25-m-906"></sb>
+                  
+                  <measure xml:id="e25-m-905" n="23">
+                     
+                     <staff xml:id="e25-m-908" n="1">
+                        
+                        <layer xml:id="e25-m-909" n="1">
+                           
+                           <rest xml:id="e25-m-910" dur="2"></rest>
+                           
+                           <note xml:id="e25-m-911" dur="4" oct="5" pname="d" pnum="74">
+                              
+                              <verse xml:id="e25-m-918" n="1">
+                                 
+                                 <syl xml:id="e25-m-919" con="d" wordpos="i">Phoe</syl>
+                                 </verse>
+                              </note>
+                           
+                           <note xml:id="e25-m-912" dur="4" oct="5" pname="c" pnum="72"></note>
+                           
+                           <note xml:id="e25-m-913" dur="4" oct="4" pname="b" pnum="71">
+                              
+                              <accid xml:id="e25-m-914" accid="n"></accid>
+                              </note>
+                           
+                           <note xml:id="e25-m-915" dur="4" oct="4" pname="a" pnum="69"></note>
+                           
+                           <note xml:id="e25-m-916" dur="2" oct="4" pname="b" pnum="71">
+                              
+                              <accid xml:id="e25-m-917" accid="n" func="caution"></accid>
+                              
+                              <verse xml:id="e25-m-920" n="1">
+                                 
+                                 <syl xml:id="e25-m-921" wordpos="t">bus</syl>
+                                 </verse>
+                              </note>
+                           </layer>
+                        </staff>
+                     
+                     <staff xml:id="e25-m-922" n="2">
+                        
+                        <layer xml:id="e25-m-923" n="1">
+                           
+                           <note xml:id="e25-m-924" dur="1" oct="4" pname="d" pnum="62">
+                              
+                              <verse xml:id="e25-m-926" n="1">
+                                 
+                                 <syl xml:id="e25-m-927" con="d" wordpos="i">Phoe</syl>
+                                 </verse>
+                              </note>
+                           
+                           <note xml:id="e25-m-925" dur="1" oct="4" pname="d" pnum="62">
+                              
+                              <verse xml:id="e25-m-928" n="1">
+                                 
+                                 <syl xml:id="e25-m-929" wordpos="t">bus</syl>
+                                 </verse>
+                              </note>
+                           </layer>
+                        </staff>
+                     
+                     <staff xml:id="e25-m-930" n="3">
+                        
+                        <layer xml:id="e25-m-931" n="1">
+                           
+                           <rest xml:id="e25-m-932" dur="1"></rest>
+                           
+                           <rest xml:id="e25-m-933" dur="2"></rest>
+                           
+                           <note xml:id="e25-m-934" dur="4" oct="3" pname="g" pnum="55">
+                              
+                              <verse xml:id="e25-m-959" n="1">
+                                 
+                                 <syl xml:id="e25-m-960" con="d" wordpos="i">Phoe</syl>
+                                 </verse>
+                              </note>
+                           
+                           <note xml:id="e25-m-935" dur="4" oct="3" pname="f" pnum="53"></note>
+                           </layer>
+                        </staff>
+                     </measure>
+                  
+                  <measure xml:id="e25-m-936" n="24">
+                     
+                     <staff xml:id="e25-m-937" n="1">
+                        
+                        <layer xml:id="e25-m-938" n="1">
+                           
+                           <rest xml:id="e25-m-939" dur="2"></rest>
+                           
+                           <note xml:id="e25-m-940" dur="1" oct="5" pname="c" pnum="72">
+                              
+                              <verse xml:id="e25-m-943" n="1">
+                                 
+                                 <syl xml:id="e25-m-944" wordpos="i">ei</syl>
+                                 </verse>
+                              </note>
+                           
+                           <note xml:id="e25-m-941" dur="2" oct="4" pname="b" pnum="70">
+                              
+                              <accid xml:id="e25-m-942" accid.ges="f"></accid>
+                              
+                              <verse xml:id="e25-m-975" n="1">
+                                 
+                                 <syl xml:id="e25-m-976" con="d" wordpos="i">fra</syl>
+                                 </verse>
+                              </note>
+                           </layer>
+                        </staff>
+                     
+                     <staff xml:id="e25-m-945" n="2">
+                        
+                        <layer xml:id="e25-m-946" n="1">
+                           
+                           <note xml:id="e25-m-947" dur="1" oct="4" pname="c" pnum="60">
+                              
+                              <verse xml:id="e25-m-949" n="1">
+                                 
+                                 <syl xml:id="e25-m-950" wordpos="i">ei</syl>
+                                 </verse>
+                              </note>
+                           
+                           <note xml:id="e25-m-948" dur="1" oct="4" pname="d" pnum="62">
+                              
+                              <verse xml:id="e25-m-990" n="1">
+                                 
+                                 <syl xml:id="e25-m-991" con="d" wordpos="i">fra</syl>
+                                 </verse>
+                              </note>
+                           </layer>
+                        </staff>
+                     
+                     <staff xml:id="e25-m-951" n="3">
+                        
+                        <layer xml:id="e25-m-952" n="1">
+                           
+                           <note xml:id="e25-m-953" dur="4" oct="3" pname="e" pnum="52"></note>
+                           
+                           <note xml:id="e25-m-954" dur="4" oct="3" pname="d" pnum="50"></note>
+                           
+                           <note xml:id="e25-m-955" dur="2" oct="3" pname="e" pnum="52">
+                              
+                              <verse xml:id="e25-m-961" n="1">
+                                 
+                                 <syl xml:id="e25-m-962" wordpos="t">bus</syl>
+                                 </verse>
+                              </note>
+                           
+                           <rest xml:id="e25-m-956" dur="2"></rest>
+                           
+                           <note xml:id="e25-m-957" dur="2" oct="3" pname="f" pnum="53">
+                              
+                              <verse xml:id="e25-m-963" n="1">
+                                 
+                                 <syl xml:id="e25-m-964" wordpos="i">ei</syl>
+                                 </verse>
+                              </note>
+                           </layer>
+                        </staff>
+                     
+                     <tie xml:id="e25-m-958" endid="#m-996" startid="#m-957"></tie>
+                     
+                     <tie xmlns:mei="http://www.music-encoding.org/ns/mei" startid="#e25-m-957" endid="#e25-m-996"></tie>
+                     </measure>
+                  
+                  <measure xml:id="e25-m-965" n="25">
+                     
+                     <staff xml:id="e25-m-966" n="1">
+                        
+                        <layer xml:id="e25-m-967" n="1">
+                           
+                           <note xml:id="e25-m-968" dur="2" oct="4" pname="a" pnum="69">
+                              
+                              <verse xml:id="e25-m-977" n="1">
+                                 
+                                 <syl xml:id="e25-m-978" wordpos="t">ter,</syl>
+                                 </verse>
+                              </note>
+                           
+                           <note xml:id="e25-m-969" dur="4" oct="4" pname="g" pnum="67">
+                              
+                              <verse xml:id="e25-m-979" n="1">
+                                 
+                                 <syl xml:id="e25-m-980" con="d" wordpos="i">so</syl>
+                                 </verse>
+                              </note>
+                           
+                           <note xml:id="e25-m-970" dur="4" oct="4" pname="a" pnum="69">
+                              
+                              <verse xml:id="e25-m-981" n="1">
+                                 
+                                 <syl xml:id="e25-m-982" wordpos="t">ror</syl>
+                                 </verse>
+                              </note>
+                           
+                           <note xml:id="e25-m-971" dots="1" dur="4" oct="4" pname="b" pnum="70">
+                              
+                              <accid xml:id="e25-m-972" accid.ges="f"></accid>
+                              
+                              <verse xml:id="e25-m-983" n="1">
+                                 
+                                 <syl xml:id="e25-m-984" wordpos="t" con="u">est</syl>
+                                 </verse>
+                              </note>
+                           
+                           <note xml:id="e25-m-973" dur="8" oct="4" pname="a" pnum="69"></note>
+                           
+                           <note xml:id="e25-m-974" dur="2" oct="4" pname="g" pnum="67"></note>
+                           </layer>
+                        </staff>
+                     
+                     <staff xml:id="e25-m-985" n="2">
+                        
+                        <layer xml:id="e25-m-986" n="1">
+                           
+                           <note xml:id="e25-m-987" dur="1" oct="4" pname="c" pnum="60">
+                              
+                              <verse xml:id="e25-m-992" n="1">
+                                 
+                                 <syl xml:id="e25-m-993" wordpos="t">ter,</syl>
+                                 </verse>
+                              </note>
+                           
+                           <note xml:id="e25-m-988" dur="1" oct="3" pname="b" pnum="58">
+                              
+                              <accid xml:id="e25-m-989" accid.ges="f"></accid>
+                              
+                              <verse xml:id="e25-m-1025" n="1">
+                                 
+                                 <syl xml:id="e25-m-1026" con="d" wordpos="i">so</syl>
+                                 </verse>
+                              </note>
+                           </layer>
+                        </staff>
+                     
+                     <staff xml:id="e25-m-994" n="3">
+                        
+                        <layer xml:id="e25-m-995" n="1">
+                           
+                           <note xmlns:mei="http://www.music-encoding.org/ns/mei" xml:id="e25-m-996" dur="2" oct="3" pname="f" pnum="53"></note>
+                           
+                           <note xml:id="e25-m-997" dur="2" oct="3" pname="e" pnum="51">
+                              
+                              <accid xml:id="e25-m-998" accid="f"></accid>
+                              
+                              <verse xml:id="e25-m-1002" n="1">
+                                 
+                                 <syl xml:id="e25-m-1003" con="d" wordpos="i">fra</syl>
+                                 </verse>
+                              </note>
+                           
+                           <note xml:id="e25-m-999" dur="2" oct="3" pname="d" pnum="50">
+                              
+                              <verse xml:id="e25-m-1004" n="1">
+                                 
+                                 <syl xml:id="e25-m-1005" wordpos="t">ter,</syl>
+                                 </verse>
+                              </note>
+                           
+                           <note xml:id="e25-m-1000" dur="4" oct="3" pname="c" pnum="48">
+                              
+                              <verse xml:id="e25-m-1006" n="1">
+                                 
+                                 <syl xml:id="e25-m-1007" con="d" wordpos="i">so</syl>
+                                 </verse>
+                              </note>
+                           
+                           <note xml:id="e25-m-1001" dur="4" oct="3" pname="d" pnum="50">
+                              
+                              <verse xml:id="e25-m-1008" n="1">
+                                 
+                                 <syl xml:id="e25-m-1009" wordpos="t">ror</syl>
+                                 </verse>
+                              </note>
+                           </layer>
+                        </staff>
+                     </measure>
+                  
+                  <measure xml:id="e25-m-1010" n="26">
+                     
+                     <staff xml:id="e25-m-1011" n="1">
+                        
+                        <layer xml:id="e25-m-1012" n="1">
+                           
+                           <rest xml:id="e25-m-1013" dur="2"></rest>
+                           
+                           <note xml:id="e25-m-1014" dur="2" oct="5" pname="c" pnum="72">
+                              
+                              <verse xml:id="e25-m-1018" n="1">
+                                 
+                                 <syl xml:id="e25-m-1019" wordpos="i">at</syl>
+                                 </verse>
+                              </note>
+                           
+                           <note xml:id="e25-m-1015" dur="2" oct="4" pname="b" pnum="70">
+                              
+                              <accid xml:id="e25-m-1016" accid.ges="f"></accid>
+                              
+                              <verse xml:id="e25-m-1054" n="1">
+                                 
+                                 <syl xml:id="e25-m-1055" con="d" wordpos="i">Cyn</syl>
+                                 </verse>
+                              </note>
+                           
+                           <note xml:id="e25-m-1017" dur="2" oct="4" pname="a" pnum="69">
+                              
+                              <verse xml:id="e25-m-1056" n="1">
+                                 
+                                 <syl xml:id="e25-m-1057" con="d" wordpos="m">thi</syl>
+                                 </verse>
+                              </note>
+                           </layer>
+                        </staff>
+                     
+                     <staff xml:id="e25-m-1020" n="2">
+                        
+                        <layer xml:id="e25-m-1021" n="1">
+                           
+                           <note xml:id="e25-m-1022" dur="1" oct="4" pname="c" pnum="60">
+                              
+                              <verse xml:id="e25-m-1027" n="1">
+                                 
+                                 <syl xml:id="e25-m-1028" wordpos="t">ror</syl>
+                                 </verse>
+                              </note>
+                           
+                           <note xml:id="e25-m-1023" dur="2" oct="4" pname="d" pnum="62">
+                              
+                              <verse xml:id="e25-m-1029" n="1">
+                                 
+                                 <syl xml:id="e25-m-1030" wordpos="t" con="u">est</syl>
+                                 </verse>
+                              </note>
+                           
+                           <note xml:id="e25-m-1024" dur="2" oct="4" pname="d" pnum="62">
+                              
+                              <verse xml:id="e25-m-1031" n="1">
+                                 
+                                 <syl xml:id="e25-m-1032" wordpos="i">at</syl>
+                                 </verse>
+                              </note>
+                           </layer>
+                        </staff>
+                     
+                     <staff xml:id="e25-m-1033" n="3">
+                        
+                        <layer xml:id="e25-m-1034" n="1">
+                           
+                           <note xml:id="e25-m-1035" dots="1" dur="4" oct="3" pname="e" pnum="51">
+                              
+                              <accid xml:id="e25-m-1036" accid="f"></accid>
+                              
+                              <verse xml:id="e25-m-1041" n="1">
+                                 
+                                 <syl xml:id="e25-m-1042" wordpos="t" con="u">est</syl>
+                                 </verse>
+                              </note>
+                           
+                           <note xml:id="e25-m-1037" dur="8" oct="3" pname="d" pnum="50"></note>
+                           
+                           <note xml:id="e25-m-1038" dur="2" oct="3" pname="c" pnum="48"></note>
+                           
+                           <rest xml:id="e25-m-1039" dur="2"></rest>
+                           
+                           <note xml:id="e25-m-1040" dur="2" oct="3" pname="f" pnum="53">
+                              
+                              <verse xml:id="e25-m-1043" n="1">
+                                 
+                                 <syl xml:id="e25-m-1044" wordpos="i">at</syl>
+                                 </verse>
+                              </note>
+                           </layer>
+                        </staff>
+                     </measure>
+                  
+                  <sb xml:id="e25-m-1046"></sb>
+                  
+                  <measure xml:id="e25-m-1045" n="27">
+                     
+                     <staff xml:id="e25-m-1047" n="1">
+                        
+                        <layer xml:id="e25-m-1048" n="1">
+                           
+                           <note xml:id="e25-m-1049" dur="2" oct="4" pname="g" pnum="67">
+                              
+                              <verse xml:id="e25-m-1058" n="1">
+                                 
+                                 <syl xml:id="e25-m-1059" wordpos="t">a,</syl>
+                                 </verse>
+                              </note>
+                           
+                           <note xml:id="e25-m-1050" dur="2" oct="4" pname="b" pnum="70">
+                              
+                              <accid xml:id="e25-m-1051" accid.ges="f"></accid>
+                              
+                              <verse xml:id="e25-m-1060" n="1">
+                                 
+                                 <syl xml:id="e25-m-1061" con="d" wordpos="i">Py</syl>
+                                 </verse>
+                              </note>
+                           
+                           <note xml:id="e25-m-1052" dur="2" oct="4" pname="a" pnum="69">
+                              
+                              <verse xml:id="e25-m-1062" n="1">
+                                 
+                                 <syl xml:id="e25-m-1063" wordpos="t">thon</syl>
+                                 </verse>
+                              </note>
+                           
+                           <note xml:id="e25-m-1053" dur="2" oct="5" pname="c" pnum="72">
+                              
+                              <verse xml:id="e25-m-1132" n="1">
+                                 
+                                 <syl xml:id="e25-m-1133" con="d" wordpos="i">Il</syl>
+                                 </verse>
+                              </note>
+                           </layer>
+                        </staff>
+                     
+                     <staff xml:id="e25-m-1064" n="2">
+                        
+                        <layer xml:id="e25-m-1065" n="1">
+                           
+                           <note xml:id="e25-m-1066" dur="1" oct="3" pname="b" pnum="58">
+                              
+                              <accid xml:id="e25-m-1067" accid.ges="f"></accid>
+                              
+                              <verse xml:id="e25-m-1070" n="1">
+                                 
+                                 <syl xml:id="e25-m-1071" con="d" wordpos="i">Cyn</syl>
+                                 </verse>
+                              </note>
+                           
+                           <note xml:id="e25-m-1068" dur="2" oct="4" pname="c" pnum="60">
+                              
+                              <verse xml:id="e25-m-1072" n="1">
+                                 
+                                 <syl xml:id="e25-m-1073" con="d" wordpos="m">thi</syl>
+                                 </verse>
+                              </note>
+                           
+                           <note xml:id="e25-m-1069" dur="2" oct="4" pname="c" pnum="60">
+                              
+                              <verse xml:id="e25-m-1074" n="1">
+                                 
+                                 <syl xml:id="e25-m-1075" wordpos="t">a,</syl>
+                                 </verse>
+                              </note>
+                           </layer>
+                        </staff>
+                     
+                     <staff xml:id="e25-m-1076" n="3">
+                        
+                        <layer xml:id="e25-m-1077" n="1">
+                           
+                           <note xml:id="e25-m-1078" dur="2" oct="3" pname="e" pnum="51">
+                              
+                              <accid xml:id="e25-m-1079" accid="f"></accid>
+                              
+                              <verse xml:id="e25-m-1084" n="1">
+                                 
+                                 <syl xml:id="e25-m-1085" con="d" wordpos="i">Cyn</syl>
+                                 </verse>
+                              </note>
+                           
+                           <note xml:id="e25-m-1080" dur="2" oct="3" pname="d" pnum="50">
+                              
+                              <verse xml:id="e25-m-1086" n="1">
+                                 
+                                 <syl xml:id="e25-m-1087" con="d" wordpos="m">thi</syl>
+                                 </verse>
+                              </note>
+                           
+                           <note xml:id="e25-m-1081" dur="2" oct="3" pname="c" pnum="48">
+                              
+                              <verse xml:id="e25-m-1088" n="1">
+                                 
+                                 <syl xml:id="e25-m-1089" wordpos="t">a,</syl>
+                                 </verse>
+                              </note>
+                           
+                           <note xml:id="e25-m-1082" dur="2" oct="3" pname="e" pnum="51">
+                              
+                              <accid xml:id="e25-m-1083" accid="f" func="caution"></accid>
+                              
+                              <verse xml:id="e25-m-1119" n="1">
+                                 
+                                 <syl xml:id="e25-m-1120" con="d" wordpos="i">Py</syl>
+                                 </verse>
+                              </note>
+                           </layer>
+                        </staff>
+                     
+                     <tie xmlns:mei="http://www.music-encoding.org/ns/mei" startid="#e25-m-1053" endid="#e25-m-1093"></tie>
+                     </measure>
+                  
+                  <measure xml:id="e25-m-1090" n="28">
+                     
+                     <staff xml:id="e25-m-1091" n="1">
+                        
+                        <layer xml:id="e25-m-1092" n="1">
+                           
+                           <note xmlns:mei="http://www.music-encoding.org/ns/mei" xml:id="e25-m-1093" dur="4" oct="5" pname="c" pnum="72"></note>
+                           
+                           <note xml:id="e25-m-1094" dur="4" oct="4" pname="b" pnum="70">
+                              
+                              <accid xml:id="e25-m-1095" accid.ges="f"></accid>
+                              </note>
+                           
+                           <note xml:id="e25-m-1096" dur="4" oct="4" pname="a" pnum="69"></note>
+                           
+                           <note xml:id="e25-m-1097" dur="4" oct="4" pname="g" pnum="67"></note>
+                           
+                           <note xml:id="e25-m-1098" dur="4" oct="4" pname="f" pnum="65"></note>
+                           
+                           <note xml:id="e25-m-1099" dur="2" oct="4" pname="g" pnum="67"></note>
+                           
+                           <note xml:id="e25-m-1100" dur="4" oct="4" pname="f" pnum="66">
+                              
+                              <accid xml:id="e25-m-1101" accid="s"></accid>
+                              </note>
+                           </layer>
+                        </staff>
+                     
+                     <staff xml:id="e25-m-1102" n="2">
+                        
+                        <layer xml:id="e25-m-1103" n="1">
+                           
+                           <note xml:id="e25-m-1104" dur="2" oct="4" pname="d" pnum="62">
+                              
+                              <verse xml:id="e25-m-1107" n="1">
+                                 
+                                 <syl xml:id="e25-m-1108" con="d" wordpos="i">Py</syl>
+                                 </verse>
+                              </note>
+                           
+                           <note xml:id="e25-m-1105" dur="2" oct="4" pname="d" pnum="62">
+                              
+                              <verse xml:id="e25-m-1109" n="1">
+                                 
+                                 <syl xml:id="e25-m-1110" wordpos="t">thon</syl>
+                                 </verse>
+                              </note>
+                           
+                           <note xml:id="e25-m-1106" dur="1" oct="3" pname="a" pnum="57">
+                              
+                              <verse xml:id="e25-m-1142" n="1">
+                                 
+                                 <syl xml:id="e25-m-1143" con="d" wordpos="i">Il</syl>
+                                 </verse>
+                              </note>
+                           </layer>
+                        </staff>
+                     
+                     <staff xml:id="e25-m-1111" n="3">
+                        
+                        <layer xml:id="e25-m-1112" n="1">
+                           
+                           <note xml:id="e25-m-1113" dur="2" oct="3" pname="d" pnum="50">
+                              
+                              <verse xml:id="e25-m-1121" n="1">
+                                 
+                                 <syl xml:id="e25-m-1122" wordpos="t">thon</syl>
+                                 </verse>
+                              </note>
+                           
+                           <note xml:id="e25-m-1114" dots="1" dur="2" oct="3" pname="f" pnum="53">
+                              
+                              <verse xml:id="e25-m-1157" n="1">
+                                 
+                                 <syl xml:id="e25-m-1158" con="d" wordpos="i">Il</syl>
+                                 </verse>
+                              </note>
+                           
+                           <note xml:id="e25-m-1115" dur="4" oct="3" pname="e" pnum="51">
+                              
+                              <accid xml:id="e25-m-1116" accid="f"></accid>
+                              </note>
+                           
+                           <note xml:id="e25-m-1117" dur="4" oct="3" pname="d" pnum="50"></note>
+                           
+                           <note xml:id="e25-m-1118" dur="4" oct="3" pname="c" pnum="48"></note>
+                           </layer>
+                        </staff>
+                     </measure>
+                  
+                  <measure xml:id="e25-m-1123" n="29">
+                     
+                     <staff xml:id="e25-m-1124" n="1">
+                        
+                        <layer xml:id="e25-m-1125" n="1">
+                           
+                           <note xml:id="e25-m-1126" dur="2" oct="4" pname="g" pnum="67">
+                              
+                              <verse xml:id="e25-m-1134" n="1">
+                                 
+                                 <syl xml:id="e25-m-1135" wordpos="t">lâ,</syl>
+                                 </verse>
+                              </note>
+                           
+                           <note xml:id="e25-m-1127" dur="2" oct="4" pname="g" pnum="67">
+                              
+                              <verse xml:id="e25-m-1136" n="1">
+                                 
+                                 <syl xml:id="e25-m-1137" wordpos="i">ast</syl>
+                                 </verse>
+                              </note>
+                           
+                           <note xml:id="e25-m-1128" dots="1" dur="2" oct="4" pname="e" pnum="64">
+                              
+                              <verse xml:id="e25-m-1171" n="1">
+                                 
+                                 <syl xml:id="e25-m-1172" con="d" wordpos="i">O</syl>
+                                 </verse>
+                              </note>
+                           
+                           <beam xml:id="e25-m-1130">
+                              
+                              <note xml:id="e25-m-1129" dur="8" oct="4" pname="f" pnum="65"></note>
+                              
+                              <note xml:id="e25-m-1131" dur="8" oct="4" pname="g" pnum="67"></note>
+                              </beam>
+                           </layer>
+                        </staff>
+                     
+                     <staff xml:id="e25-m-1138" n="2">
+                        
+                        <layer xml:id="e25-m-1139" n="1">
+                           
+                           <note xml:id="e25-m-1140" dur="1" oct="3" pname="g" pnum="55">
+                              
+                              <verse xml:id="e25-m-1144" n="1">
+                                 
+                                 <syl xml:id="e25-m-1145" wordpos="t">lâ,</syl>
+                                 </verse>
+                              </note>
+                           
+                           <note xml:id="e25-m-1141" dur="1" oct="3" pname="a" pnum="57">
+                              
+                              <verse xml:id="e25-m-1146" n="1">
+                                 
+                                 <syl xml:id="e25-m-1147" wordpos="i">ast</syl>
+                                 </verse>
+                              </note>
+                           </layer>
+                        </staff>
+                     
+                     <staff xml:id="e25-m-1148" n="3">
+                        
+                        <layer xml:id="e25-m-1149" n="1">
+                           
+                           <note xml:id="e25-m-1150" dur="4" oct="2" pname="b" pnum="47">
+                              
+                              <accid xml:id="e25-m-1151" accid="n"></accid>
+                              </note>
+                           
+                           <note xml:id="e25-m-1152" dur="2" oct="3" pname="c" pnum="48"></note>
+                           
+                           <note xml:id="e25-m-1153" dur="4" oct="2" pname="b" pnum="47"></note>
+                           
+                           <note xml:id="e25-m-1155" dur="2" oct="3" pname="c" pnum="48">
+                              
+                              <verse xml:id="e25-m-1159" n="1">
+                                 
+                                 <syl xml:id="e25-m-1160" wordpos="t">lâ,</syl>
+                                 </verse>
+                              </note>
+                           
+                           <note xml:id="e25-m-1156" dur="2" oct="3" pname="c" pnum="48">
+                              
+                              <verse xml:id="e25-m-1161" n="1">
+                                 
+                                 <syl xml:id="e25-m-1162" wordpos="i">ast</syl>
+                                 </verse>
+                              </note>
+                           </layer>
+                        </staff>
+                     </measure>
+                  
+                  <sb xml:id="e25-m-1164"></sb>
+                  
+                  <measure xml:id="e25-m-1163" n="30">
+                     
+                     <staff xml:id="e25-m-1165" n="1">
+                        
+                        <layer xml:id="e25-m-1166" n="1">
+                           
+                           <note xml:id="e25-m-1167" dur="2" oct="4" pname="a" pnum="69">
+                              
+                              <verse xml:id="e25-m-1173" n="1">
+                                 
+                                 <syl xml:id="e25-m-1174" con="d" wordpos="m">ri</syl>
+                                 </verse>
+                              </note>
+                           
+                           <note xml:id="e25-m-1168" dur="2" oct="4" pname="a" pnum="69">
+                              
+                              <verse xml:id="e25-m-1175" n="1">
+                                 
+                                 <syl xml:id="e25-m-1176" wordpos="t">on</syl>
+                                 </verse>
+                              </note>
+                           
+                           <note xml:id="e25-m-1169" dur="2" oct="4" pname="a" pnum="69">
+                              
+                              <verse xml:id="e25-m-1177" n="1">
+                                 
+                                 <syl xml:id="e25-m-1178" wordpos="i">hac</syl>
+                                 </verse>
+                              </note>
+                           
+                           <note xml:id="e25-m-1170" dur="2" oct="4" pname="g" pnum="67">
+                              
+                              <verse xml:id="e25-m-1217" n="1">
+                                 
+                                 <syl xml:id="e25-m-1218" con="d" wordpos="i">ce</syl>
+                                 </verse>
+                              </note>
+                           </layer>
+                        </staff>
+                     
+                     <staff xml:id="e25-m-1179" n="2">
+                        
+                        <layer xml:id="e25-m-1180" n="1">
+                           
+                           <note xml:id="e25-m-1181" dur="2" oct="4" pname="c" pnum="60">
+                              
+                              <verse xml:id="e25-m-1185" n="1">
+                                 
+                                 <syl xml:id="e25-m-1186" con="d" wordpos="i">O</syl>
+                                 </verse>
+                              </note>
+                           
+                           <note xml:id="e25-m-1182" dur="2" oct="4" pname="c" pnum="60">
+                              
+                              <verse xml:id="e25-m-1187" n="1">
+                                 
+                                 <syl xml:id="e25-m-1188" con="d" wordpos="m">ri</syl>
+                                 </verse>
+                              </note>
+                           
+                           <note xml:id="e25-m-1183" dur="1" oct="3" pname="b" pnum="58">
+                              
+                              <accid xml:id="e25-m-1184" accid.ges="f"></accid>
+                              
+                              <verse xml:id="e25-m-1189" n="1">
+                                 
+                                 <syl xml:id="e25-m-1190" wordpos="t">on</syl>
+                                 </verse>
+                              </note>
+                           </layer>
+                        </staff>
+                     
+                     <staff xml:id="e25-m-1191" n="3">
+                        
+                        <layer xml:id="e25-m-1192" n="1">
+                           
+                           <note xml:id="e25-m-1193" dots="1" dur="2" oct="2" pname="a" pnum="45">
+                              
+                              <verse xml:id="e25-m-1200" n="1">
+                                 
+                                 <syl xml:id="e25-m-1201" con="d" wordpos="i">O</syl>
+                                 </verse>
+                              </note>
+                           
+                           <beam xml:id="e25-m-1196">
+                              
+                              <note xml:id="e25-m-1194" dur="8" oct="2" pname="b" pnum="46">
+                                 
+                                 <accid xml:id="e25-m-1195" accid.ges="f"></accid>
+                                 </note>
+                              
+                              <note xml:id="e25-m-1197" dur="8" oct="3" pname="c" pnum="48"></note>
+                              </beam>
+                           
+                           <note xml:id="e25-m-1198" dur="2" oct="3" pname="d" pnum="50">
+                              
+                              <verse xml:id="e25-m-1202" n="1">
+                                 
+                                 <syl xml:id="e25-m-1203" con="d" wordpos="m">ri</syl>
+                                 </verse>
+                              </note>
+                           
+                           <note xml:id="e25-m-1199" dur="2" oct="3" pname="d" pnum="50">
+                              
+                              <verse xml:id="e25-m-1204" n="1">
+                                 
+                                 <syl xml:id="e25-m-1205" wordpos="t">on</syl>
+                                 </verse>
+                              </note>
+                           </layer>
+                        </staff>
+                     </measure>
+                  
+                  <measure xml:id="e25-m-1206" n="31">
+                     
+                     <staff xml:id="e25-m-1207" n="1">
+                        
+                        <layer xml:id="e25-m-1208" n="1">
+                           
+                           <note xml:id="e25-m-1209" dur="4" oct="4" pname="f" pnum="65">
+                              
+                              <verse xml:id="e25-m-1219" n="1">
+                                 
+                                 <syl xml:id="e25-m-1220" con="d" wordpos="m">ci</syl>
+                                 </verse>
+                              </note>
+                           
+                           <note xml:id="e25-m-1210" dots="1" dur="4" oct="4" pname="d" pnum="62">
+                              
+                              <verse xml:id="e25-m-1221" n="1">
+                                 
+                                 <syl xml:id="e25-m-1222" con="d" wordpos="m">dê</syl>
+                                 </verse>
+                              </note>
+                           
+                           <note xml:id="e25-m-1211" dur="8" oct="4" pname="e" pnum="64"></note>
+                           
+                           <note xml:id="e25-m-1212" dur="4" oct="4" pname="f" pnum="65"></note>
+                           
+                           <note xml:id="e25-m-1213" dur="2" oct="4" pname="g" pnum="67">
+                              
+                              <verse xml:id="e25-m-1223" n="1">
+                                 
+                                 <syl xml:id="e25-m-1224" wordpos="t">re</syl>
+                                 </verse>
+                              </note>
+                           
+                           <rest xml:id="e25-m-1214" dur="4"></rest>
+                           
+                           <note xml:id="e25-m-1215" dur="4" oct="4" pname="g" pnum="67">
+                              
+                              <verse xml:id="e25-m-1301" n="1">
+                                 
+                                 <syl xml:id="e25-m-1302" con="d" wordpos="i">ma</syl>
+                                 </verse>
+                              </note>
+                           </layer>
+                        </staff>
+                     
+                     <staff xml:id="e25-m-1225" n="2">
+                        
+                        <layer xml:id="e25-m-1226" n="1">
+                           
+                           <note xml:id="e25-m-1227" dur="1" oct="3" pname="a" pnum="57">
+                              
+                              <verse xml:id="e25-m-1232" n="1">
+                                 
+                                 <syl xml:id="e25-m-1233" wordpos="i">hac</syl>
+                                 </verse>
+                              </note>
+                           
+                           <note xml:id="e25-m-1228" dur="2" oct="3" pname="b" pnum="58">
+                              
+                              <accid xml:id="e25-m-1229" accid.ges="f"></accid>
+                              
+                              <verse xml:id="e25-m-1266" n="1">
+                                 
+                                 <syl xml:id="e25-m-1267" con="d" wordpos="i">ce</syl>
+                                 </verse>
+                              </note>
+                           
+                           <note xml:id="e25-m-1230" dur="2" oct="3" pname="b" pnum="58">
+                              <!-- DELETED -->
+                              <!--
+        
+        this-pitch= 58 
+        last-pitch= 58
+        this-acc= f
+        last-acc= f-->
+                              
+                              <verse xml:id="e25-m-1268" n="1">
+                                 
+                                 <syl xml:id="e25-m-1269" con="d" wordpos="m">ci</syl>
+                                 </verse>
+                              </note>
+                           </layer>
+                        </staff>
+                     
+                     <staff xml:id="e25-m-1234" n="3">
+                        
+                        <layer xml:id="e25-m-1235" n="1">
+                           
+                           <note xml:id="e25-m-1236" dur="2" oct="3" pname="d" pnum="50">
+                              
+                              <verse xml:id="e25-m-1244" n="1">
+                                 
+                                 <syl xml:id="e25-m-1245" wordpos="i">hac</syl>
+                                 </verse>
+                              </note>
+                           
+                           <note xml:id="e25-m-1237" dur="2" oct="3" pname="c" pnum="48">
+                              
+                              <verse xml:id="e25-m-1289" n="1">
+                                 
+                                 <syl xml:id="e25-m-1290" con="d" wordpos="i">ce</syl>
+                                 </verse>
+                              </note>
+                           
+                           <note xml:id="e25-m-1238" dur="4" oct="2" pname="b" pnum="46">
+                              
+                              <accid xml:id="e25-m-1239" accid.ges="f"></accid>
+                              
+                              <verse xml:id="e25-m-1291" n="1">
+                                 
+                                 <syl xml:id="e25-m-1292" con="d" wordpos="m">ci</syl>
+                                 </verse>
+                              </note>
+                           
+                           <note xml:id="e25-m-1240" dots="1" dur="4" oct="2" pname="g" pnum="43">
+                              
+                              <verse xml:id="e25-m-1293" n="1">
+                                 
+                                 <syl xml:id="e25-m-1294" con="d" wordpos="m">dê</syl>
+                                 </verse>
+                              </note>
+                           
+                           <note xml:id="e25-m-1241" dur="8" oct="2" pname="a" pnum="45"></note>
+                           
+                           <note xml:id="e25-m-1242" dur="4" oct="2" pname="b" pnum="46">
+                              
+                              <accid xml:id="e25-m-1243" accid.ges="f"></accid>
+                              </note>
+                           </layer>
+                        </staff>
+                     
+                     <tie xml:id="e25-m-1216" endid="#m-1249" startid="#m-1215"></tie>
+                     
+                     <tie xmlns:mei="http://www.music-encoding.org/ns/mei" startid="#e25-m-1215" endid="#e25-m-1249"></tie>
+                     </measure>
+                  
+                  <measure xml:id="e25-m-1246" n="32">
+                     
+                     <staff xml:id="e25-m-1247" n="1">
+                        
+                        <layer xml:id="e25-m-1248" n="1">
+                           
+                           <note xmlns:mei="http://www.music-encoding.org/ns/mei" xml:id="e25-m-1249" dur="4" oct="4" pname="g" pnum="67"></note>
+                           
+                           <beam xml:id="e25-m-1252">
+                              
+                              <note xml:id="e25-m-1250" dur="8" oct="4" pname="f" pnum="66">
+                                 
+                                 <accid xml:id="e25-m-1251" accid="s"></accid>
+                                 </note>
+                              
+                              <note xml:id="e25-m-1253" dur="8" oct="4" pname="e" pnum="64"></note>
+                              </beam>
+                           
+                           <note xml:id="e25-m-1254" dur="4" oct="4" pname="f" pnum="66"></note>
+                           
+                           <beam xml:id="e25-m-1257">
+                              
+                              <note xml:id="e25-m-1256" dur="8" oct="4" pname="e" pnum="64"></note>
+                              
+                              <note xml:id="e25-m-1258" dur="8" oct="4" pname="f" pnum="66"></note>
+                              </beam>
+                           
+                           <note xml:id="e25-m-1260" dur="1" oct="4" pname="g" pnum="67"></note>
+                           </layer>
+                        </staff>
+                     
+                     <staff xml:id="e25-m-1261" n="2">
+                        
+                        <layer xml:id="e25-m-1262" n="1">
+                           
+                           <note xml:id="e25-m-1263" dur="1" oct="3" pname="a" pnum="57">
+                              
+                              <verse xml:id="e25-m-1270" n="1">
+                                 
+                                 <syl xml:id="e25-m-1271" con="d" wordpos="m">dê</syl>
+                                 </verse>
+                              </note>
+                           
+                           <note xml:id="e25-m-1264" dur="2" oct="3" pname="g" pnum="55">
+                              
+                              <verse xml:id="e25-m-1272" n="1">
+                                 
+                                 <syl xml:id="e25-m-1273" wordpos="t">re</syl>
+                                 </verse>
+                              </note>
+                           
+                           <note xml:id="e25-m-1265" dur="2" oct="3" pname="g" pnum="55">
+                              
+                              <verse xml:id="e25-m-1308" n="1">
+                                 
+                                 <syl xml:id="e25-m-1309" con="d" wordpos="i">ma</syl>
+                                 </verse>
+                              </note>
+                           </layer>
+                        </staff>
+                     
+                     <staff xml:id="e25-m-1274" n="3">
+                        
+                        <layer xml:id="e25-m-1275" n="1">
+                           
+                           <note xml:id="e25-m-1276" dur="2" oct="3" pname="c" pnum="48">
+                              
+                              <verse xml:id="e25-m-1295" n="1">
+                                 
+                                 <syl xml:id="e25-m-1296" wordpos="t">re</syl>
+                                 </verse>
+                              </note>
+                           
+                           <rest xml:id="e25-m-1277" dur="4"></rest>
+                           
+                           <note xml:id="e25-m-1278" dur="2" oct="3" pname="c" pnum="48">
+                              
+                              <verse xml:id="e25-m-1315" n="1">
+                                 
+                                 <syl xml:id="e25-m-1316" con="d" wordpos="i">ma</syl>
+                                 </verse>
+                              </note>
+                           
+                           <beam xml:id="e25-m-1281">
+                              
+                              <note xml:id="e25-m-1279" dur="8" oct="2" pname="b" pnum="47">
+                                 
+                                 <accid xml:id="e25-m-1280" accid="n"></accid>
+                                 </note>
+                              
+                              <note xml:id="e25-m-1282" dur="8" oct="2" pname="a" pnum="45"></note>
+                              </beam>
+                           
+                           <note xml:id="e25-m-1283" dur="4" oct="2" pname="b" pnum="47"></note>
+                           
+                           <beam xml:id="e25-m-1286">
+                              
+                              <note xml:id="e25-m-1285" dur="8" oct="2" pname="a" pnum="45"></note>
+                              
+                              <note xml:id="e25-m-1287" dur="8" oct="2" pname="b" pnum="47"></note>
+                              </beam>
+                           </layer>
+                        </staff>
+                     </measure>
+                  
+                  <measure xml:id="e25-m-1297" metcon="false" n="33" right="end" perf-dur="6">
+                     
+                     <staff xml:id="e25-m-1298" n="1">
+                        
+                        <layer xml:id="e25-m-1299" n="1">
+                           <!-- Original note -->
+                           <note xmlns:mei="http://www.music-encoding.org/ns/mei" dur="2" xml:id="e25-m-1300" oct="4" pname="g" pnum="67" stem.dir="up"></note>
+                           <!-- Filler notes -->
+                           <note xmlns:mei="http://www.music-encoding.org/ns/mei" xml:id="d1e3612-FAKE-5" dur="2" pnum="65" class="fake-note-for-timing"></note>
+                           <note xmlns:mei="http://www.music-encoding.org/ns/mei" xml:id="d1e3612-FAKE-4" dur="2" pnum="65" class="fake-note-for-timing"></note>
+                           <note xmlns:mei="http://www.music-encoding.org/ns/mei" xml:id="d1e3612-FAKE-3" dur="2" pnum="65" class="fake-note-for-timing"></note>
+                           <note xmlns:mei="http://www.music-encoding.org/ns/mei" xml:id="d1e3612-FAKE-2" dur="2" pnum="65" class="fake-note-for-timing"></note>
+                           <note xmlns:mei="http://www.music-encoding.org/ns/mei" xml:id="d1e3612-FAKE-1" dur="2" pnum="65" class="fake-note-for-timing" match-end="e25-m-1300"></note>
+                           </layer>
+                        </staff>
+                     
+                     <staff xml:id="e25-m-1305" n="2">
+                        
+                        <layer xml:id="e25-m-1306" n="1">
+                           <!-- Original note -->
+                           <note xmlns:mei="http://www.music-encoding.org/ns/mei" dur="2" xml:id="e25-m-1307" oct="3" pname="g" pnum="55" stem.dir="up"></note>
+                           <!-- Filler notes -->
+                           <note xmlns:mei="http://www.music-encoding.org/ns/mei" xml:id="d1e3627-FAKE-5" dur="2" pnum="65" class="fake-note-for-timing"></note>
+                           <note xmlns:mei="http://www.music-encoding.org/ns/mei" xml:id="d1e3627-FAKE-4" dur="2" pnum="65" class="fake-note-for-timing"></note>
+                           <note xmlns:mei="http://www.music-encoding.org/ns/mei" xml:id="d1e3627-FAKE-3" dur="2" pnum="65" class="fake-note-for-timing"></note>
+                           <note xmlns:mei="http://www.music-encoding.org/ns/mei" xml:id="d1e3627-FAKE-2" dur="2" pnum="65" class="fake-note-for-timing"></note>
+                           <note xmlns:mei="http://www.music-encoding.org/ns/mei" xml:id="d1e3627-FAKE-1" dur="2" pnum="65" class="fake-note-for-timing" match-end="e25-m-1307"></note>
+                           </layer>
+                        </staff>
+                     
+                     <staff xml:id="e25-m-1312" n="3">
+                        
+                        <layer xml:id="e25-m-1313" n="1">
+                           <!-- Original note -->
+                           <note xmlns:mei="http://www.music-encoding.org/ns/mei" dur="2" xml:id="e25-m-1314" oct="3" pname="c" pnum="48" stem.dir="up"></note>
+                           <!-- Filler notes -->
+                           <note xmlns:mei="http://www.music-encoding.org/ns/mei" xml:id="d1e3642-FAKE-5" dur="2" pnum="65" class="fake-note-for-timing"></note>
+                           <note xmlns:mei="http://www.music-encoding.org/ns/mei" xml:id="d1e3642-FAKE-4" dur="2" pnum="65" class="fake-note-for-timing"></note>
+                           <note xmlns:mei="http://www.music-encoding.org/ns/mei" xml:id="d1e3642-FAKE-3" dur="2" pnum="65" class="fake-note-for-timing"></note>
+                           <note xmlns:mei="http://www.music-encoding.org/ns/mei" xml:id="d1e3642-FAKE-2" dur="2" pnum="65" class="fake-note-for-timing"></note>
+                           <note xmlns:mei="http://www.music-encoding.org/ns/mei" xml:id="d1e3642-FAKE-1" dur="2" pnum="65" class="fake-note-for-timing" match-end="e25-m-1314"></note>
+                           </layer>
+                        </staff>
+                     </measure>
+                  </section>
+               </score>
+            </mdiv>
+         </body>
+      </music>
+   </mei>
